@@ -9,9 +9,12 @@ A curlated list of resources for learning about data mining, data analytics, mac
 - [Apache Spark: A Unified Engine for Big Data Processing](http://cacm.acm.org/magazines/2016/11/209116-apache-spark/fulltext)
 - [Using Apache Spark to Analyze Large Neuroimaging Datasets](https://blog.dominodatalab.com/pca-on-very-large-neuroimaging-datasets-using-pyspark/). August 2016.
 - [Apache Spark @Scale: A 60 TB+ production use case](https://code.facebook.com/posts/1671373793181703/apache-spark-scale-a-60-tb-production-use-case/)). August 2016.
+- [Big Data Processing with Apache Spark – Part 1: Introduction](https://www.infoq.com/articles/apache-spark-introduction)\
+- [Intro to Apache Spark](https://stanford.edu/~rezab/sparkclass/slides/itas_workshop.pdf)
 
 ### Videos
 - [Apache Spark: A Unified Engine for Big Data Processing](https://vimeo.com/185645796)
+- [Spark Summit 2013 - The State of Spark, and Where We're Going Next - Matei Zaharia](https://www.youtube.com/watch?v=nU6vO2EJAb4&feature=youtu.be)
 
 
 ## Use cases 
