@@ -2,19 +2,49 @@
 A curlated list of resources for learning about data mining, data analytics, machine learning, and big data.
 
 
+## MapRduce
+
+- [Python Course: Lambda, filter, reduce and map](http://www.python-course.eu/lambda.php)
+
 	
 ## [Apache Spark](http://spark.apache.org/)
 
-### Articles
+### Books
+- [Learning Spark: Lightning-Fast Big Data Analysis](http://shop.oreilly.com/product/0636920028512.do)
+  - [4. Working with Key/Value Pairs](https://www.safaribooksonline.com/library/view/learning-spark/9781449359034/ch04.html)
+- [Advanced Analytics with Spark: Patterns for Learning from Data at Scale](http://shop.oreilly.com/product/0636920035091.do)
+
+### Courses
+- [edX: Big Data Analysis with Apache Spark](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x)
+
+### Conferences
+- [Spark Summit](https://spark-summit.org/)
+  - [Spark Training](https://spark-summit.org/east-2016/spark-training/)
+
+### Articles/Blogs
+- [Quora: How do I learn Apache Spark?](https://www.quora.com/How-do-I-learn-Apache-Spark)
 - [Apache Spark: A Unified Engine for Big Data Processing](http://cacm.acm.org/magazines/2016/11/209116-apache-spark/fulltext)
 - [Using Apache Spark to Analyze Large Neuroimaging Datasets](https://blog.dominodatalab.com/pca-on-very-large-neuroimaging-datasets-using-pyspark/). August 2016.
 - [Apache Spark @Scale: A 60 TB+ production use case](https://code.facebook.com/posts/1671373793181703/apache-spark-scale-a-60-tb-production-use-case/)). August 2016.
 - [Big Data Processing with Apache Spark – Part 1: Introduction](https://www.infoq.com/articles/apache-spark-introduction)\
 - [Intro to Apache Spark](https://stanford.edu/~rezab/sparkclass/slides/itas_workshop.pdf)
+- [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
+- [A Powerful Big Data Trio: Spark, Parquet and Avro](http://zenfractal.com/2013/08/21/a-powerful-big-data-trio/)
+- [Interactive Analysis](http://ampcamp.berkeley.edu/big-data-mini-course/data-exploration-using-spark.html)
+- [The RDD API by example](http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html)
+- [Why Apache Spark is a Crossover Hit for Data Scientists](http://blog.cloudera.com/blog/2014/03/why-apache-spark-is-a-crossover-hit-for-data-scientists/)
+- [Building a food recommendation engine with Spark / MLlib and Play](https://chimpler.wordpress.com/2014/07/22/building-a-food-recommendation-engine-with-spark-mllib-and-play/)]
+- [Movie Recommendations and More With Spark](http://mlnick.github.io/blog/2013/04/01/movie-recommendations-and-more-with-spark/)
 
 ### Videos
 - [Apache Spark: A Unified Engine for Big Data Processing](https://vimeo.com/185645796)
 - [Spark Summit 2013 - The State of Spark, and Where We're Going Next - Matei Zaharia](https://www.youtube.com/watch?v=nU6vO2EJAb4&feature=youtu.be)
+- [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/zaharia)
+- [First Steps with Spark - Screencast #1](http://spark.apache.org/screencasts/1-first-steps-with-spark.html)
+- [Spark Documentation Overview – Screencast #2](http://spark.apache.org/screencasts/2-spark-documentation-overview.html)
+- [Transformations and Caching - Spark Screencast #3](http://spark.apache.org/screencasts/3-transformations-and-caching.html)
+- [A Standalone Job in Scala - Spark Screencast #4](http://spark.apache.org/screencasts/4-a-standalone-job-in-spark.html)
+- [Apache Spark on YouTube](https://www.youtube.com/user/TheApacheSpark/videos)
 
 
 ## Use cases 
