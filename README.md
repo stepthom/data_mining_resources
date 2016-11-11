@@ -2,9 +2,12 @@
 A curlated list of resources for learning about data mining, data analytics, machine learning, and big data.
 
 
-## MapRduce
+## MapReduce
 
 - [Python Course: Lambda, filter, reduce and map](http://www.python-course.eu/lambda.php)
+- [HPC MapReduce Exercise: Hands-On Lab](https://cs.calvin.edu/courses/cs/374/exercises/12/lab/)
+- [Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/)
+- [http://meri-stuff.blogspot.ca/2011/10/mapreduce-questions-and-answers.html](http://meri-stuff.blogspot.ca/2011/10/mapreduce-questions-and-answers.html)
 
 	
 ## [Apache Spark](http://spark.apache.org/)
