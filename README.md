@@ -3,8 +3,18 @@ A curlated list of resources for learning about data mining, data analytics, mac
 
 
 	
+## [Apache Spark](http://spark.apache.org/)
 
-## Ue cases 
+### Articles
+- [Apache Spark: A Unified Engine for Big Data Processing](http://cacm.acm.org/magazines/2016/11/209116-apache-spark/fulltext)
+- [Using Apache Spark to Analyze Large Neuroimaging Datasets](https://blog.dominodatalab.com/pca-on-very-large-neuroimaging-datasets-using-pyspark/). August 2016.
+- [Apache Spark @Scale: A 60 TB+ production use case](https://code.facebook.com/posts/1671373793181703/apache-spark-scale-a-60-tb-production-use-case/)). August 2016.
+
+### Videos
+- [Apache Spark: A Unified Engine for Big Data Processing](https://vimeo.com/185645796)
+
+
+## Use cases 
 ### Business
 - Kaggle, Data Science Use cases. An outline of business applications. Few companies have the data to implement these things. https://www.kaggle.com/wiki/DataScienceUseCases
 - Kaggle, Competitions. (Make sure you chose “All Competitions” and then “Completed”.) Each competition has a leaderboard. When users publish their solutions on GitHub, you can find links to these solutions on the leaderboard. https://www.kaggle.com/competitions
