@@ -68,6 +68,10 @@ Industrial solutions are more powerful and complex than these examples, but they
 3. Data.gov, Applications. Some are ML-based. http://www.data.gov/applications
 4. StackExchange, Applications. http://opendata.stackexchange.com/questions/3346/examples-of-useful-applications-that-are-being-developed-using-open-data
 
+### Sports
+
+[The NFL’s Brewing Information War](https://theringer.com/nfl-information-war-data-advanced-stats-73b6eee2d39f#.413ia8rdt)
+
 ### See also
 - The original article: https://antontarasenko.com/2015/12/28/machine-learning-for-economists-an-introduction/
 - A related list of cases: https://www.quora.com/What-are-some-practical-applications-of-big-data/answer/Anton-Tarasenko-2?srid=i9vl
