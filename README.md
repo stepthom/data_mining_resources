@@ -50,8 +50,21 @@ A curlated list of resources for learning about data mining, data analytics, mac
 - [A Standalone Job in Scala - Spark Screencast #4](http://spark.apache.org/screencasts/4-a-standalone-job-in-spark.html)
 - [Apache Spark on YouTube](https://www.youtube.com/user/TheApacheSpark/videos)
 
+## Courses
+- [CMU: Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
+- [CMU: Introduction to Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/)
+
+## Models
+
+### Decision Trees
+- [Blog Post: Machine Learning Made Easy with Talend – Decision Trees](http://www.talend.com/blog/2016/09/29/machine-learning-made-easy-with-talend-%E2%80%93-decision-trees)
+
+
 
 ## Use cases 
+
+- [Google Quick, Draw](https://quickdraw.withgoogle.com/)
+
 ### Business
 - Kaggle, Data Science Use cases. An outline of business applications. Few companies have the data to implement these things. https://www.kaggle.com/wiki/DataScienceUseCases
 - Kaggle, Competitions. (Make sure you chose “All Competitions” and then “Completed”.) Each competition has a leaderboard. When users publish their solutions on GitHub, you can find links to these solutions on the leaderboard. https://www.kaggle.com/competitions
@@ -64,14 +77,13 @@ Industrial solutions are more powerful and complex than these examples, but they
 - CS departments. For example: CMU ML Department, PhD dissertations. http://www.ml.cmu.edu/research/phd-dissertations.html
 
 ### Government
-1. Bloomberg and Flowers, “NYC Analytics.” NYC Mayor’s Office of Data Analysis describes their data management system and improvements in operations. http://www.nyc.gov/html/analytics/downloads/pdf/annual_report_2013.pdf
-2. UK Government, Tax Agent Segmentation. https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/396175/Report348.pdf
-3. Data.gov, Applications. Some are ML-based. http://www.data.gov/applications
-4. StackExchange, Applications. http://opendata.stackexchange.com/questions/3346/examples-of-useful-applications-that-are-being-developed-using-open-data
+- Bloomberg and Flowers, “NYC Analytics.” NYC Mayor’s Office of Data Analysis describes their data management system and improvements in operations. http://www.nyc.gov/html/analytics/downloads/pdf/annual_report_2013.pdf
+- UK Government, Tax Agent Segmentation. https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/396175/Report348.pdf
+- Data.gov, Applications. Some are ML-based. http://www.data.gov/applications
+- StackExchange, Applications. http://opendata.stackexchange.com/questions/3346/examples-of-useful-applications-that-are-being-developed-using-open-data
 
 ### Sports
-
-[The NFL’s Brewing Information War](https://theringer.com/nfl-information-war-data-advanced-stats-73b6eee2d39f#.413ia8rdt)
+- [The NFL’s Brewing Information War](https://theringer.com/nfl-information-war-data-advanced-stats-73b6eee2d39f#.413ia8rdt)
 
 ### See also
 - The original article: https://antontarasenko.com/2015/12/28/machine-learning-for-economists-an-introduction/
