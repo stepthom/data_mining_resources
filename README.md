@@ -38,7 +38,8 @@ A curlated list of resources for learning about data mining, data analytics, mac
 - [Why Apache Spark is a Crossover Hit for Data Scientists](http://blog.cloudera.com/blog/2014/03/why-apache-spark-is-a-crossover-hit-for-data-scientists/)
 - [Building a food recommendation engine with Spark / MLlib and Play](https://chimpler.wordpress.com/2014/07/22/building-a-food-recommendation-engine-with-spark-mllib-and-play/)]
 - [Movie Recommendations and More With Spark](http://mlnick.github.io/blog/2013/04/01/movie-recommendations-and-more-with-spark/)
-- [Blog: $1.44 per terabyte: setting a new world record with Apache Spark](https://databricks.com/blog/2016/11/14/setting-new-world-record-apache-spark.html) Nov 2016
+- [Blog post: $1.44 per terabyte: setting a new world record with Apache Spark](https://databricks.com/blog/2016/11/14/setting-new-world-record-apache-spark.html) Nov 2016
+- [Blog post: How-to: Predict Telco Churn with Apache Spark MLlib](https://blog.cloudera.com/blog/2016/02/how-to-predict-telco-churn-with-apache-spark-mllib/)
 
 ### Videos
 - [Apache Spark: A Unified Engine for Big Data Processing](https://vimeo.com/185645796)
