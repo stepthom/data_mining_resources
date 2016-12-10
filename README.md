@@ -1,5 +1,5 @@
 # Data Mining Resources
-A curlated list of resources for learning about data mining, data analytics, machine learning, and big data.
+A curated list of resources for learning about data mining, data analytics, machine learning, and big data.
 
 
 ## MapReduce
@@ -89,3 +89,10 @@ Industrial solutions are more powerful and complex than these examples, but they
 ### See also
 - The original article: https://antontarasenko.com/2015/12/28/machine-learning-for-economists-an-introduction/
 - A related list of cases: https://www.quora.com/What-are-some-practical-applications-of-big-data/answer/Anton-Tarasenko-2?srid=i9vl
+
+## NoSQL
+
+- [Types of NoSQL databases and key criteria for choosing them](http://searchdatamanagement.techtarget.com/feature/Key-criteria-for-choosing-different-types-of-NoSQL-databases)
+- [NoSQL Data Modeling Techniques](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
+- [NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.9r7cl5wcj)
+- [Stack Overflow: What does “Document-oriented” vs. Key-Value mean when talking about MongoDB vs Cassandra?](http://stackoverflow.com/questions/3046001/what-does-document-oriented-vs-key-value-mean-when-talking-about-mongodb-vs-c)
