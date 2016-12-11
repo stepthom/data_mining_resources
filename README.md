@@ -98,3 +98,5 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [Stack Overflow: What does “Document-oriented” vs. Key-Value mean when talking about MongoDB vs Cassandra?](http://stackoverflow.com/questions/3046001/what-does-document-oriented-vs-key-value-mean-when-talking-about-mongodb-vs-c)
 - [Visual Guide to NoSQL Systems](http://blog.nahurst.com/visual-guide-to-nosql-systems)
 - [NoSQL for Dummies](http://www.slideshare.net/thobe/nosql-for-dummies)
+- [Video: GOTO 2012 • Introduction to NoSQL • Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I)
+- [Video: The Art Of Database Design](https://www.youtube.com/watch?v=gogpg7HCu4Q)
