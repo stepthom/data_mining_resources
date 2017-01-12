@@ -11,7 +11,6 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Blog Post: Machine Learning Made Easy with Talend – Decision Trees](http://www.talend.com/blog/2016/09/29/machine-learning-made-easy-with-talend-%E2%80%93-decision-trees)
 
 
-
 ## Use cases 
 
 - [Google Quick, Draw](https://quickdraw.withgoogle.com/)
@@ -72,6 +71,7 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [Learning Spark: Lightning-Fast Big Data Analysis](http://shop.oreilly.com/product/0636920028512.do)
   - [4. Working with Key/Value Pairs](https://www.safaribooksonline.com/library/view/learning-spark/9781449359034/ch04.html)
 - [Advanced Analytics with Spark: Patterns for Learning from Data at Scale](http://shop.oreilly.com/product/0636920035091.do)
+- [Databricks WhitePapers](http://go.databricks.com/mastering-apache-spark-2.0)
 
 ##### Courses
 - [edX: Big Data Analysis with Apache Spark](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x)
@@ -96,6 +96,10 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [Movie Recommendations and More With Spark](http://mlnick.github.io/blog/2013/04/01/movie-recommendations-and-more-with-spark/)
 - [Blog post: $1.44 per terabyte: setting a new world record with Apache Spark](https://databricks.com/blog/2016/11/14/setting-new-world-record-apache-spark.html) Nov 2016
 - [Blog post: How-to: Predict Telco Churn with Apache Spark MLlib](https://blog.cloudera.com/blog/2016/02/how-to-predict-telco-churn-with-apache-spark-mllib/)
+- [KDNuggets: 7 Steps to Mastering Apache Spark 2.0](http://www.kdnuggets.com/2016/09/7-steps-mastering-apache-spark.html)
+- [Databricks: Introducing Apache Spark 2.0](https://databricks.com/blog/2016/07/26/introducing-apache-spark-2-0.html)
+- [KDNuggets: Apache Spark Key Terms, Explained](http://www.kdnuggets.com/2016/06/spark-key-terms-explained.html)
+
 
 ##### Videos
 - [Apache Spark: A Unified Engine for Big Data Processing](https://vimeo.com/185645796)
@@ -106,3 +110,11 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [Transformations and Caching - Spark Screencast #3](http://spark.apache.org/screencasts/3-transformations-and-caching.html)
 - [A Standalone Job in Scala - Spark Screencast #4](http://spark.apache.org/screencasts/4-a-standalone-job-in-spark.html)
 - [Apache Spark on YouTube](https://www.youtube.com/user/TheApacheSpark/videos)
+- [Advanced Apache Spark Training](https://www.youtube.com/watch?v=7ooZ4S7Ay6Y)
+- [Structuring Apache Spark 2.0](https://www.youtube.com/watch?v=1a4pgYzeFwE)
+- [Apache Spark 2.0: A Deep Dive Into Structured Streaming](https://www.youtube.com/watch?v=rl8dIzTpxrI)
+
+
+## Miscellaneous
+
+- [KDNuggets: 7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
