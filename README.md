@@ -113,6 +113,9 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [Advanced Apache Spark Training](https://www.youtube.com/watch?v=7ooZ4S7Ay6Y)
 - [Structuring Apache Spark 2.0](https://www.youtube.com/watch?v=1a4pgYzeFwE)
 - [Apache Spark 2.0: A Deep Dive Into Structured Streaming](https://www.youtube.com/watch?v=rl8dIzTpxrI)
+- [YouTube: Spark and Spark Streaming at Uber - Meetup talk with Tathagata Das](https://www.youtube.com/watch?v=zKbds9ZPjLE)
+- [YouTube: Building Realtime Data Pipelines with Kafka Connect and Spark Streaming](https://www.youtube.com/watch?v=wMLAlJimPzk)
+- [YouTube: Intro to Spark Streaming](https://www.youtube.com/watch?v=dYBWZTZT6o0)
 
 
 ## Miscellaneous
