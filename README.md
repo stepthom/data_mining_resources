@@ -99,6 +99,7 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [KDNuggets: 7 Steps to Mastering Apache Spark 2.0](http://www.kdnuggets.com/2016/09/7-steps-mastering-apache-spark.html)
 - [Databricks: Introducing Apache Spark 2.0](https://databricks.com/blog/2016/07/26/introducing-apache-spark-2-0.html)
 - [KDNuggets: Apache Spark Key Terms, Explained](http://www.kdnuggets.com/2016/06/spark-key-terms-explained.html)
+- [Article Spark Streaming: What Is It and Who’s Using It?](https://www.datanami.com/2015/11/30/spark-streaming-what-is-it-and-whos-using-it/) Nov 2015
 
 
 ##### Videos
