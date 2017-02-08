@@ -14,6 +14,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 ## Use cases 
 
 - [Google Quick, Draw](https://quickdraw.withgoogle.com/)
+- [NYTimes: Will you Graduate? Ask Big Data.](https://mobile.nytimes.com/2017/02/02/education/edlife/will-you-graduate-ask-big-data.html)
 
 ### Business
 - Kaggle, Data Science Use cases. An outline of business applications. Few companies have the data to implement these things. https://www.kaggle.com/wiki/DataScienceUseCases
