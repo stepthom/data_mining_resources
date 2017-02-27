@@ -128,3 +128,6 @@ Industrial solutions are more powerful and complex than these examples, but they
 ## SQL
 
 - [The SQL Tutorial for Data Analysis](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
+
+## Regression
+ - [R Tutorials: MULTIPLE REGRESSION](https://ww2.coastal.edu/kingw/statistics/R-tutorials/multregr.html)
