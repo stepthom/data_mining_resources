@@ -1,6 +1,16 @@
 # Data Mining, Data Analytics, Machine Learning, and Big Data Resources
 A curated list of resources for learning about data mining, data analytics, machine learning, and big data.
 
+## Table of Contents
+
+- [Courses](#courses)
+- [Models](#models)
+- [Use Cases](#use-cases)
+- [Big Data](#big-data)
+- [R Learning Resources](#r-learning-resources)
+- [Python Learning Resources](#python-learning-resources)
+- [SQL](#sql)
+
 ## Courses
 - [CMU: Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
 - [CMU: Introduction to Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/)
@@ -10,6 +20,9 @@ A curated list of resources for learning about data mining, data analytics, mach
 ### Decision Trees
 - [Blog Post: Machine Learning Made Easy with Talend – Decision Trees](http://www.talend.com/blog/2016/09/29/machine-learning-made-easy-with-talend-%E2%80%93-decision-trees)
 
+
+### Regression
+ - [R Tutorials: MULTIPLE REGRESSION](https://ww2.coastal.edu/kingw/statistics/R-tutorials/multregr.html)
 
 ## Use cases 
 
@@ -136,5 +149,3 @@ Industrial solutions are more powerful and complex than these examples, but they
 
 - [The SQL Tutorial for Data Analysis](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
 
-## Regression
- - [R Tutorials: MULTIPLE REGRESSION](https://ww2.coastal.edu/kingw/statistics/R-tutorials/multregr.html)
