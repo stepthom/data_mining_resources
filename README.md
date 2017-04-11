@@ -120,10 +120,17 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [YouTube: Building Realtime Data Pipelines with Kafka Connect and Spark Streaming](https://www.youtube.com/watch?v=wMLAlJimPzk)
 - [YouTube: Intro to Spark Streaming](https://www.youtube.com/watch?v=dYBWZTZT6o0)
 
+## R Learning Resources
 
-## Miscellaneous
+- [R for Reproducible Scientific Analysis: Reference](https://swcarpentry.github.io/r-novice-gapminder/reference/). A nice set of tutorials from Software Carpentry.
+- [R for Data Science] http://r4ds.had.co.nz/). An excellent online book by Garrett Grolemund and Hadley Wickham. 
+- [Awesome R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages and tools.
 
+## Python Learning Resources
+
+- [Awesome Python](https://github.com/vinta/awesome-python)
 - [KDNuggets: 7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
+- [A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)](https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/)
 
 ## SQL
 
