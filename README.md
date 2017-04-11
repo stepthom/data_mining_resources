@@ -136,7 +136,7 @@ Industrial solutions are more powerful and complex than these examples, but they
 ## R Learning Resources
 
 - [R for Reproducible Scientific Analysis: Reference](https://swcarpentry.github.io/r-novice-gapminder/reference/). A nice set of tutorials from Software Carpentry.
-- [R for Data Science] http://r4ds.had.co.nz/). An excellent online book by Garrett Grolemund and Hadley Wickham. 
+- [R for Data Science](http://r4ds.had.co.nz/). An excellent online book by Garrett Grolemund and Hadley Wickham. 
 - [Awesome R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages and tools.
 
 ## Python Learning Resources
