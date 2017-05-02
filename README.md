@@ -10,6 +10,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [R Learning Resources](#r-learning-resources)
 - [Python Learning Resources](#python-learning-resources)
 - [SQL](#sql)
+- [Misc](#misc)
 
 ## Courses
 - [CMU: Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
@@ -148,4 +149,10 @@ Industrial solutions are more powerful and complex than these examples, but they
 ## SQL
 
 - [The SQL Tutorial for Data Analysis](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
+- [SQL is 43 years old - here’s 8 reasons we still use it today](http://blog.sqlizer.io/posts/sql-43/?utm_source=hacker_news). April 2017. [HN Post](https://news.ycombinator.com/item?id=14245354).  
+
+
+## Misc
+
+- [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)
 
