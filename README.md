@@ -5,6 +5,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 - [Courses](#courses)
 - [Models](#models)
+- [Data Cleaining](#data-cleaning)
 - [Use Cases](#use-cases)
 - [Big Data](#big-data)
 - [R Learning Resources](#r-learning-resources)
@@ -15,6 +16,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 ## Courses
 - [CMU: Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
 - [CMU: Introduction to Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/)
+- [DataCamp: Cleaning Data in R](https://www.datacamp.com/courses/cleaning-data-in-r)
 
 ## Models
 
@@ -24,6 +26,9 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 ### Regression
  - [R Tutorials: MULTIPLE REGRESSION](https://ww2.coastal.edu/kingw/statistics/R-tutorials/multregr.html)
+
+## Data Cleaning
+- [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
 
 ## Use cases 
 
