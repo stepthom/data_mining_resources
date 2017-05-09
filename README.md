@@ -144,6 +144,13 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [R for Reproducible Scientific Analysis: Reference](https://swcarpentry.github.io/r-novice-gapminder/reference/). A nice set of tutorials from Software Carpentry.
 - [R for Data Science](http://r4ds.had.co.nz/). An excellent online book by Garrett Grolemund and Hadley Wickham. 
 - [Awesome R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages and tools.
+- [Data Import Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/source/pdfs/data-import-cheatsheet.pdf)
+- [Data Transformation Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/source/pdfs/data-transformation-cheatsheet.pdf)
+- [Sparklyr Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/source/pdfs/sparklyr.pdf)
+- [R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
+- [R Markdown Reference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+- [RStudio IDE Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf)
+- [Data Visualizaton Cheet Sheet](https://www.rstudio.com/wp-content/uploads/2016/11/ggplot2-cheatsheet-2.1.pdf)
 
 ## Python Learning Resources
 
