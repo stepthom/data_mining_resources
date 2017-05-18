@@ -66,6 +66,7 @@ Industrial solutions are more powerful and complex than these examples, but they
 
 - [The Infrastructure Behind Twitter: Scale](https://blog.twitter.com/2017/the-infrastructure-behind-twitter-scale) Jan 2017
 - [Study on Big Data in Public Health, Telemedine and Healthcare](http://www.ehealthnews.eu/download/publications/5093-study-on-big-data-in-public-health-telemedine-and-healthcare). Dec 2016.
+- [Michael Stonebraker | Big Data is (at least) Four Different Problems](https://www.youtube.com/watch?v=KRcecxdGxvQ&feature=youtu.be)
 
 
 #### NoSQL
