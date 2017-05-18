@@ -11,7 +11,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [R Learning Resources](#r-learning-resources)
 - [Python Learning Resources](#python-learning-resources)
 - [SQL Resources](#sql-resources)
-- [Data]
+- [Data](#data)
 - [Misc](#misc)
 
 ## Courses
