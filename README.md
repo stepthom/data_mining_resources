@@ -147,6 +147,7 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [R for Reproducible Scientific Analysis: Reference](https://swcarpentry.github.io/r-novice-gapminder/reference/). A nice set of tutorials from Software Carpentry.
 - [R for Data Science](http://r4ds.had.co.nz/). An excellent online book by Garrett Grolemund and Hadley Wickham. 
 - [Awesome R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages and tools.
+- [swirl: Learn R, in R.](http://swirlstats.com/) swirl teaches you R programming and data science interactively, at your own pace, and right in the R console!
 - [FREE COURSE: Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
 - [Data Import Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/source/pdfs/data-import-cheatsheet.pdf)
 - [Data Transformation Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/source/pdfs/data-transformation-cheatsheet.pdf)
