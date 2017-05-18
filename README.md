@@ -4,20 +4,50 @@ A curated list of resources for learning about data mining, data analytics, mach
 ## Table of Contents
 
 - [Courses](#courses)
-- [Models](#models)
-- [Data Cleaining](#data-cleaning)
-- [Use Cases](#use-cases)
-- [Big Data](#big-data)
 - [R Learning Resources](#r-learning-resources)
 - [Python Learning Resources](#python-learning-resources)
 - [SQL Resources](#sql-resources)
+- [Models](#models)
+- [Data Cleaining](#data-cleaning)
 - [Data](#data)
+- [Use Cases](#use-cases)
+- [Big Data](#big-data)
 - [Misc](#misc)
 
 ## Courses
 - [CMU: Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
 - [CMU: Introduction to Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/)
+
+## R Learning Resources
+
+- [R for Reproducible Scientific Analysis: Reference](https://swcarpentry.github.io/r-novice-gapminder/reference/). A nice set of tutorials from Software Carpentry.
+- [R for Data Science](http://r4ds.had.co.nz/). An excellent online book by Garrett Grolemund and Hadley Wickham. 
+- [Awesome R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages and tools.
+- [swirl: Learn R, in R.](http://swirlstats.com/) swirl teaches you R programming and data science interactively, at your own pace, and right in the R console!
+- [FREE COURSE: Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
+- [Data Import Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/source/pdfs/data-import-cheatsheet.pdf)
+- [Data Transformation Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/source/pdfs/data-transformation-cheatsheet.pdf)
+- [Sparklyr Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/source/pdfs/sparklyr.pdf)
+- [R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
+- [R Markdown Reference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+- [RStudio IDE Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf)
+- [Data Visualizaton Cheet Sheet](https://www.rstudio.com/wp-content/uploads/2016/11/ggplot2-cheatsheet-2.1.pdf)
+- [caret package: classification and regression training](https://topepo.github.io/caret/index.html)
 - [DataCamp: Cleaning Data in R](https://www.datacamp.com/courses/cleaning-data-in-r)
+
+
+## Python Learning Resources
+
+- [Awesome Python](https://github.com/vinta/awesome-python)
+- [KDNuggets: 7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
+- [A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)](https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/)
+
+## SQL Resources
+
+- [SW Carpentry: Databases and SQL](https://github.com/swcarpentry/sql-novice-survey)
+- [The SQL Tutorial for Data Analysis](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
+- [SQL is 43 years old - here’s 8 reasons we still use it today](http://blog.sqlizer.io/posts/sql-43/?utm_source=hacker_news). April 2017. [HN Post](https://news.ycombinator.com/item?id=14245354).  
+
 
 ## Models
 
@@ -31,6 +61,14 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 ## Data Cleaning
 - [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
+
+## Data
+
+- [Baseball: Fangraphs](http://www.fangraphs.com/)
+- [Baseball: Baseball reference](http://www.baseball-reference.com/)
+- [Baseball: Pro sports transactions](http://www.prosportstransactions.com/baseball/Search/Search.php)
+- [Baseball: Roster Resource](http://www.rosterresource.com/mlb-depth-charts/)
+- [Baseball: Society of American Baseball Research](http://sabr.org/research)
 
 ## Use cases 
 
@@ -142,42 +180,6 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [YouTube: Building Realtime Data Pipelines with Kafka Connect and Spark Streaming](https://www.youtube.com/watch?v=wMLAlJimPzk)
 - [YouTube: Intro to Spark Streaming](https://www.youtube.com/watch?v=dYBWZTZT6o0)
 
-## R Learning Resources
-
-- [R for Reproducible Scientific Analysis: Reference](https://swcarpentry.github.io/r-novice-gapminder/reference/). A nice set of tutorials from Software Carpentry.
-- [R for Data Science](http://r4ds.had.co.nz/). An excellent online book by Garrett Grolemund and Hadley Wickham. 
-- [Awesome R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages and tools.
-- [swirl: Learn R, in R.](http://swirlstats.com/) swirl teaches you R programming and data science interactively, at your own pace, and right in the R console!
-- [FREE COURSE: Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
-- [Data Import Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/source/pdfs/data-import-cheatsheet.pdf)
-- [Data Transformation Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/source/pdfs/data-transformation-cheatsheet.pdf)
-- [Sparklyr Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/source/pdfs/sparklyr.pdf)
-- [R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
-- [R Markdown Reference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
-- [RStudio IDE Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf)
-- [Data Visualizaton Cheet Sheet](https://www.rstudio.com/wp-content/uploads/2016/11/ggplot2-cheatsheet-2.1.pdf)
-- [caret package: classification and regression training](https://topepo.github.io/caret/index.html)
-
-
-## Python Learning Resources
-
-- [Awesome Python](https://github.com/vinta/awesome-python)
-- [KDNuggets: 7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
-- [A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)](https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/)
-
-## SQL Resources
-
-- [SW Carpentry: Databases and SQL](https://github.com/swcarpentry/sql-novice-survey)
-- [The SQL Tutorial for Data Analysis](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
-- [SQL is 43 years old - here’s 8 reasons we still use it today](http://blog.sqlizer.io/posts/sql-43/?utm_source=hacker_news). April 2017. [HN Post](https://news.ycombinator.com/item?id=14245354).  
-
-## Data
-
-- [Baseball: Fangraphs](http://www.fangraphs.com/)
-- [Baseball: Baseball reference](http://www.baseball-reference.com/)
-- [Baseball: Pro sports transactions](http://www.prosportstransactions.com/baseball/Search/Search.php)
-- [Baseball: Roster Resource](http://www.rosterresource.com/mlb-depth-charts/)
-- [Baseball: Society of American Baseball Research](http://sabr.org/research)
 
 ## Misc
 
