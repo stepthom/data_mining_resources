@@ -10,7 +10,8 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Big Data](#big-data)
 - [R Learning Resources](#r-learning-resources)
 - [Python Learning Resources](#python-learning-resources)
-- [SQL](#sql)
+- [SQL Resources](#sql-resources)
+- [Data]
 - [Misc](#misc)
 
 ## Courses
@@ -162,12 +163,19 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [KDNuggets: 7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
 - [A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)](https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/)
 
-## SQL
+## SQL Resources
 
 - [SW Carpentry: Databases and SQL](https://github.com/swcarpentry/sql-novice-survey)
 - [The SQL Tutorial for Data Analysis](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
 - [SQL is 43 years old - here’s 8 reasons we still use it today](http://blog.sqlizer.io/posts/sql-43/?utm_source=hacker_news). April 2017. [HN Post](https://news.ycombinator.com/item?id=14245354).  
 
+## Data
+
+- [Baseball: Fangraphs](http://www.fangraphs.com/)
+- [Baseball: Baseball reference](http://www.baseball-reference.com/)
+- [Baseball: Pro sports transactions](http://www.prosportstransactions.com/baseball/Search/Search.php)
+- [Baseball: Roster Resource](http://www.rosterresource.com/mlb-depth-charts/)
+- [Baseball: Society of American Baseball Research](http://sabr.org/research)
 
 ## Misc
 
