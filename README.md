@@ -54,6 +54,11 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/). Feb 2015.
 - [How to choose algorithms for Microsoft Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-choice)
 - [An Empirical Comparison of Supervised Learning Algorithms](http://www.cs.cornell.edu/~caruana/ctp/ct.papers/caruana.icml06.pdf)
+- [Machine Learning Cheat sheet](http://eferm.com/machine-learning-cheat-sheet/)
+- [Machine Learning: Patterns for Predictive Analytics](https://dzone.com/refcardz/machine-learning-predictive)
+- [Machine Learning Algorithm Cheat Sheet](http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet). Sep 2014.
+- [Cheat Sheet – 10 Machine Learning Algorithms & R Commands](http://vitalflux.com/cheat-sheet-10-machine-learning-algorithms-r-commands/). Jan 2015.
+- [scikit-learn: Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 
 ### Decision Trees
 - [Blog Post: Machine Learning Made Easy with Talend – Decision Trees](http://www.talend.com/blog/2016/09/29/machine-learning-made-easy-with-talend-%E2%80%93-decision-trees)
