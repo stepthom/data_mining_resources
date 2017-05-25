@@ -51,6 +51,10 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 ## Models
 
+- [Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/). Feb 2015.
+- [How to choose algorithms for Microsoft Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-choice)
+- [An Empirical Comparison of Supervised Learning Algorithms](http://www.cs.cornell.edu/~caruana/ctp/ct.papers/caruana.icml06.pdf)
+
 ### Decision Trees
 - [Blog Post: Machine Learning Made Easy with Talend – Decision Trees](http://www.talend.com/blog/2016/09/29/machine-learning-made-easy-with-talend-%E2%80%93-decision-trees)
 - [Blog post: Why do decision trees work?](https://www.r-bloggers.com/why-do-decision-trees-work/)
