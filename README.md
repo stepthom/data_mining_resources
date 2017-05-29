@@ -65,6 +65,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Blog Post: Machine Learning Made Easy with Talend – Decision Trees](http://www.talend.com/blog/2016/09/29/machine-learning-made-easy-with-talend-%E2%80%93-decision-trees)
 - [Blog post: Why do decision trees work?](https://www.r-bloggers.com/why-do-decision-trees-work/)
 - [Video: Visualizing a Decision Tree - Machine Learning Recipes #2](https://www.youtube.com/watch?v=tNa99PG8hR8). Mar 2016. Google Developers.
+- [Book Chapter: Classification: Basic Concepts, Decision Trees, and Model Evaluation](https://www-users.cs.umn.edu/~kumar/dmbook/ch4.pdf)
 
 
 ### Regression
