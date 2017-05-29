@@ -59,14 +59,19 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Machine Learning Algorithm Cheat Sheet](http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet). Sep 2014.
 - [Cheat Sheet – 10 Machine Learning Algorithms & R Commands](http://vitalflux.com/cheat-sheet-10-machine-learning-algorithms-r-commands/). Jan 2015.
 - [scikit-learn: Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+- [Video: Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw). Mar 2016. Google Developers.
 
 ### Decision Trees
 - [Blog Post: Machine Learning Made Easy with Talend – Decision Trees](http://www.talend.com/blog/2016/09/29/machine-learning-made-easy-with-talend-%E2%80%93-decision-trees)
 - [Blog post: Why do decision trees work?](https://www.r-bloggers.com/why-do-decision-trees-work/)
+- [Video: Visualizing a Decision Tree - Machine Learning Recipes #2](https://www.youtube.com/watch?v=tNa99PG8hR8). Mar 2016. Google Developers.
 
 
 ### Regression
  - [R Tutorials: MULTIPLE REGRESSION](https://ww2.coastal.edu/kingw/statistics/R-tutorials/multregr.html)
+ 
+### Neural Networks
+- [Video: MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44). June 2015.
 
 ## Data Cleaning
 - [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
