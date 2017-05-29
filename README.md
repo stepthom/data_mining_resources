@@ -201,4 +201,5 @@ Industrial solutions are more powerful and complex than these examples, but they
 
 - [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)
 - [Machine Learning "What I really do" panel](http://i.imgur.com/Rbn2any.png)
+- [Precision, Recall, AUCs and ROCs](https://shapeofdata.wordpress.com/2015/01/05/precision-recall-aucs-and-rocs/) Jan 2015
 
