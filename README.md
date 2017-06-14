@@ -34,7 +34,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Data Visualizaton Cheet Sheet](https://www.rstudio.com/wp-content/uploads/2016/11/ggplot2-cheatsheet-2.1.pdf)
 - [caret package: classification and regression training](https://topepo.github.io/caret/index.html)
 - [DataCamp: Cleaning Data in R](https://www.datacamp.com/courses/cleaning-data-in-r)
-- [DataCamp: Joining Data in R with Dplyr] https://www.datacamp.com/courses/joining-data-in-r-with-dplyr)
+- [DataCamp: Joining Data in R with Dplyr](https://www.datacamp.com/courses/joining-data-in-r-with-dplyr)
 - [DataCamp: Data Manipulation in R with dplyr](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
 
 
