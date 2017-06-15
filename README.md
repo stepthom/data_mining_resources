@@ -155,6 +155,7 @@ Industrial solutions are more powerful and complex than these examples, but they
 
 ##### Courses
 - [edX: Big Data Analysis with Apache Spark](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x)
+- [DataCamp: Introduction to Spark in R using sparklyr](https://www.datacamp.com/courses/introduction-to-spark-in-r-using-sparklyr)
 
 ##### Conferences
 - [Spark Summit](https://spark-summit.org/)
