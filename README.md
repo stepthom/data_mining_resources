@@ -197,6 +197,7 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [YouTube: Spark and Spark Streaming at Uber - Meetup talk with Tathagata Das](https://www.youtube.com/watch?v=zKbds9ZPjLE)
 - [YouTube: Building Realtime Data Pipelines with Kafka Connect and Spark Streaming](https://www.youtube.com/watch?v=wMLAlJimPzk)
 - [YouTube: Intro to Spark Streaming](https://www.youtube.com/watch?v=dYBWZTZT6o0)
+- [RStudio Webinar: Using Spark with Shiny and R Markdown](https://www.rstudio.com/resources/webinars/using-spark-with-shiny-and-r-markdown/)
 
 
 ## Misc
