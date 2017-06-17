@@ -77,6 +77,9 @@ A curated list of resources for learning about data mining, data analytics, mach
 ### Neural Networks
 - [Video: MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44). June 2015.
 
+#### Ensemble
+- [Video: Ensemble](https://www.youtube.com/watch?v=Un9zObFjBH0)
+
 ## Data Cleaning
 - [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
 
@@ -91,6 +94,10 @@ A curated list of resources for learning about data mining, data analytics, mach
 ## Classification Metrics
 - [YouTube: The tradeoff between sensitivity and specificity](https://www.youtube.com/watch?v=vtYDyGGeQyo)
 - [Precision, Recall, AUCs and ROCs](https://shapeofdata.wordpress.com/2015/01/05/precision-recall-aucs-and-rocs/) Jan 2015
+- [YouTube: Boosting](https://www.youtube.com/watch?v=GM3CDQfQ4sw)
+- [YouTube: Bagging](https://www.youtube.com/watch?v=2Mg8QD0F1dQ)
+- [YouTube: ROC curves](https://www.youtube.com/watch?v=21Igj5Pr6u4)
+- [YouTube: ROC Curves explained](https://www.youtube.com/watch?v=21Igj5Pr6u4)
 
 ## Use cases 
 
