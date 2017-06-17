@@ -10,6 +10,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Models](#models)
 - [Data Cleaining](#data-cleaning)
 - [Data](#data)
+- [Classification Metrics](#classification-metrics)
 - [Use Cases](#use-cases)
 - [Big Data](#big-data)
 - [Misc](#misc)
@@ -86,6 +87,9 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Baseball: Pro sports transactions](http://www.prosportstransactions.com/baseball/Search/Search.php)
 - [Baseball: Roster Resource](http://www.rosterresource.com/mlb-depth-charts/)
 - [Baseball: Society of American Baseball Research](http://sabr.org/research)
+
+## Classification Metrics
+- [YouTube: The tradeoff between sensitivity and specificity](https://www.youtube.com/watch?v=vtYDyGGeQyo)
 
 ## Use cases 
 
