@@ -79,6 +79,9 @@ A curated list of resources for learning about data mining, data analytics, mach
 ### Neural Networks
 - [Video: MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44). June 2015.
 
+### Support Vector Machines
+- [Support Vector Machines: A Simple Explanation](http://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html)
+
 #### Ensemble
 - [Video: Ensemble](https://www.youtube.com/watch?v=Un9zObFjBH0)
 
