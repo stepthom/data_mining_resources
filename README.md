@@ -49,7 +49,8 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 - [SW Carpentry: Databases and SQL](https://github.com/swcarpentry/sql-novice-survey)
 - [The SQL Tutorial for Data Analysis](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
-- [SQL is 43 years old - here’s 8 reasons we still use it today](http://blog.sqlizer.io/posts/sql-43/?utm_source=hacker_news). April 2017. [HN Post](https://news.ycombinator.com/item?id=14245354).  
+- [SQL is 43 years old - here’s 8 reasons we still use it today](http://blog.sqlizer.io/posts/sql-43/?utm_source=hacker_news). April 2017. [HN Post](https://news.ycombinator.com/item?id=14245354).
+- [DataCamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
 
 
 ## Models
