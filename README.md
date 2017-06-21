@@ -83,6 +83,11 @@ A curated list of resources for learning about data mining, data analytics, mach
 ### Support Vector Machines
 - [Support Vector Machines: A Simple Explanation](http://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html)
 
+### Recommender Systems
+
+- [Recommender Systems 101 – a step by step practical example in R](https://www.r-bloggers.com/recommender-systems-101-a-step-by-step-practical-example-in-r/)
+- [Using R package, recommenderlab, for predicting ratings for MovieLens data](https://ashokharnal.wordpress.com/2014/12/18/using-recommenderlab-for-predicting-ratings-for-movielens-data/)
+
 #### Ensemble
 - [Video: Ensemble](https://www.youtube.com/watch?v=Un9zObFjBH0)
 
