@@ -88,7 +88,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Recommender Systems 101 – a step by step practical example in R](https://www.r-bloggers.com/recommender-systems-101-a-step-by-step-practical-example-in-r/)
 - [Using R package, recommenderlab, for predicting ratings for MovieLens data](https://ashokharnal.wordpress.com/2014/12/18/using-recommenderlab-for-predicting-ratings-for-movielens-data/)
 - [Recommender Systems Comparison](https://rpubs.com/tarashnot/recommender_comparison)
-= [Building a Movie Recommendation System](https://rpubs.com/jeknov/movieRec)
+- [Building a Movie Recommendation System](https://rpubs.com/jeknov/movieRec)
 
 #### Ensemble
 - [Video: Ensemble](https://www.youtube.com/watch?v=Un9zObFjBH0)
@@ -230,5 +230,6 @@ Industrial solutions are more powerful and complex than these examples, but they
 
 - [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)
 - [Machine Learning "What I really do" panel](http://i.imgur.com/Rbn2any.png)
+- [The Data Science Industry: Who Does What (Infographic)](https://www.datacamp.com/community/tutorials/data-science-industry-infographic#gs.=TDw4ys_)
 
 
