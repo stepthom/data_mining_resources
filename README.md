@@ -49,7 +49,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Coursera: Python For Everyone](https://www.coursera.org/specializations/python)
 - [Online Book: Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 - [YouTube: Python Programming](https://www.youtube.com/watch?v=N4mEzFDjqtA)
-- [YouTube videos of old Khan Academy lectures] Python](https://www.youtube.com/user/khanacademy/search?query=python)
+- [YouTube videos of old Khan Academy lectures: Python](https://www.youtube.com/user/khanacademy/search?query=python)
 - [The Google Python class](https://developers.google.com/edu/python/?csw=1)
 
 
