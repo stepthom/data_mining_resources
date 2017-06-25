@@ -41,18 +41,19 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 ## Python Learning Resources
 
-- [DataCamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
-- [DataCamp: All Python courses](https://www.datacamp.com/courses/q:python)
-- [Awesome Python](https://github.com/vinta/awesome-python)
-- [KDNuggets: 7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
-- [A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)](https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/)
-- [Coursera: Python For Everyone](https://www.coursera.org/specializations/python)
-- [Online Book: Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
+- [DataCamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) Free online course.
+- [DataCamp: All Python courses](https://www.datacamp.com/courses/q:python) Free and paid online courses.
+- [Software Carpentry: Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/). Free online course.
+- [The Google Python class](https://developers.google.com/edu/python/?csw=1). Free online course.
+- [Coursera: Python For Everyone](https://www.coursera.org/specializations/python). Free online course.
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/book/). Free online book.
 - [YouTube: Python Programming](https://www.youtube.com/watch?v=N4mEzFDjqtA)
 - [YouTube videos of old Khan Academy lectures: Python](https://www.youtube.com/user/khanacademy/search?query=python)
-- [The Google Python class](https://developers.google.com/edu/python/?csw=1)
-- [Book: Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
-- [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
+- [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do). Book.
+- [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do). Book.
+- [Awesome Python](https://github.com/vinta/awesome-python). Free curated list of more Python resources.
+- [KDNuggets: 7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html). Article.
+- [A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)](https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/). Blog post.
 
 
 
