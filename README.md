@@ -51,6 +51,9 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [YouTube: Python Programming](https://www.youtube.com/watch?v=N4mEzFDjqtA)
 - [YouTube videos of old Khan Academy lectures: Python](https://www.youtube.com/user/khanacademy/search?query=python)
 - [The Google Python class](https://developers.google.com/edu/python/?csw=1)
+- [Book: Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
+- [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
+
 
 
 ## SQL Resources
