@@ -9,6 +9,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [SQL Resources](#sql-resources)
 - [Models](#models)
 - [Data Cleaining](#data-cleaning)
+- [Data Visualization](#data-visualization)
 - [Data](#data)
 - [Classification Metrics](#classification-metrics)
 - [Use Cases](#use-cases)
@@ -111,6 +112,9 @@ A curated list of resources for learning about data mining, data analytics, mach
 ## Data Cleaning
 - [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
 - [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes). July 2017.
+
+## Data Visualization
+- [Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html). April 2017.
 
 ## Data
 
