@@ -19,6 +19,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 ## Courses
 - [CMU: Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
 - [CMU: Introduction to Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/)
+- [Elite Data Science](https://elitedatascience.com/)
 
 ## R Learning Resources
 
