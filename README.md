@@ -10,7 +10,6 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Models](#models)
 - [Data Cleaining](#data-cleaning)
 - [Data Visualization](#data-visualization)
-- [Data](#data)
 - [Classification Metrics](#classification-metrics)
 - [Use Cases](#use-cases)
 - [Big Data](#big-data)
@@ -117,14 +116,6 @@ A curated list of resources for learning about data mining, data analytics, mach
 ## Data Visualization
 - [Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html). April 2017.
 
-## Data
-
-- [Baseball: Fangraphs](http://www.fangraphs.com/)
-- [Baseball: Baseball reference](http://www.baseball-reference.com/)
-- [Baseball: Pro sports transactions](http://www.prosportstransactions.com/baseball/Search/Search.php)
-- [Baseball: Roster Resource](http://www.rosterresource.com/mlb-depth-charts/)
-- [Baseball: Society of American Baseball Research](http://sabr.org/research)
-
 ## Classification Metrics
 - [YouTube: The tradeoff between sensitivity and specificity](https://www.youtube.com/watch?v=vtYDyGGeQyo)
 - [Precision, Recall, AUCs and ROCs](https://shapeofdata.wordpress.com/2015/01/05/precision-recall-aucs-and-rocs/) Jan 2015
@@ -143,6 +134,16 @@ A curated list of resources for learning about data mining, data analytics, mach
 - Kaggle, Competitions. (Make sure you chose “All Competitions” and then “Completed”.) Each competition has a leaderboard. When users publish their solutions on GitHub, you can find links to these solutions on the leaderboard. https://www.kaggle.com/competitions
 Industrial solutions are more powerful and complex than these examples, but they are not publicly available. Data-driven companies post some details about this work in their blogs.
 
+### Learning Analytics, Educational Data Mining
+- [ Educational Data Mining and Learning Analytics](http://www.upenn.edu/learninganalytics/ryanbaker/Educational%20Data%20Mining%20and%20Learning%20Analytics%20-%20DRAFT.pdf)
+- [Learning analytics in higher education.](https://www.jisc.ac.uk/reports/learning-analytics-in-higher-education). A review of UK and international practice.
+- [The beginner's guide to prediction workforce analytics.](http://www.talentanalytics.com/blog/the-beginners-guide-to-predictive-workforce-analytics/)
+
+### Human Resources Analytics
+- [Kaggle: Human Resources Analytics](https://www.kaggle.com/ludobenistant/hr-analytics)
+- [IBM Employee attrition dataset](https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/
+)
+
 ### Emerging applications
 - Stanford’s CS229 Course, Student projects. See “Recent years’ projects.” Hundreds of short papers. http://cs229.stanford.edu/
 - CMU ML Department, Student projects. More advanced problems, compared to CS229. http://www.ml.cmu.edu/research/data-analysis-projects.html
@@ -157,6 +158,11 @@ Industrial solutions are more powerful and complex than these examples, but they
 
 ### Sports
 - [The NFL’s Brewing Information War](https://theringer.com/nfl-information-war-data-advanced-stats-73b6eee2d39f#.413ia8rdt)
+- [Baseball data: Fangraphs](http://www.fangraphs.com/)
+- [Baseball data: Baseball reference](http://www.baseball-reference.com/)
+- [Baseball data: Pro sports transactions](http://www.prosportstransactions.com/baseball/Search/Search.php)
+- [Baseball data: Roster Resource](http://www.rosterresource.com/mlb-depth-charts/)
+- [Baseball data: Society of American Baseball Research](http://sabr.org/research)
 
 ### See also
 - The original article: https://antontarasenko.com/2015/12/28/machine-learning-for-economists-an-introduction/
