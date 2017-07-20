@@ -8,6 +8,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Python Learning Resources](#python-learning-resources)
 - [SQL Resources](#sql-resources)
 - [Models](#models)
+- [Data Exploration](#data-exploration)
 - [Data Cleaning](#data-cleaning)
 - [Data Visualization](#data-visualization)
 - [Classification Metrics](#classification-metrics)
@@ -114,6 +115,10 @@ A curated list of resources for learning about data mining, data analytics, mach
 #### Social Network Analysis/Graphs
 - [Network Analysis and Visualization with R and igraph](http://www.kateto.net/wp-content/uploads/2016/01/NetSciX_2016_Workshop.pdf)
 - [Graph-powered Machine Learning at Google](https://research.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html). October 2016.
+
+## Data Exploration
+
+- [https://ropensci.org/blog/blog/2017/07/11/skimr](https://ropensci.org/blog/blog/2017/07/11/skimr)
 
 ## Data Cleaning
 - [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
@@ -275,6 +280,6 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [Machine Learning "What I really do" panel](http://i.imgur.com/Rbn2any.png)
 - [The Data Science Industry: Who Does What (Infographic)](https://www.datacamp.com/community/tutorials/data-science-industry-infographic#gs.=TDw4ys_)
 - [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial) July 2017.
-
+- [I have data. I need insights. Where do I start?](https://medium.com/towards-data-science/i-have-data-i-need-insights-where-do-i-start-7ddc935ab365)
 
 
