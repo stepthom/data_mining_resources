@@ -19,6 +19,11 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [CMU: Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
 - [CMU: Introduction to Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/)
 - [Elite Data Science](https://elitedatascience.com/)
+- Machine Learning Crash Course
+  - [Part 1 - Introduction, Regression/Classification, Cost Functions, and Gradient Descent](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
+  - [Part 2 - Perceptrons, Logistic Regression, and SVMs](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/) Dec 2016.
+  - [Part 3 - Neural Networks](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/) Feb 2017.
+  - [Part 4 - The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/) July 2017.
 
 ## R Learning Resources
 
@@ -269,10 +274,7 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)
 - [Machine Learning "What I really do" panel](http://i.imgur.com/Rbn2any.png)
 - [The Data Science Industry: Who Does What (Infographic)](https://www.datacamp.com/community/tutorials/data-science-industry-infographic#gs.=TDw4ys_)
-- Machine Learning Crash Course
-  - [Part 1 - Introduction, Regression/Classification, Cost Functions, and Gradient Descent](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
-  - [Part 2 - Perceptrons, Logistic Regression, and SVMs](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/) Dec 2016.
-  - [Part 3 - Neural Networks](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/) Feb 2017.
-  - [Part 4 - The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/) July 2017.
+- [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial) July 2017.
+
 
 
