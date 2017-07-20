@@ -8,7 +8,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Python Learning Resources](#python-learning-resources)
 - [SQL Resources](#sql-resources)
 - [Models](#models)
-- [Data Cleaining](#data-cleaning)
+- [Data Cleaning](#data-cleaning)
 - [Data Visualization](#data-visualization)
 - [Classification Metrics](#classification-metrics)
 - [Use Cases](#use-cases)
@@ -125,6 +125,8 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [YouTube: ROC curves](https://www.youtube.com/watch?v=21Igj5Pr6u4)
 - [YouTube: ROC Curves explained](https://www.youtube.com/watch?v=21Igj5Pr6u4)
 
+
+
 ## Use cases 
 
 - [Google Quick, Draw](https://quickdraw.withgoogle.com/)
@@ -164,6 +166,10 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [Baseball data: Pro sports transactions](http://www.prosportstransactions.com/baseball/Search/Search.php)
 - [Baseball data: Roster Resource](http://www.rosterresource.com/mlb-depth-charts/)
 - [Baseball data: Society of American Baseball Research](http://sabr.org/research)
+
+### Predictive Maintenance
+
+[Optimize Your Operations With Predictive Maintenance: Leverage Real-Time IoT Data to Anticipate Equipment Failure](https://pages.dataiku.com/predictive-maintenance-optimize-operations-ai?utm_campaign=Predictive%20Maintenance&utm_source=paid-eblast-KdNuggets&utm_medium=ebook-predictive-maintenance)
 
 ### See also
 - The original article: https://antontarasenko.com/2015/12/28/machine-learning-for-economists-an-introduction/
@@ -263,5 +269,10 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)
 - [Machine Learning "What I really do" panel](http://i.imgur.com/Rbn2any.png)
 - [The Data Science Industry: Who Does What (Infographic)](https://www.datacamp.com/community/tutorials/data-science-industry-infographic#gs.=TDw4ys_)
+- Machine Learning Crash Course
+  - [Part 1 - Introduction, Regression/Classification, Cost Functions, and Gradient Descent](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
+  - [Part 2 - Perceptrons, Logistic Regression, and SVMs](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/) Dec 2016.
+  - [Part 3 - Neural Networks](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/) Feb 2017.
+  - [Part 4 - The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/) July 2017.
 
 
