@@ -196,6 +196,10 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [Book: Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/)
 - [Blog: MapReduce Questions and Answers](http://meri-stuff.blogspot.ca/2011/10/mapreduce-questions-and-answers.html)
 
+
+#### H20
+
+- [Machine Learning with R and H2O](http://h2o-release.s3.amazonaws.com/h2o/master/3961/docs-website/h2o-docs/booklets/RBooklet.pdf)
 	
 #### [Apache Spark](http://spark.apache.org/)
 
