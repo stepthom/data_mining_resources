@@ -1,5 +1,5 @@
-# Data Mining, Data Analytics, Machine Learning, and Big Data Resources
-A curated list of resources for learning about data mining, data analytics, machine learning, and big data.
+# Data Mining, Data Analytics, Machine Learning, Artificial Intelligence, and Big Data Resources
+A curated list of resources for learning about data mining, data analytics, machine learning, artificial intelligence, and big data.
 
 ## Table of Contents
 
@@ -14,6 +14,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Classification Metrics](#classification-metrics)
 - [Use Cases](#use-cases)
 - [Big Data](#big-data)
+- [Artificial Intelligence](#ai)
 - [Misc](#misc)
 
 ## Courses
@@ -123,6 +124,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 ## Data Cleaning
 - [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
 - [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes). July 2017.
+- (Reducing Dimensionality from Dimensionality Reduction Techniques)[https://medium.com/towards-data-science/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe). July 2017.
 
 ## Data Visualization
 - [Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html). April 2017.
@@ -139,6 +141,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 ## Use cases 
 
+- [Using Machine Learning to Predict Value of Homes On Airbnb](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d). Airbnb Blog. July 2017.
 - [Google Quick, Draw](https://quickdraw.withgoogle.com/)
 - [NYTimes: Will you Graduate? Ask Big Data.](https://mobile.nytimes.com/2017/02/02/education/edlife/will-you-graduate-ask-big-data.html)
 
@@ -273,6 +276,12 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [YouTube: Intro to Spark Streaming](https://www.youtube.com/watch?v=dYBWZTZT6o0)
 - [RStudio Webinar: Using Spark with Shiny and R Markdown](https://www.rstudio.com/resources/webinars/using-spark-with-shiny-and-r-markdown/)
 
+## AI
+
+- [AI, For Real](https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence). HBR. July 2017.
+- [A list of artificial intelligence tools you can use today — for personal use](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
+- [A list of artificial intelligence tools you can use today — for businesses](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-businesses-2-3-eea3ac374835)
+- [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_141)
 
 ## Misc
 
@@ -281,5 +290,6 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [The Data Science Industry: Who Does What (Infographic)](https://www.datacamp.com/community/tutorials/data-science-industry-infographic#gs.=TDw4ys_)
 - [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial) July 2017.
 - [I have data. I need insights. Where do I start?](https://medium.com/towards-data-science/i-have-data-i-need-insights-where-do-i-start-7ddc935ab365)
+- [Unleash the value of PROCESS MINING](https://medium.com/towards-data-science/unleash-the-value-of-process-mining-4e3b5af4e9d8). July 2017
 
 
