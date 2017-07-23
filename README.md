@@ -291,5 +291,6 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial) July 2017.
 - [I have data. I need insights. Where do I start?](https://medium.com/towards-data-science/i-have-data-i-need-insights-where-do-i-start-7ddc935ab365)
 - [Unleash the value of PROCESS MINING](https://medium.com/towards-data-science/unleash-the-value-of-process-mining-4e3b5af4e9d8). July 2017
+- [The 4 Types of Data Analytics](http://www.kdnuggets.com/2017/07/4-types-data-analytics.html)
 
 
