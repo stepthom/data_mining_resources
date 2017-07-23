@@ -3,31 +3,165 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 ## Table of Contents
 
-- [Courses](#courses)
-- [R Learning Resources](#r-learning-resources)
-- [Python Learning Resources](#python-learning-resources)
-- [SQL Resources](#sql-resources)
-- [Models](#models)
-- [Data Exploration](#data-exploration)
-- [Data Cleaning](#data-cleaning)
-- [Data Visualization](#data-visualization)
-- [Classification Metrics](#classification-metrics)
-- [Use Cases](#use-cases)
+- [Overviews of Data Analytics](#overviews-of-data-analytics)
+- [Case Studies, Use Cases, Blogs, Papers](#case-studies-use-cases-blogs-papers)
+- [Data Analytics Process](#data-analytics-process)
+- [Models and Algorithms](#models-and-algorithms)
+- [APIs, Libraries, Tools](#apis-libraries-tools)
 - [Big Data](#big-data)
-- [Artificial Intelligence](#ai)
+- [Courses](#courses)
 - [Misc](#misc)
 
-## Courses
-- [CMU: Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
-- [CMU: Introduction to Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/)
-- [Elite Data Science](https://elitedatascience.com/)
-- Machine Learning Crash Course
-  - [Part 1 - Introduction, Regression/Classification, Cost Functions, and Gradient Descent](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
-  - [Part 2 - Perceptrons, Logistic Regression, and SVMs](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/) Dec 2016.
-  - [Part 3 - Neural Networks](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/) Feb 2017.
-  - [Part 4 - The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/) July 2017.
 
-## R Learning Resources
+## Overviews of Data Analytics
+
+- [The 4 Types of Data Analytics](http://www.kdnuggets.com/2017/07/4-types-data-analytics.html)
+- [What Are Artificial Intelligence, Machine Learning, and Deep Learning?](http://www.kdnuggets.com/2017/07/rapidminer-ai-machine-learning-deep-learning.html)
+- [Machine Learning "What I really do" panel](http://i.imgur.com/Rbn2any.png)
+- [The Data Science Industry: Who Does What (Infographic)](https://www.datacamp.com/community/tutorials/data-science-industry-infographic#gs.=TDw4ys_)
+- [I have data. I need insights. Where do I start?](https://medium.com/towards-data-science/i-have-data-i-need-insights-where-do-i-start-7ddc935ab365)
+
+#### AI
+
+- [AI, For Real](https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence). HBR. July 2017.
+- [A list of artificial intelligence tools you can use today — for personal use](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
+- [A list of artificial intelligence tools you can use today — for businesses](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-businesses-2-3-eea3ac374835)
+
+#### Deep Learnings
+
+- [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_141)
+
+
+## Case Studies, Use Cases, Blogs, Papers
+
+- [Using Machine Learning to Predict Value of Homes On Airbnb](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d). Airbnb Blog. July 2017.
+- [Google Quick, Draw](https://quickdraw.withgoogle.com/)
+- [NYTimes: Will you Graduate? Ask Big Data.](https://mobile.nytimes.com/2017/02/02/education/edlife/will-you-graduate-ask-big-data.html)
+
+#### Business
+- Kaggle, Data Science Use cases. An outline of business applications. Few companies have the data to implement these things. https://www.kaggle.com/wiki/DataScienceUseCases
+- Kaggle, Competitions. (Make sure you chose “All Competitions” and then “Completed”.) Each competition has a leaderboard. When users publish their solutions on GitHub, you can find links to these solutions on the leaderboard. https://www.kaggle.com/competitions
+Industrial solutions are more powerful and complex than these examples, but they are not publicly available. Data-driven companies post some details about this work in their blogs.
+
+#### Learning Analytics, Educational Data Mining
+- [ Educational Data Mining and Learning Analytics](http://www.upenn.edu/learninganalytics/ryanbaker/Educational%20Data%20Mining%20and%20Learning%20Analytics%20-%20DRAFT.pdf)
+- [Learning analytics in higher education.](https://www.jisc.ac.uk/reports/learning-analytics-in-higher-education). A review of UK and international practice.
+- [The beginner's guide to prediction workforce analytics.](http://www.talentanalytics.com/blog/the-beginners-guide-to-predictive-workforce-analytics/)
+
+#### Human Resources Analytics
+- [Kaggle: Human Resources Analytics](https://www.kaggle.com/ludobenistant/hr-analytics)
+- [IBM Employee attrition dataset](https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/
+)
+
+#### Emerging applications
+- Stanford’s CS229 Course, Student projects. See “Recent years’ projects.” Hundreds of short papers. http://cs229.stanford.edu/
+- CMU ML Department, Student projects. More advanced problems, compared to CS229. http://www.ml.cmu.edu/research/data-analysis-projects.html
+- arXiv, Machine Learning. Drafts of important papers appear here first. Then they got published in journals. http://arxiv.org/list/stat.ML/recent
+- CS departments. For example: CMU ML Department, PhD dissertations. http://www.ml.cmu.edu/research/phd-dissertations.html
+
+#### Government
+- Bloomberg and Flowers, “NYC Analytics.” NYC Mayor’s Office of Data Analysis describes their data management system and improvements in operations. http://www.nyc.gov/html/analytics/downloads/pdf/annual_report_2013.pdf
+- UK Government, Tax Agent Segmentation. https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/396175/Report348.pdf
+- Data.gov, Applications. Some are ML-based. http://www.data.gov/applications
+- StackExchange, Applications. http://opendata.stackexchange.com/questions/3346/examples-of-useful-applications-that-are-being-developed-using-open-data
+
+#### Sports
+- [The NFL’s Brewing Information War](https://theringer.com/nfl-information-war-data-advanced-stats-73b6eee2d39f#.413ia8rdt)
+- [Baseball data: Fangraphs](http://www.fangraphs.com/)
+- [Baseball data: Baseball reference](http://www.baseball-reference.com/)
+- [Baseball data: Pro sports transactions](http://www.prosportstransactions.com/baseball/Search/Search.php)
+- [Baseball data: Roster Resource](http://www.rosterresource.com/mlb-depth-charts/)
+- [Baseball data: Society of American Baseball Research](http://sabr.org/research)
+
+#### Predictive Maintenance
+
+[Optimize Your Operations With Predictive Maintenance: Leverage Real-Time IoT Data to Anticipate Equipment Failure](https://pages.dataiku.com/predictive-maintenance-optimize-operations-ai?utm_campaign=Predictive%20Maintenance&utm_source=paid-eblast-KdNuggets&utm_medium=ebook-predictive-maintenance)
+
+#### See also
+- The original article: https://antontarasenko.com/2015/12/28/machine-learning-for-economists-an-introduction/
+- A related list of cases: https://www.quora.com/What-are-some-practical-applications-of-big-data/answer/Anton-Tarasenko-2?srid=i9vl
+
+
+## Data Analytics Process
+
+#### Data Exploration
+
+- [https://ropensci.org/blog/blog/2017/07/11/skimr](https://ropensci.org/blog/blog/2017/07/11/skimr)
+
+#### Data Cleaning
+- [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
+- [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes). July 2017.
+- (Reducing Dimensionality from Dimensionality Reduction Techniques)[https://medium.com/towards-data-science/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe). July 2017.
+
+#### Data Visualization
+- [Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html). April 2017.
+
+#### Classification Metrics
+- [YouTube: The tradeoff between sensitivity and specificity](https://www.youtube.com/watch?v=vtYDyGGeQyo)
+- [Precision, Recall, AUCs and ROCs](https://shapeofdata.wordpress.com/2015/01/05/precision-recall-aucs-and-rocs/) Jan 2015
+- [YouTube: Boosting](https://www.youtube.com/watch?v=GM3CDQfQ4sw)
+- [YouTube: Bagging](https://www.youtube.com/watch?v=2Mg8QD0F1dQ)
+- [YouTube: ROC curves](https://www.youtube.com/watch?v=21Igj5Pr6u4)
+- [YouTube: ROC Curves explained](https://www.youtube.com/watch?v=21Igj5Pr6u4)
+
+
+
+
+
+
+
+
+
+## Models and Algorithms
+
+- [Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/). Feb 2015.
+- [How to choose algorithms for Microsoft Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-choice)
+- [An Empirical Comparison of Supervised Learning Algorithms](http://www.cs.cornell.edu/~caruana/ctp/ct.papers/caruana.icml06.pdf)
+- [Machine Learning Cheat sheet](http://eferm.com/machine-learning-cheat-sheet/)
+- [Machine Learning: Patterns for Predictive Analytics](https://dzone.com/refcardz/machine-learning-predictive)
+- [Machine Learning Algorithm Cheat Sheet](http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet). Sep 2014.
+- [Cheat Sheet – 10 Machine Learning Algorithms & R Commands](http://vitalflux.com/cheat-sheet-10-machine-learning-algorithms-r-commands/). Jan 2015.
+- [scikit-learn: Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+- [Video: Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw). Mar 2016. Google Developers.
+
+#### Decision Trees
+
+- [Blog Post: Machine Learning Made Easy with Talend – Decision Trees](http://www.talend.com/blog/2016/09/29/machine-learning-made-easy-with-talend-%E2%80%93-decision-trees)
+- [Blog post: Why do decision trees work?](https://www.r-bloggers.com/why-do-decision-trees-work/)
+- [Video: Visualizing a Decision Tree - Machine Learning Recipes #2](https://www.youtube.com/watch?v=tNa99PG8hR8). Mar 2016. Google Developers.
+- [Book Chapter: Classification: Basic Concepts, Decision Trees, and Model Evaluation](https://www-users.cs.umn.edu/~kumar/dmbook/ch4.pdf)
+- [The `caret` package](https://topepo.github.io/caret/)
+
+
+#### Regression
+ - [R Tutorials: MULTIPLE REGRESSION](https://ww2.coastal.edu/kingw/statistics/R-tutorials/multregr.html)
+ 
+#### Neural Networks
+- [Video: MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44). June 2015.
+
+#### Support Vector Machines
+- [Support Vector Machines: A Simple Explanation](http://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html)
+
+#### Recommender Systems
+
+- [Recommender Systems 101 – a step by step practical example in R](https://www.r-bloggers.com/recommender-systems-101-a-step-by-step-practical-example-in-r/)
+- [Using R package, recommenderlab, for predicting ratings for MovieLens data](https://ashokharnal.wordpress.com/2014/12/18/using-recommenderlab-for-predicting-ratings-for-movielens-data/)
+- [Recommender Systems Comparison](https://rpubs.com/tarashnot/recommender_comparison)
+- [Building a Movie Recommendation System](https://rpubs.com/jeknov/movieRec)
+
+#### Ensemble
+- [Video: Ensemble](https://www.youtube.com/watch?v=Un9zObFjBH0)
+
+#### Social Network Analysis/Graphs
+- [Network Analysis and Visualization with R and igraph](http://www.kateto.net/wp-content/uploads/2016/01/NetSciX_2016_Workshop.pdf)
+- [Graph-powered Machine Learning at Google](https://research.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html). October 2016.
+
+
+## APIs, Libraries, Tools
+
+- [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial) July 2017.
+
+#### R Learning Resources
 
 - [R for Reproducible Scientific Analysis: Reference](https://swcarpentry.github.io/r-novice-gapminder/reference/). A nice set of tutorials from Software Carpentry.
 - [R for Data Science](http://r4ds.had.co.nz/). An excellent online book by Garrett Grolemund and Hadley Wickham. 
@@ -47,7 +181,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [DataCamp: Data Manipulation in R with dplyr](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
 
 
-## Python Learning Resources
+#### Python Learning Resources
 
 - [DataCamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) Free online course.
 - [DataCamp: All Python courses](https://www.datacamp.com/courses/q:python) Free and paid online courses.
@@ -65,8 +199,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Top 15 Python Libraries for Data Science in 2017](http://www.kdnuggets.com/2017/06/top-15-python-libraries-data-science.html)
 
 
-
-## SQL Resources
+#### SQL Resources
 
 - [SW Carpentry: Databases and SQL](https://github.com/swcarpentry/sql-novice-survey)
 - [The SQL Tutorial for Data Analysis](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
@@ -74,120 +207,66 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [DataCamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
 
 
-## Models
+#### Apache Spark
 
-- [Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/). Feb 2015.
-- [How to choose algorithms for Microsoft Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-choice)
-- [An Empirical Comparison of Supervised Learning Algorithms](http://www.cs.cornell.edu/~caruana/ctp/ct.papers/caruana.icml06.pdf)
-- [Machine Learning Cheat sheet](http://eferm.com/machine-learning-cheat-sheet/)
-- [Machine Learning: Patterns for Predictive Analytics](https://dzone.com/refcardz/machine-learning-predictive)
-- [Machine Learning Algorithm Cheat Sheet](http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet). Sep 2014.
-- [Cheat Sheet – 10 Machine Learning Algorithms & R Commands](http://vitalflux.com/cheat-sheet-10-machine-learning-algorithms-r-commands/). Jan 2015.
-- [scikit-learn: Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
-- [Video: Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw). Mar 2016. Google Developers.
+- [Apache Spark](http://spark.apache.org/)
 
-### Decision Trees
+##### Spark Books
+- [Learning Spark: Lightning-Fast Big Data Analysis](http://shop.oreilly.com/product/0636920028512.do)
+  - [4. Working with Key/Value Pairs](https://www.safaribooksonline.com/library/view/learning-spark/9781449359034/ch04.html)
+- [Advanced Analytics with Spark: Patterns for Learning from Data at Scale](http://shop.oreilly.com/product/0636920035091.do)
+- [Databricks WhitePapers](http://go.databricks.com/mastering-apache-spark-2.0)
 
-- [Blog Post: Machine Learning Made Easy with Talend – Decision Trees](http://www.talend.com/blog/2016/09/29/machine-learning-made-easy-with-talend-%E2%80%93-decision-trees)
-- [Blog post: Why do decision trees work?](https://www.r-bloggers.com/why-do-decision-trees-work/)
-- [Video: Visualizing a Decision Tree - Machine Learning Recipes #2](https://www.youtube.com/watch?v=tNa99PG8hR8). Mar 2016. Google Developers.
-- [Book Chapter: Classification: Basic Concepts, Decision Trees, and Model Evaluation](https://www-users.cs.umn.edu/~kumar/dmbook/ch4.pdf)
-- [The `caret` package](https://topepo.github.io/caret/)
+##### Spark Courses
+- [edX: Big Data Analysis with Apache Spark](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x)
+- [DataCamp: Introduction to Spark in R using sparklyr](https://www.datacamp.com/courses/introduction-to-spark-in-r-using-sparklyr)
 
+##### Spark Conferences
+- [Spark Summit](https://spark-summit.org/)
+  - [Spark Training](https://spark-summit.org/east-2016/spark-training/)
 
-### Regression
- - [R Tutorials: MULTIPLE REGRESSION](https://ww2.coastal.edu/kingw/statistics/R-tutorials/multregr.html)
- 
-### Neural Networks
-- [Video: MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44). June 2015.
-
-### Support Vector Machines
-- [Support Vector Machines: A Simple Explanation](http://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html)
-
-### Recommender Systems
-
-- [Recommender Systems 101 – a step by step practical example in R](https://www.r-bloggers.com/recommender-systems-101-a-step-by-step-practical-example-in-r/)
-- [Using R package, recommenderlab, for predicting ratings for MovieLens data](https://ashokharnal.wordpress.com/2014/12/18/using-recommenderlab-for-predicting-ratings-for-movielens-data/)
-- [Recommender Systems Comparison](https://rpubs.com/tarashnot/recommender_comparison)
-- [Building a Movie Recommendation System](https://rpubs.com/jeknov/movieRec)
-
-#### Ensemble
-- [Video: Ensemble](https://www.youtube.com/watch?v=Un9zObFjBH0)
-
-#### Social Network Analysis/Graphs
-- [Network Analysis and Visualization with R and igraph](http://www.kateto.net/wp-content/uploads/2016/01/NetSciX_2016_Workshop.pdf)
-- [Graph-powered Machine Learning at Google](https://research.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html). October 2016.
-
-## Data Exploration
-
-- [https://ropensci.org/blog/blog/2017/07/11/skimr](https://ropensci.org/blog/blog/2017/07/11/skimr)
-
-## Data Cleaning
-- [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
-- [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes). July 2017.
-- (Reducing Dimensionality from Dimensionality Reduction Techniques)[https://medium.com/towards-data-science/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe). July 2017.
-
-## Data Visualization
-- [Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html). April 2017.
-
-## Classification Metrics
-- [YouTube: The tradeoff between sensitivity and specificity](https://www.youtube.com/watch?v=vtYDyGGeQyo)
-- [Precision, Recall, AUCs and ROCs](https://shapeofdata.wordpress.com/2015/01/05/precision-recall-aucs-and-rocs/) Jan 2015
-- [YouTube: Boosting](https://www.youtube.com/watch?v=GM3CDQfQ4sw)
-- [YouTube: Bagging](https://www.youtube.com/watch?v=2Mg8QD0F1dQ)
-- [YouTube: ROC curves](https://www.youtube.com/watch?v=21Igj5Pr6u4)
-- [YouTube: ROC Curves explained](https://www.youtube.com/watch?v=21Igj5Pr6u4)
+##### Spark Articles/Blogs/Videos
+- [Quora: How do I learn Apache Spark?](https://www.quora.com/How-do-I-learn-Apache-Spark)
+- [Apache Spark: A Unified Engine for Big Data Processing](http://cacm.acm.org/magazines/2016/11/209116-apache-spark/fulltext)
+- [Using Apache Spark to Analyze Large Neuroimaging Datasets](https://blog.dominodatalab.com/pca-on-very-large-neuroimaging-datasets-using-pyspark/). August 2016.
+- [Apache Spark @Scale: A 60 TB+ production use case](https://code.facebook.com/posts/1671373793181703/apache-spark-scale-a-60-tb-production-use-case/)). August 2016.
+- [Big Data Processing with Apache Spark – Part 1: Introduction](https://www.infoq.com/articles/apache-spark-introduction)\
+- [Intro to Apache Spark](https://stanford.edu/~rezab/sparkclass/slides/itas_workshop.pdf)
+- [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
+- [A Powerful Big Data Trio: Spark, Parquet and Avro](http://zenfractal.com/2013/08/21/a-powerful-big-data-trio/)
+- [Interactive Analysis](http://ampcamp.berkeley.edu/big-data-mini-course/data-exploration-using-spark.html)
+- [The RDD API by example](http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html)
+- [Why Apache Spark is a Crossover Hit for Data Scientists](http://blog.cloudera.com/blog/2014/03/why-apache-spark-is-a-crossover-hit-for-data-scientists/)
+- [Building a food recommendation engine with Spark / MLlib and Play](https://chimpler.wordpress.com/2014/07/22/building-a-food-recommendation-engine-with-spark-mllib-and-play/)]
+- [Movie Recommendations and More With Spark](http://mlnick.github.io/blog/2013/04/01/movie-recommendations-and-more-with-spark/)
+- [Blog post: $1.44 per terabyte: setting a new world record with Apache Spark](https://databricks.com/blog/2016/11/14/setting-new-world-record-apache-spark.html) Nov 2016
+- [Blog post: How-to: Predict Telco Churn with Apache Spark MLlib](https://blog.cloudera.com/blog/2016/02/how-to-predict-telco-churn-with-apache-spark-mllib/)
+- [KDNuggets: 7 Steps to Mastering Apache Spark 2.0](http://www.kdnuggets.com/2016/09/7-steps-mastering-apache-spark.html)
+- [Databricks: Introducing Apache Spark 2.0](https://databricks.com/blog/2016/07/26/introducing-apache-spark-2-0.html)
+- [KDNuggets: Apache Spark Key Terms, Explained](http://www.kdnuggets.com/2016/06/spark-key-terms-explained.html)
+- [Article Spark Streaming: What Is It and Who’s Using It?](https://www.datanami.com/2015/11/30/spark-streaming-what-is-it-and-whos-using-it/) Nov 2015
+- [Apache Spark: A Unified Engine for Big Data Processing](https://vimeo.com/185645796)
+- [Spark Summit 2013 - The State of Spark, and Where We're Going Next - Matei Zaharia](https://www.youtube.com/watch?v=nU6vO2EJAb4&feature=youtu.be)
+- [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/zaharia)
+- [First Steps with Spark - Screencast #1](http://spark.apache.org/screencasts/1-first-steps-with-spark.html)
+- [Spark Documentation Overview – Screencast #2](http://spark.apache.org/screencasts/2-spark-documentation-overview.html)
+- [Transformations and Caching - Spark Screencast #3](http://spark.apache.org/screencasts/3-transformations-and-caching.html)
+- [A Standalone Job in Scala - Spark Screencast #4](http://spark.apache.org/screencasts/4-a-standalone-job-in-spark.html)
+- [Apache Spark on YouTube](https://www.youtube.com/user/TheApacheSpark/videos)
+- [Advanced Apache Spark Training](https://www.youtube.com/watch?v=7ooZ4S7Ay6Y)
+- [Structuring Apache Spark 2.0](https://www.youtube.com/watch?v=1a4pgYzeFwE)
+- [Apache Spark 2.0: A Deep Dive Into Structured Streaming](https://www.youtube.com/watch?v=rl8dIzTpxrI)
+- [YouTube: Spark and Spark Streaming at Uber - Meetup talk with Tathagata Das](https://www.youtube.com/watch?v=zKbds9ZPjLE)
+- [YouTube: Building Realtime Data Pipelines with Kafka Connect and Spark Streaming](https://www.youtube.com/watch?v=wMLAlJimPzk)
+- [YouTube: Intro to Spark Streaming](https://www.youtube.com/watch?v=dYBWZTZT6o0)
+- [RStudio Webinar: Using Spark with Shiny and R Markdown](https://www.rstudio.com/resources/webinars/using-spark-with-shiny-and-r-markdown/)
 
 
+#### H20
 
-## Use cases 
+- [Machine Learning with R and H2O](http://h2o-release.s3.amazonaws.com/h2o/master/3961/docs-website/h2o-docs/booklets/RBooklet.pdf)
 
-- [Using Machine Learning to Predict Value of Homes On Airbnb](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d). Airbnb Blog. July 2017.
-- [Google Quick, Draw](https://quickdraw.withgoogle.com/)
-- [NYTimes: Will you Graduate? Ask Big Data.](https://mobile.nytimes.com/2017/02/02/education/edlife/will-you-graduate-ask-big-data.html)
 
-### Business
-- Kaggle, Data Science Use cases. An outline of business applications. Few companies have the data to implement these things. https://www.kaggle.com/wiki/DataScienceUseCases
-- Kaggle, Competitions. (Make sure you chose “All Competitions” and then “Completed”.) Each competition has a leaderboard. When users publish their solutions on GitHub, you can find links to these solutions on the leaderboard. https://www.kaggle.com/competitions
-Industrial solutions are more powerful and complex than these examples, but they are not publicly available. Data-driven companies post some details about this work in their blogs.
-
-### Learning Analytics, Educational Data Mining
-- [ Educational Data Mining and Learning Analytics](http://www.upenn.edu/learninganalytics/ryanbaker/Educational%20Data%20Mining%20and%20Learning%20Analytics%20-%20DRAFT.pdf)
-- [Learning analytics in higher education.](https://www.jisc.ac.uk/reports/learning-analytics-in-higher-education). A review of UK and international practice.
-- [The beginner's guide to prediction workforce analytics.](http://www.talentanalytics.com/blog/the-beginners-guide-to-predictive-workforce-analytics/)
-
-### Human Resources Analytics
-- [Kaggle: Human Resources Analytics](https://www.kaggle.com/ludobenistant/hr-analytics)
-- [IBM Employee attrition dataset](https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/
-)
-
-### Emerging applications
-- Stanford’s CS229 Course, Student projects. See “Recent years’ projects.” Hundreds of short papers. http://cs229.stanford.edu/
-- CMU ML Department, Student projects. More advanced problems, compared to CS229. http://www.ml.cmu.edu/research/data-analysis-projects.html
-- arXiv, Machine Learning. Drafts of important papers appear here first. Then they got published in journals. http://arxiv.org/list/stat.ML/recent
-- CS departments. For example: CMU ML Department, PhD dissertations. http://www.ml.cmu.edu/research/phd-dissertations.html
-
-### Government
-- Bloomberg and Flowers, “NYC Analytics.” NYC Mayor’s Office of Data Analysis describes their data management system and improvements in operations. http://www.nyc.gov/html/analytics/downloads/pdf/annual_report_2013.pdf
-- UK Government, Tax Agent Segmentation. https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/396175/Report348.pdf
-- Data.gov, Applications. Some are ML-based. http://www.data.gov/applications
-- StackExchange, Applications. http://opendata.stackexchange.com/questions/3346/examples-of-useful-applications-that-are-being-developed-using-open-data
-
-### Sports
-- [The NFL’s Brewing Information War](https://theringer.com/nfl-information-war-data-advanced-stats-73b6eee2d39f#.413ia8rdt)
-- [Baseball data: Fangraphs](http://www.fangraphs.com/)
-- [Baseball data: Baseball reference](http://www.baseball-reference.com/)
-- [Baseball data: Pro sports transactions](http://www.prosportstransactions.com/baseball/Search/Search.php)
-- [Baseball data: Roster Resource](http://www.rosterresource.com/mlb-depth-charts/)
-- [Baseball data: Society of American Baseball Research](http://sabr.org/research)
-
-### Predictive Maintenance
-
-[Optimize Your Operations With Predictive Maintenance: Leverage Real-Time IoT Data to Anticipate Equipment Failure](https://pages.dataiku.com/predictive-maintenance-optimize-operations-ai?utm_campaign=Predictive%20Maintenance&utm_source=paid-eblast-KdNuggets&utm_medium=ebook-predictive-maintenance)
-
-### See also
-- The original article: https://antontarasenko.com/2015/12/28/machine-learning-for-economists-an-introduction/
-- A related list of cases: https://www.quora.com/What-are-some-practical-applications-of-big-data/answer/Anton-Tarasenko-2?srid=i9vl
 
 
 ## Big Data
@@ -218,81 +297,19 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [Blog: MapReduce Questions and Answers](http://meri-stuff.blogspot.ca/2011/10/mapreduce-questions-and-answers.html)
 
 
-#### H20
-
-- [Machine Learning with R and H2O](http://h2o-release.s3.amazonaws.com/h2o/master/3961/docs-website/h2o-docs/booklets/RBooklet.pdf)
 	
-#### [Apache Spark](http://spark.apache.org/)
 
-##### Books
-- [Learning Spark: Lightning-Fast Big Data Analysis](http://shop.oreilly.com/product/0636920028512.do)
-  - [4. Working with Key/Value Pairs](https://www.safaribooksonline.com/library/view/learning-spark/9781449359034/ch04.html)
-- [Advanced Analytics with Spark: Patterns for Learning from Data at Scale](http://shop.oreilly.com/product/0636920035091.do)
-- [Databricks WhitePapers](http://go.databricks.com/mastering-apache-spark-2.0)
+## Courses
+- [CMU: Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
+- [CMU: Introduction to Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/)
+- [Elite Data Science](https://elitedatascience.com/)
+- Machine Learning Crash Course
+  - [Part 1 - Introduction, Regression/Classification, Cost Functions, and Gradient Descent](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
+  - [Part 2 - Perceptrons, Logistic Regression, and SVMs](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/) Dec 2016.
+  - [Part 3 - Neural Networks](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/) Feb 2017.
+  - [Part 4 - The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/) July 2017.
 
-##### Courses
-- [edX: Big Data Analysis with Apache Spark](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x)
-- [DataCamp: Introduction to Spark in R using sparklyr](https://www.datacamp.com/courses/introduction-to-spark-in-r-using-sparklyr)
-
-##### Conferences
-- [Spark Summit](https://spark-summit.org/)
-  - [Spark Training](https://spark-summit.org/east-2016/spark-training/)
-
-##### Articles/Blogs
-- [Quora: How do I learn Apache Spark?](https://www.quora.com/How-do-I-learn-Apache-Spark)
-- [Apache Spark: A Unified Engine for Big Data Processing](http://cacm.acm.org/magazines/2016/11/209116-apache-spark/fulltext)
-- [Using Apache Spark to Analyze Large Neuroimaging Datasets](https://blog.dominodatalab.com/pca-on-very-large-neuroimaging-datasets-using-pyspark/). August 2016.
-- [Apache Spark @Scale: A 60 TB+ production use case](https://code.facebook.com/posts/1671373793181703/apache-spark-scale-a-60-tb-production-use-case/)). August 2016.
-- [Big Data Processing with Apache Spark – Part 1: Introduction](https://www.infoq.com/articles/apache-spark-introduction)\
-- [Intro to Apache Spark](https://stanford.edu/~rezab/sparkclass/slides/itas_workshop.pdf)
-- [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
-- [A Powerful Big Data Trio: Spark, Parquet and Avro](http://zenfractal.com/2013/08/21/a-powerful-big-data-trio/)
-- [Interactive Analysis](http://ampcamp.berkeley.edu/big-data-mini-course/data-exploration-using-spark.html)
-- [The RDD API by example](http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html)
-- [Why Apache Spark is a Crossover Hit for Data Scientists](http://blog.cloudera.com/blog/2014/03/why-apache-spark-is-a-crossover-hit-for-data-scientists/)
-- [Building a food recommendation engine with Spark / MLlib and Play](https://chimpler.wordpress.com/2014/07/22/building-a-food-recommendation-engine-with-spark-mllib-and-play/)]
-- [Movie Recommendations and More With Spark](http://mlnick.github.io/blog/2013/04/01/movie-recommendations-and-more-with-spark/)
-- [Blog post: $1.44 per terabyte: setting a new world record with Apache Spark](https://databricks.com/blog/2016/11/14/setting-new-world-record-apache-spark.html) Nov 2016
-- [Blog post: How-to: Predict Telco Churn with Apache Spark MLlib](https://blog.cloudera.com/blog/2016/02/how-to-predict-telco-churn-with-apache-spark-mllib/)
-- [KDNuggets: 7 Steps to Mastering Apache Spark 2.0](http://www.kdnuggets.com/2016/09/7-steps-mastering-apache-spark.html)
-- [Databricks: Introducing Apache Spark 2.0](https://databricks.com/blog/2016/07/26/introducing-apache-spark-2-0.html)
-- [KDNuggets: Apache Spark Key Terms, Explained](http://www.kdnuggets.com/2016/06/spark-key-terms-explained.html)
-- [Article Spark Streaming: What Is It and Who’s Using It?](https://www.datanami.com/2015/11/30/spark-streaming-what-is-it-and-whos-using-it/) Nov 2015
-
-
-##### Videos
-- [Apache Spark: A Unified Engine for Big Data Processing](https://vimeo.com/185645796)
-- [Spark Summit 2013 - The State of Spark, and Where We're Going Next - Matei Zaharia](https://www.youtube.com/watch?v=nU6vO2EJAb4&feature=youtu.be)
-- [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/zaharia)
-- [First Steps with Spark - Screencast #1](http://spark.apache.org/screencasts/1-first-steps-with-spark.html)
-- [Spark Documentation Overview – Screencast #2](http://spark.apache.org/screencasts/2-spark-documentation-overview.html)
-- [Transformations and Caching - Spark Screencast #3](http://spark.apache.org/screencasts/3-transformations-and-caching.html)
-- [A Standalone Job in Scala - Spark Screencast #4](http://spark.apache.org/screencasts/4-a-standalone-job-in-spark.html)
-- [Apache Spark on YouTube](https://www.youtube.com/user/TheApacheSpark/videos)
-- [Advanced Apache Spark Training](https://www.youtube.com/watch?v=7ooZ4S7Ay6Y)
-- [Structuring Apache Spark 2.0](https://www.youtube.com/watch?v=1a4pgYzeFwE)
-- [Apache Spark 2.0: A Deep Dive Into Structured Streaming](https://www.youtube.com/watch?v=rl8dIzTpxrI)
-- [YouTube: Spark and Spark Streaming at Uber - Meetup talk with Tathagata Das](https://www.youtube.com/watch?v=zKbds9ZPjLE)
-- [YouTube: Building Realtime Data Pipelines with Kafka Connect and Spark Streaming](https://www.youtube.com/watch?v=wMLAlJimPzk)
-- [YouTube: Intro to Spark Streaming](https://www.youtube.com/watch?v=dYBWZTZT6o0)
-- [RStudio Webinar: Using Spark with Shiny and R Markdown](https://www.rstudio.com/resources/webinars/using-spark-with-shiny-and-r-markdown/)
-
-## AI
-
-- [AI, For Real](https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence). HBR. July 2017.
-- [A list of artificial intelligence tools you can use today — for personal use](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
-- [A list of artificial intelligence tools you can use today — for businesses](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-businesses-2-3-eea3ac374835)
-- [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_141)
 
 ## Misc
 
 - [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)
-- [Machine Learning "What I really do" panel](http://i.imgur.com/Rbn2any.png)
-- [The Data Science Industry: Who Does What (Infographic)](https://www.datacamp.com/community/tutorials/data-science-industry-infographic#gs.=TDw4ys_)
-- [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial) July 2017.
-- [I have data. I need insights. Where do I start?](https://medium.com/towards-data-science/i-have-data-i-need-insights-where-do-i-start-7ddc935ab365)
-- [Unleash the value of PROCESS MINING](https://medium.com/towards-data-science/unleash-the-value-of-process-mining-4e3b5af4e9d8). July 2017
-- [The 4 Types of Data Analytics](http://www.kdnuggets.com/2017/07/4-types-data-analytics.html)
-- [What Are Artificial Intelligence, Machine Learning, and Deep Learning?](http://www.kdnuggets.com/2017/07/rapidminer-ai-machine-learning-deep-learning.html)
-
-
