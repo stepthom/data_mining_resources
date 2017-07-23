@@ -62,6 +62,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Awesome Python](https://github.com/vinta/awesome-python). Free curated list of more Python resources.
 - [KDNuggets: 7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html). Article.
 - [A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)](https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/). Blog post.
+- [Top 15 Python Libraries for Data Science in 2017](http://www.kdnuggets.com/2017/06/top-15-python-libraries-data-science.html)
 
 
 
