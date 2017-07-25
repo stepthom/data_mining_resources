@@ -126,6 +126,7 @@ Industrial solutions are more powerful and complex than these examples, but they
 
 #### Decision Trees
 
+- [A Practical Guide to Tree Based Learning Algorithms](https://sadanand-singh.github.io/posts/treebasedmodels/). July 2017.
 - [Blog Post: Machine Learning Made Easy with Talend – Decision Trees](http://www.talend.com/blog/2016/09/29/machine-learning-made-easy-with-talend-%E2%80%93-decision-trees)
 - [Blog post: Why do decision trees work?](https://www.r-bloggers.com/why-do-decision-trees-work/)
 - [Video: Visualizing a Decision Tree - Machine Learning Recipes #2](https://www.youtube.com/watch?v=tNa99PG8hR8). Mar 2016. Google Developers.
@@ -205,6 +206,7 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [The SQL Tutorial for Data Analysis](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
 - [SQL is 43 years old - here’s 8 reasons we still use it today](http://blog.sqlizer.io/posts/sql-43/?utm_source=hacker_news). April 2017. [HN Post](https://news.ycombinator.com/item?id=14245354).
 - [DataCamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
+- [SQL Tutorial: How To Write Better Queries](https://www.datacamp.com/community/tutorials/sql-tutorial-query#gs.bQPwFFw)
 
 
 #### Apache Spark
@@ -313,3 +315,4 @@ Industrial solutions are more powerful and complex than these examples, but they
 ## Misc
 
 - [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)
+- [DataCamp: Intro to data.world in Python](https://www.datacamp.com/community/open-courses/intro-to-dataworld-in-python#gs.U5ShDVo)
