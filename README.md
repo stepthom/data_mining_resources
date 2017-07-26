@@ -139,6 +139,8 @@ Industrial solutions are more powerful and complex than these examples, but they
  
 #### Neural Networks
 - [Video: MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44). June 2015.
+- [Introduction to Neural Networks, Advantages and Applications](http://www.kdnuggets.com/2017/07/introduction-neural-networks-advantages-applications.html)
+- [Summary of Unintuitive Properties of Neural Networks](http://www.kdnuggets.com/2017/07/unintuitive-properties-neural-networks.html)
 
 #### Support Vector Machines
 - [Support Vector Machines: A Simple Explanation](http://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html)
@@ -198,6 +200,7 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [KDNuggets: 7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html). Article.
 - [A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)](https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/). Blog post.
 - [Top 15 Python Libraries for Data Science in 2017](http://www.kdnuggets.com/2017/06/top-15-python-libraries-data-science.html)
+- [6 Reasons Why Python Is Suddenly Super Popular](http://www.kdnuggets.com/2017/07/6-reasons-python-suddenly-super-popular.html)
 
 
 #### SQL Resources
