@@ -20,6 +20,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Machine Learning "What I really do" panel](http://i.imgur.com/Rbn2any.png)
 - [The Data Science Industry: Who Does What (Infographic)](https://www.datacamp.com/community/tutorials/data-science-industry-infographic#gs.=TDw4ys_)
 - [I have data. I need insights. Where do I start?](https://medium.com/towards-data-science/i-have-data-i-need-insights-where-do-i-start-7ddc935ab365)
+- [Machine Learning for Economists: An Introduction](https://antontarasenko.com/2015/12/28/machine-learning-for-economists-an-introduction)
 
 #### AI
 
@@ -38,10 +39,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Google Quick, Draw](https://quickdraw.withgoogle.com/)
 - [NYTimes: Will you Graduate? Ask Big Data.](https://mobile.nytimes.com/2017/02/02/education/edlife/will-you-graduate-ask-big-data.html)
 
-#### Business
-- Kaggle, Data Science Use cases. An outline of business applications. Few companies have the data to implement these things. https://www.kaggle.com/wiki/DataScienceUseCases
-- Kaggle, Competitions. (Make sure you chose “All Competitions” and then “Completed”.) Each competition has a leaderboard. When users publish their solutions on GitHub, you can find links to these solutions on the leaderboard. https://www.kaggle.com/competitions
-Industrial solutions are more powerful and complex than these examples, but they are not publicly available. Data-driven companies post some details about this work in their blogs.
+
 
 #### Learning Analytics, Educational Data Mining
 - [ Educational Data Mining and Learning Analytics](http://www.upenn.edu/learninganalytics/ryanbaker/Educational%20Data%20Mining%20and%20Learning%20Analytics%20-%20DRAFT.pdf)
@@ -53,17 +51,11 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [IBM Employee attrition dataset](https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/
 )
 
-#### Emerging applications
-- Stanford’s CS229 Course, Student projects. See “Recent years’ projects.” Hundreds of short papers. http://cs229.stanford.edu/
-- CMU ML Department, Student projects. More advanced problems, compared to CS229. http://www.ml.cmu.edu/research/data-analysis-projects.html
-- arXiv, Machine Learning. Drafts of important papers appear here first. Then they got published in journals. http://arxiv.org/list/stat.ML/recent
-- CS departments. For example: CMU ML Department, PhD dissertations. http://www.ml.cmu.edu/research/phd-dissertations.html
-
 #### Government
-- Bloomberg and Flowers, “NYC Analytics.” NYC Mayor’s Office of Data Analysis describes their data management system and improvements in operations. http://www.nyc.gov/html/analytics/downloads/pdf/annual_report_2013.pdf
-- UK Government, Tax Agent Segmentation. https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/396175/Report348.pdf
-- Data.gov, Applications. Some are ML-based. http://www.data.gov/applications
-- StackExchange, Applications. http://opendata.stackexchange.com/questions/3346/examples-of-useful-applications-that-are-being-developed-using-open-data
+- [NYC Analytics](http://www.nyc.gov/html/analytics/downloads/pdf/annual_report_2013.pdf). NYC Mayor’s Office of Data Analysis describes their data management system and improvements in operations.
+- [UK Government, Tax Agent Segmentation.](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/396175/Report348.pdf)
+- [Data.gov, Applications](http://www.data.gov/applications)
+
 
 #### Sports
 - [The NFL’s Brewing Information War](https://theringer.com/nfl-information-war-data-advanced-stats-73b6eee2d39f#.413ia8rdt)
@@ -77,24 +69,18 @@ Industrial solutions are more powerful and complex than these examples, but they
 
 [Optimize Your Operations With Predictive Maintenance: Leverage Real-Time IoT Data to Anticipate Equipment Failure](https://pages.dataiku.com/predictive-maintenance-optimize-operations-ai?utm_campaign=Predictive%20Maintenance&utm_source=paid-eblast-KdNuggets&utm_medium=ebook-predictive-maintenance)
 
-#### See also
-- The original article: https://antontarasenko.com/2015/12/28/machine-learning-for-economists-an-introduction/
-- A related list of cases: https://www.quora.com/What-are-some-practical-applications-of-big-data/answer/Anton-Tarasenko-2?srid=i9vl
-
 
 ## Data Analytics Process
 
-#### Data Exploration
-
-- [https://ropensci.org/blog/blog/2017/07/11/skimr](https://ropensci.org/blog/blog/2017/07/11/skimr)
+#### Data Exploration and Visualization
+- [skimr](https://ropensci.org/blog/blog/2017/07/11/skimr). Excellent R package for data exploration.
+- [Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html). April 2017.
 
 #### Data Cleaning
 - [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
 - [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes). July 2017.
 - (Reducing Dimensionality from Dimensionality Reduction Techniques)[https://medium.com/towards-data-science/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe). July 2017.
 
-#### Data Visualization
-- [Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html). April 2017.
 
 #### Classification Metrics
 - [YouTube: The tradeoff between sensitivity and specificity](https://www.youtube.com/watch?v=vtYDyGGeQyo)
@@ -103,9 +89,6 @@ Industrial solutions are more powerful and complex than these examples, but they
 - [YouTube: Bagging](https://www.youtube.com/watch?v=2Mg8QD0F1dQ)
 - [YouTube: ROC curves](https://www.youtube.com/watch?v=21Igj5Pr6u4)
 - [YouTube: ROC Curves explained](https://www.youtube.com/watch?v=21Igj5Pr6u4)
-
-
-
 
 
 
