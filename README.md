@@ -79,7 +79,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 #### Data Cleaning
 - [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
 - [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes). July 2017.
-- (Reducing Dimensionality from Dimensionality Reduction Techniques)[https://medium.com/towards-data-science/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe). July 2017.
+- [Reducing Dimensionality from Dimensionality Reduction Techniques](https://medium.com/towards-data-science/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe). July 2017.
 
 
 #### Classification Metrics
@@ -134,6 +134,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Using R package, recommenderlab, for predicting ratings for MovieLens data](https://ashokharnal.wordpress.com/2014/12/18/using-recommenderlab-for-predicting-ratings-for-movielens-data/)
 - [Recommender Systems Comparison](https://rpubs.com/tarashnot/recommender_comparison)
 - [Building a Movie Recommendation System](https://rpubs.com/jeknov/movieRec)
+- [Building a Music Recommender with Deep Learning](http://mattmurray.net/building-a-music-recommender-with-deep-learning/)
 
 #### Ensemble
 - [Video: Ensemble](https://www.youtube.com/watch?v=Un9zObFjBH0)
