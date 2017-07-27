@@ -75,6 +75,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 #### Data Exploration and Visualization
 - [skimr](https://ropensci.org/blog/blog/2017/07/11/skimr). Excellent R package for data exploration.
 - [Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html). April 2017.
+- [What's so hard about histograms?](https://tinlizzie.org/histograms/)
 
 #### Data Cleaning
 - [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
@@ -303,3 +304,4 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 - [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)
 - [DataCamp: Intro to data.world in Python](https://www.datacamp.com/community/open-courses/intro-to-dataworld-in-python#gs.U5ShDVo)
+- [Data Science Weekly's Data Science Resources](https://www.datascienceweekly.org/data-science-resources)
