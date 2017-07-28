@@ -69,6 +69,9 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 [Optimize Your Operations With Predictive Maintenance: Leverage Real-Time IoT Data to Anticipate Equipment Failure](https://pages.dataiku.com/predictive-maintenance-optimize-operations-ai?utm_campaign=Predictive%20Maintenance&utm_source=paid-eblast-KdNuggets&utm_medium=ebook-predictive-maintenance)
 
+#### Disaster Relief
+
+- [Targeting Disaster Relief From Space](http://emilyjanemiller.com/2017/07/12/targeting-disaster-relief/) July 2017.
 
 ## Data Analytics Process
 
@@ -76,6 +79,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [skimr](https://ropensci.org/blog/blog/2017/07/11/skimr). Excellent R package for data exploration.
 - [Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html). April 2017.
 - [What's so hard about histograms?](https://tinlizzie.org/histograms/)
+- [GeoSpatial Data Visualization in R](https://bhaskarvk.github.io/user2017.geodataviz/) July 2017.
 
 #### Data Cleaning
 - [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
@@ -125,6 +129,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Video: MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44). June 2015.
 - [Introduction to Neural Networks, Advantages and Applications](http://www.kdnuggets.com/2017/07/introduction-neural-networks-advantages-applications.html)
 - [Summary of Unintuitive Properties of Neural Networks](http://www.kdnuggets.com/2017/07/unintuitive-properties-neural-networks.html)
+- [Neuroscience-Inspired Artificial Intelligence](http://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3)
 
 #### Support Vector Machines
 - [Support Vector Machines: A Simple Explanation](http://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html)
@@ -135,7 +140,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Using R package, recommenderlab, for predicting ratings for MovieLens data](https://ashokharnal.wordpress.com/2014/12/18/using-recommenderlab-for-predicting-ratings-for-movielens-data/)
 - [Recommender Systems Comparison](https://rpubs.com/tarashnot/recommender_comparison)
 - [Building a Movie Recommendation System](https://rpubs.com/jeknov/movieRec)
-- [Building a Music Recommender with Deep Learning](http://mattmurray.net/building-a-music-recommender-with-deep-learning/)
+- [Building a Music Recommender with Deep Learning](http://mattmurray.net/building-a-music-recommender-with-deep-learning/). Content-based.
 
 #### Ensemble
 - [Video: Ensemble](https://www.youtube.com/watch?v=Un9zObFjBH0)
