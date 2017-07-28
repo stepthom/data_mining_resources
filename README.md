@@ -21,6 +21,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [The Data Science Industry: Who Does What (Infographic)](https://www.datacamp.com/community/tutorials/data-science-industry-infographic#gs.=TDw4ys_)
 - [I have data. I need insights. Where do I start?](https://medium.com/towards-data-science/i-have-data-i-need-insights-where-do-i-start-7ddc935ab365)
 - [Machine Learning for Economists: An Introduction](https://antontarasenko.com/2015/12/28/machine-learning-for-economists-an-introduction)
+- [A Gentle Guide to Machine Learning](https://monkeylearn.com/blog/a-gentle-guide-to-machine-learning/)
 
 #### AI
 
