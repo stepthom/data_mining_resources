@@ -112,7 +112,11 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [scikit-learn: Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 - [Video: Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw). Mar 2016. Google Developers.
 
-#### Decision Trees
+
+#### Regression
+ - [R Tutorials: MULTIPLE REGRESSION](https://ww2.coastal.edu/kingw/statistics/R-tutorials/multregr.html)
+ 
+ #### Decision Trees
 
 - [A Practical Guide to Tree Based Learning Algorithms](https://sadanand-singh.github.io/posts/treebasedmodels/). July 2017.
 - [Blog Post: Machine Learning Made Easy with Talend – Decision Trees](http://www.talend.com/blog/2016/09/29/machine-learning-made-easy-with-talend-%E2%80%93-decision-trees)
@@ -121,15 +125,16 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Book Chapter: Classification: Basic Concepts, Decision Trees, and Model Evaluation](https://www-users.cs.umn.edu/~kumar/dmbook/ch4.pdf)
 - [The `caret` package](https://topepo.github.io/caret/)
 
-
-#### Regression
- - [R Tutorials: MULTIPLE REGRESSION](https://ww2.coastal.edu/kingw/statistics/R-tutorials/multregr.html)
  
 #### Neural Networks
 - [Video: MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44). June 2015.
 - [Introduction to Neural Networks, Advantages and Applications](http://www.kdnuggets.com/2017/07/introduction-neural-networks-advantages-applications.html)
 - [Summary of Unintuitive Properties of Neural Networks](http://www.kdnuggets.com/2017/07/unintuitive-properties-neural-networks.html)
 - [Neuroscience-Inspired Artificial Intelligence](http://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3)
+
+#### Naive Bayes
+
+- [A practical explanation of a Naive Bayes classifier](https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/)
 
 #### Support Vector Machines
 - [Support Vector Machines: A Simple Explanation](http://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html)
