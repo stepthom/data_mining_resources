@@ -138,6 +138,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 #### Support Vector Machines
 - [Support Vector Machines: A Simple Explanation](http://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html)
+- [An introduction to Support Vector Machines (SVM)](https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/)
 
 #### Recommender Systems
 
