@@ -73,7 +73,11 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 #### Disaster Relief
 
-- [Targeting Disaster Relief From Space](http://emilyjanemiller.com/2017/07/12/targeting-disaster-relief/) July 2017.
+- [Targeting Disaster Relief From Space](http://emilyjanemiller.com/2017/07/12/targeting-disaster-relief/) July 2017.]
+
+#### Trading and Investing
+
+- [Impact Of Artificial Intelligence And Machine Learning on Trading And Investing](https://medium.com/towards-data-science/impact-of-artificial-intelligence-and-machine-learning-on-trading-and-investing-7175ef2ad64e)
 
 ## Data Analytics Process
 
@@ -229,6 +233,7 @@ A curated list of resources for learning about data mining, data analytics, mach
   - [Spark Training](https://spark-summit.org/east-2016/spark-training/)
 
 ##### Spark Articles/Blogs/Videos
+- [Should Spark have an API for R?](http://veekaybee.github.io/sparkr/)
 - [Quora: How do I learn Apache Spark?](https://www.quora.com/How-do-I-learn-Apache-Spark)
 - [Apache Spark: A Unified Engine for Big Data Processing](http://cacm.acm.org/magazines/2016/11/209116-apache-spark/fulltext)
 - [Using Apache Spark to Analyze Large Neuroimaging Datasets](https://blog.dominodatalab.com/pca-on-very-large-neuroimaging-datasets-using-pyspark/). August 2016.
