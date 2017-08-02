@@ -101,7 +101,9 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [YouTube: ROC curves](https://www.youtube.com/watch?v=21Igj5Pr6u4)
 - [YouTube: ROC Curves explained](https://www.youtube.com/watch?v=21Igj5Pr6u4)
 
+#### Cross Validation
 
+- [How to squeeze the most from your training data](http://www.kdnuggets.com/2017/07/squeeze-most-from-training-data.html)
 
 
 
@@ -316,6 +318,7 @@ A curated list of resources for learning about data mining, data analytics, mach
   - [Part 2 - Perceptrons, Logistic Regression, and SVMs](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/) Dec 2016.
   - [Part 3 - Neural Networks](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/) Feb 2017.
   - [Part 4 - The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/) July 2017.
+- [Stanford: Data Mining Certificates Online](http://scpd.stanford.edu/ppc/data-mining-certificates-online)
 
 
 ## Misc
