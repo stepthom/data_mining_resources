@@ -29,6 +29,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [A list of artificial intelligence tools you can use today — for personal use](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 - [A list of artificial intelligence tools you can use today — for businesses](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-businesses-2-3-eea3ac374835)
 - [AI and Deep Learning, Explained Simply](http://www.kdnuggets.com/2017/07/ai-deep-learning-explained-simply.html)
+- [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007). August 2017.
 
 #### Deep Learning
 
