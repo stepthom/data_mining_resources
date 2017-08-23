@@ -82,6 +82,8 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 ## Data Analytics Process
 
+- [What is the most important step in a machine learning project?](http://www.kdnuggets.com/2017/08/most-important-step-machine-learning-project.html)
+
 #### Data Exploration and Visualization
 - [skimr](https://ropensci.org/blog/blog/2017/07/11/skimr). Excellent R package for data exploration.
 - [Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html). April 2017.
@@ -140,6 +142,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Introduction to Neural Networks, Advantages and Applications](http://www.kdnuggets.com/2017/07/introduction-neural-networks-advantages-applications.html)
 - [Summary of Unintuitive Properties of Neural Networks](http://www.kdnuggets.com/2017/07/unintuitive-properties-neural-networks.html)
 - [Neuroscience-Inspired Artificial Intelligence](http://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3)
+- [37 Reasons why your Neural Network is not working](http://www.kdnuggets.com/2017/08/37-reasons-neural-network-not-working.html)
 
 #### Naive Bayes
 
@@ -156,6 +159,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Recommender Systems Comparison](https://rpubs.com/tarashnot/recommender_comparison)
 - [Building a Movie Recommendation System](https://rpubs.com/jeknov/movieRec)
 - [Building a Music Recommender with Deep Learning](http://mattmurray.net/building-a-music-recommender-with-deep-learning/). Content-based.
+- [Recommendation System Algorithms: An Overview](http://www.kdnuggets.com/2017/08/recommendation-system-algorithms-overview.html). July 2017.
 
 #### Ensemble
 - [Video: Ensemble](https://www.youtube.com/watch?v=Un9zObFjBH0)
