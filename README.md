@@ -22,6 +22,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [I have data. I need insights. Where do I start?](https://medium.com/towards-data-science/i-have-data-i-need-insights-where-do-i-start-7ddc935ab365)
 - [Machine Learning for Economists: An Introduction](https://antontarasenko.com/2015/12/28/machine-learning-for-economists-an-introduction)
 - [A Gentle Guide to Machine Learning](https://monkeylearn.com/blog/a-gentle-guide-to-machine-learning/)
+- [A visual introduction to machline learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 #### AI
 
@@ -41,6 +42,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Using Machine Learning to Predict Value of Homes On Airbnb](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d). Airbnb Blog. July 2017.
 - [Google Quick, Draw](https://quickdraw.withgoogle.com/)
 - [NYTimes: Will you Graduate? Ask Big Data.](https://mobile.nytimes.com/2017/02/02/education/edlife/will-you-graduate-ask-big-data.html)
+- [Analyzing 1.1 billion NYC taxi and uber trips](http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/)
 
 
 
@@ -51,8 +53,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 #### Human Resources Analytics
 - [Kaggle: Human Resources Analytics](https://www.kaggle.com/ludobenistant/hr-analytics)
-- [IBM Employee attrition dataset](https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/
-)
+- [IBM Employee attrition dataset](https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/)
 
 #### Government
 - [NYC Analytics](http://www.nyc.gov/html/analytics/downloads/pdf/annual_report_2013.pdf). NYC Mayor’s Office of Data Analysis describes their data management system and improvements in operations.
@@ -62,6 +63,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 #### Sports
 - [The NFL’s Brewing Information War](https://theringer.com/nfl-information-war-data-advanced-stats-73b6eee2d39f#.413ia8rdt)
+- [TED: The math behind basketball's wildest moves](https://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves#t-582970)
 - [Baseball data: Fangraphs](http://www.fangraphs.com/)
 - [Baseball data: Baseball reference](http://www.baseball-reference.com/)
 - [Baseball data: Pro sports transactions](http://www.prosportstransactions.com/baseball/Search/Search.php)
@@ -70,7 +72,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 #### Predictive Maintenance
 
-[Optimize Your Operations With Predictive Maintenance: Leverage Real-Time IoT Data to Anticipate Equipment Failure](https://pages.dataiku.com/predictive-maintenance-optimize-operations-ai?utm_campaign=Predictive%20Maintenance&utm_source=paid-eblast-KdNuggets&utm_medium=ebook-predictive-maintenance)
+- [Optimize Your Operations With Predictive Maintenance: Leverage Real-Time IoT Data to Anticipate Equipment Failure](https://pages.dataiku.com/predictive-maintenance-optimize-operations-ai?utm_campaign=Predictive%20Maintenance&utm_source=paid-eblast-KdNuggets&utm_medium=ebook-predictive-maintenance)
 
 #### Disaster Relief
 
@@ -122,6 +124,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Cheat Sheet – 10 Machine Learning Algorithms & R Commands](http://vitalflux.com/cheat-sheet-10-machine-learning-algorithms-r-commands/). Jan 2015.
 - [scikit-learn: Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 - [Video: Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw). Mar 2016. Google Developers.
+- [Top 10 data mining algorithms in plain English](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 
 
 #### Regression
@@ -331,3 +334,4 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)
 - [DataCamp: Intro to data.world in Python](https://www.datacamp.com/community/open-courses/intro-to-dataworld-in-python#gs.U5ShDVo)
 - [Data Science Weekly's Data Science Resources](https://www.datascienceweekly.org/data-science-resources)
+- [7 command line tools for data science](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html)
