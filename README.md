@@ -94,6 +94,8 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [GeoSpatial Data Visualization in R](https://bhaskarvk.github.io/user2017.geodataviz/) July 2017.
 
 #### Data Cleaning
+
+- [The Ultimate Guide to Basic Data Cleaning](http://www.kdnuggets.com/2017/08/socialcops-ultimate-guide-basic-data-cleaning.html)
 - [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
 - [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes). July 2017.
 - [Reducing Dimensionality from Dimensionality Reduction Techniques](https://medium.com/towards-data-science/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe). July 2017.
@@ -141,12 +143,13 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [The `caret` package](https://topepo.github.io/caret/)
 
  
-#### Neural Networks
+#### Neural Networks and Deep Learning
 - [Video: MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44). June 2015.
 - [Introduction to Neural Networks, Advantages and Applications](http://www.kdnuggets.com/2017/07/introduction-neural-networks-advantages-applications.html)
 - [Summary of Unintuitive Properties of Neural Networks](http://www.kdnuggets.com/2017/07/unintuitive-properties-neural-networks.html)
 - [Neuroscience-Inspired Artificial Intelligence](http://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3)
 - [37 Reasons why your Neural Network is not working](http://www.kdnuggets.com/2017/08/37-reasons-neural-network-not-working.html)
+- [7 Steps to Understanding Deep Learning](http://www.kdnuggets.com/2016/01/seven-steps-deep-learning.html)
 
 #### Naive Bayes
 
@@ -172,6 +175,8 @@ A curated list of resources for learning about data mining, data analytics, mach
 #### Social Network Analysis/Graphs
 - [Network Analysis and Visualization with R and igraph](http://www.kateto.net/wp-content/uploads/2016/01/NetSciX_2016_Workshop.pdf)
 - [Graph-powered Machine Learning at Google](https://research.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html). October 2016.
+
+
 
 
 ## APIs, Libraries, Tools
@@ -299,6 +304,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 #### NoSQL
 
+- [7 Steps to Understanding NoSQL Databases](http://www.kdnuggets.com/2016/07/seven-steps-understanding-nosql-databases.html)
 - [Types of NoSQL databases and key criteria for choosing them](http://searchdatamanagement.techtarget.com/feature/Key-criteria-for-choosing-different-types-of-NoSQL-databases)
 - [NoSQL Data Modeling Techniques](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
 - [NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.9r7cl5wcj)
