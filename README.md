@@ -343,3 +343,4 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [DataCamp: Intro to data.world in Python](https://www.datacamp.com/community/open-courses/intro-to-dataworld-in-python#gs.U5ShDVo)
 - [Data Science Weekly's Data Science Resources](https://www.datascienceweekly.org/data-science-resources)
 - [7 command line tools for data science](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html)
+- [Silicon Valley siphons our data like oil. But the deepest drilling has just begun](https://www.theguardian.com/world/2017/aug/23/silicon-valley-big-data-extraction-amazon-whole-foods-facebook?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_146). Aug 2017
