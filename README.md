@@ -23,6 +23,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Machine Learning for Economists: An Introduction](https://antontarasenko.com/2015/12/28/machine-learning-for-economists-an-introduction)
 - [A Gentle Guide to Machine Learning](https://monkeylearn.com/blog/a-gentle-guide-to-machine-learning/)
 - [A visual introduction to machline learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_146)
 
 #### AI
 
