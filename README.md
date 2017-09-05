@@ -34,6 +34,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [AI and Deep Learning, Explained Simply](http://www.kdnuggets.com/2017/07/ai-deep-learning-explained-simply.html)
 - [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007). August 2017.
 - [A Survey of 3,000 Executives Reveals How Businesses Succeed with AI](https://hbr.org/2017/08/a-survey-of-3000-executives-reveals-how-businesses-succeed-with-ai?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_146). HRB. August 2017.
+- [How to Regulate Artificial Intelligence](https://www.nytimes.com/2017/09/01/opinion/artificial-intelligence-regulations-rules.html?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_147). Sep 2017.
 
 #### Deep Learning
 
