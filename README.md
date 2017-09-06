@@ -309,6 +309,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 #### NoSQL
 
+- [Why NoSQL Database?](https://www.couchbase.com/resources/why-nosql)
 - [7 Steps to Understanding NoSQL Databases](http://www.kdnuggets.com/2016/07/seven-steps-understanding-nosql-databases.html)
 - [Types of NoSQL databases and key criteria for choosing them](http://searchdatamanagement.techtarget.com/feature/Key-criteria-for-choosing-different-types-of-NoSQL-databases)
 - [NoSQL Data Modeling Techniques](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
