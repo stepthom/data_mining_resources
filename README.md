@@ -105,6 +105,8 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 
 #### Classification Metrics
+
+- [What metrics should be used for evaluating a model on an imbalanced data set? (precision + recall or ROC=TPR+FPR)](https://medium.com/towards-data-science/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba)
 - [YouTube: The tradeoff between sensitivity and specificity](https://www.youtube.com/watch?v=vtYDyGGeQyo)
 - [Precision, Recall, AUCs and ROCs](https://shapeofdata.wordpress.com/2015/01/05/precision-recall-aucs-and-rocs/) Jan 2015
 - [YouTube: Boosting](https://www.youtube.com/watch?v=GM3CDQfQ4sw)
