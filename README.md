@@ -26,6 +26,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_146)
 - [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12) Aug 2017.
 
+
 #### AI
 
 - [AI, For Real](https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence). HBR. July 2017.
@@ -47,6 +48,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Google Quick, Draw](https://quickdraw.withgoogle.com/)
 - [NYTimes: Will you Graduate? Ask Big Data.](https://mobile.nytimes.com/2017/02/02/education/edlife/will-you-graduate-ask-big-data.html)
 - [Analyzing 1.1 billion NYC taxi and uber trips](http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/)
+- [The Next Wave: Predicting the future of coffee in New York City](https://medium.com/topos-ai/the-next-wave-predicting-the-future-of-coffee-in-new-york-city-23a0c5d62000). Medium, Sep 2017.
 
 
 
@@ -117,7 +119,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 #### Cross Validation
 
 - [How to squeeze the most from your training data](http://www.kdnuggets.com/2017/07/squeeze-most-from-training-data.html)
-
+- [Visualizing Cross-validation Code](http://www.kdnuggets.com/2017/09/visualizing-cross-validation-code.html) Sep 2017.
 
 
 
@@ -257,6 +259,8 @@ A curated list of resources for learning about data mining, data analytics, mach
   - [Spark Training](https://spark-summit.org/east-2016/spark-training/)
 
 ##### Spark Articles/Blogs/Videos
+
+- [Fast track Apache Spark](https://www.oreilly.com/ideas/fast-track-apache-spark?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Data%20Science%20Roundup). Sep 2017.
 - [Should Spark have an API for R?](http://veekaybee.github.io/sparkr/)
 - [Quora: How do I learn Apache Spark?](https://www.quora.com/How-do-I-learn-Apache-Spark)
 - [Apache Spark: A Unified Engine for Big Data Processing](http://cacm.acm.org/magazines/2016/11/209116-apache-spark/fulltext)
@@ -352,3 +356,4 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Data Science Weekly's Data Science Resources](https://www.datascienceweekly.org/data-science-resources)
 - [7 command line tools for data science](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html)
 - [Silicon Valley siphons our data like oil. But the deepest drilling has just begun](https://www.theguardian.com/world/2017/aug/23/silicon-valley-big-data-extraction-amazon-whole-foods-facebook?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_146). Aug 2017
+- [Huge Trello List of Great Data Science Resources](https://trello.com/b/rbpEfMld/data-science)
