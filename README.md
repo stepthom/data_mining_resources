@@ -36,6 +36,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007). August 2017.
 - [A Survey of 3,000 Executives Reveals How Businesses Succeed with AI](https://hbr.org/2017/08/a-survey-of-3000-executives-reveals-how-businesses-succeed-with-ai?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_146). HRB. August 2017.
 - [How to Regulate Artificial Intelligence](https://www.nytimes.com/2017/09/01/opinion/artificial-intelligence-regulations-rules.html?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_147). Sep 2017.
+- [Will AI kill us all after taking our jobs?](http://www.kdnuggets.com/2017/09/will-ai-kill-after-taking-jobs.html) Sep 2017.
 
 #### Deep Learning
 
@@ -49,6 +50,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [NYTimes: Will you Graduate? Ask Big Data.](https://mobile.nytimes.com/2017/02/02/education/edlife/will-you-graduate-ask-big-data.html)
 - [Analyzing 1.1 billion NYC taxi and uber trips](http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/)
 - [The Next Wave: Predicting the future of coffee in New York City](https://medium.com/topos-ai/the-next-wave-predicting-the-future-of-coffee-in-new-york-city-23a0c5d62000). Medium, Sep 2017.
+- [New-Age Machine Learning Algorithms in Retail Lending](http://www.kdnuggets.com/2017/09/machine-learning-algorithms-lending.html) Sep 2017.
 
 
 
@@ -157,6 +159,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Neuroscience-Inspired Artificial Intelligence](http://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3)
 - [37 Reasons why your Neural Network is not working](http://www.kdnuggets.com/2017/08/37-reasons-neural-network-not-working.html)
 - [7 Steps to Understanding Deep Learning](http://www.kdnuggets.com/2016/01/seven-steps-deep-learning.html)
+- [Neural Network Foundations, Explained: Activation Function](http://www.kdnuggets.com/2017/09/neural-network-foundations-explained-activation-function.html)
 
 #### Naive Bayes
 
@@ -307,6 +310,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 ## Big Data
 
+- [Big Data Architecture: A Complete and Detailed Overview](http://www.kdnuggets.com/2017/09/big-data-architecture-overview.html)
 - [The Infrastructure Behind Twitter: Scale](https://blog.twitter.com/2017/the-infrastructure-behind-twitter-scale) Jan 2017
 - [Study on Big Data in Public Health, Telemedine and Healthcare](http://www.ehealthnews.eu/download/publications/5093-study-on-big-data-in-public-health-telemedine-and-healthcare). Dec 2016.
 - [Michael Stonebraker | Big Data is (at least) Four Different Problems](https://www.youtube.com/watch?v=KRcecxdGxvQ&feature=youtu.be)
