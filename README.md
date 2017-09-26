@@ -243,6 +243,8 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [The SQL Tutorial for Data Analysis](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
 - [SQL is 43 years old - here’s 8 reasons we still use it today](http://blog.sqlizer.io/posts/sql-43/?utm_source=hacker_news). April 2017. [HN Post](https://news.ycombinator.com/item?id=14245354).
 - [SQL Tutorial: How To Write Better Queries](https://www.datacamp.com/community/tutorials/sql-tutorial-query#gs.bQPwFFw)
+- [Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
+- [Franchise: An open-source notebook for SQL](https://franchise.cloud)
 
 
 #### Apache Spark
