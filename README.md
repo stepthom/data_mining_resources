@@ -181,6 +181,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 #### Ensemble
 - [Video: Ensemble](https://www.youtube.com/watch?v=Un9zObFjBH0)
+- [Ensemble Learning to Improve Machine Learning Results](http://www.kdnuggets.com/2017/09/ensemble-learning-improve-machine-learning-results.html) Sep 2017.
 
 #### Social Network Analysis/Graphs
 - [Network Analysis and Visualization with R and igraph](http://www.kateto.net/wp-content/uploads/2016/01/NetSciX_2016_Workshop.pdf)
