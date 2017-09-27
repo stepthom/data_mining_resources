@@ -187,6 +187,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 #### Social Network Analysis/Graphs
 - [Network Analysis and Visualization with R and igraph](http://www.kateto.net/wp-content/uploads/2016/01/NetSciX_2016_Workshop.pdf)
 - [Graph-powered Machine Learning at Google](https://research.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html). October 2016.
+- [Systems Applications of Social Networks](https://dl.acm.org/citation.cfm?id=3092742). ACM Computing Surveys, Sep 2017.
 
 #### Reinforcement Learning
 
