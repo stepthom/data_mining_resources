@@ -143,7 +143,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 #### Regression
  - [R Tutorials: MULTIPLE REGRESSION](https://ww2.coastal.edu/kingw/statistics/R-tutorials/multregr.html)
  
- #### Decision Trees
+#### Decision Trees
 
 - [A Practical Guide to Tree Based Learning Algorithms](https://sadanand-singh.github.io/posts/treebasedmodels/). July 2017.
 - [Blog Post: Machine Learning Made Easy with Talend – Decision Trees](http://www.talend.com/blog/2016/09/29/machine-learning-made-easy-with-talend-%E2%80%93-decision-trees)
@@ -188,7 +188,9 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Network Analysis and Visualization with R and igraph](http://www.kateto.net/wp-content/uploads/2016/01/NetSciX_2016_Workshop.pdf)
 - [Graph-powered Machine Learning at Google](https://research.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html). October 2016.
 
+#### Reinforcement Learning
 
+- [5 Ways to Get Started with Reinforcement Learning](http://www.kdnuggets.com/2017/09/5-ways-get-started-reinforcement-learning.html)
 
 
 ## APIs, Libraries, Tools
