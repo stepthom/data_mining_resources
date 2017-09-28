@@ -161,6 +161,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [37 Reasons why your Neural Network is not working](http://www.kdnuggets.com/2017/08/37-reasons-neural-network-not-working.html)
 - [7 Steps to Understanding Deep Learning](http://www.kdnuggets.com/2016/01/seven-steps-deep-learning.html)
 - [Neural Network Foundations, Explained: Activation Function](http://www.kdnuggets.com/2017/09/neural-network-foundations-explained-activation-function.html)
+- [Neural Network from Scratch](https://jtsulliv.github.io/perceptron/)
 
 #### Naive Bayes
 
