@@ -38,6 +38,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [A Survey of 3,000 Executives Reveals How Businesses Succeed with AI](https://hbr.org/2017/08/a-survey-of-3000-executives-reveals-how-businesses-succeed-with-ai?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_146). HRB. August 2017.
 - [How to Regulate Artificial Intelligence](https://www.nytimes.com/2017/09/01/opinion/artificial-intelligence-regulations-rules.html?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_147). Sep 2017.
 - [Will AI kill us all after taking our jobs?](http://www.kdnuggets.com/2017/09/will-ai-kill-after-taking-jobs.html) Sep 2017.
+- [Is AI Riding a One-Trick Pony?](https://www.technologyreview.com/s/608911/is-ai-riding-a-one-trick-pony/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_151)
 
 #### Deep Learning
 
