@@ -118,6 +118,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [YouTube: Bagging](https://www.youtube.com/watch?v=2Mg8QD0F1dQ)
 - [YouTube: ROC curves](https://www.youtube.com/watch?v=21Igj5Pr6u4)
 - [YouTube: ROC Curves explained](https://www.youtube.com/watch?v=21Igj5Pr6u4)
+- [The Best Metric to Measure Accuracy of Classification Models](http://www.kdnuggets.com/2016/12/best-metric-measure-accuracy-classification-models.html)
 
 #### Cross Validation
 
