@@ -141,6 +141,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [scikit-learn: Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 - [Video: Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw). Mar 2016. Google Developers.
 - [Top 10 data mining algorithms in plain English](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+- [Understanding Machine Learning Algorithms](http://www.kdnuggets.com/2017/10/understanding-machine-learning-algorithms.html)
 
 
 #### Regression
