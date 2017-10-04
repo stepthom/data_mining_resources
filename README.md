@@ -88,8 +88,9 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 - [Targeting Disaster Relief From Space](http://emilyjanemiller.com/2017/07/12/targeting-disaster-relief/) July 2017.]
 
-#### Trading and Investing
+#### Finance, Trading, and Investing
 
+- [Top 10 Videos on Machine Learning in Finance](http://www.kdnuggets.com/2017/09/top-10-videos-machine-learning-finance.html)
 - [Impact Of Artificial Intelligence And Machine Learning on Trading And Investing](https://medium.com/towards-data-science/impact-of-artificial-intelligence-and-machine-learning-on-trading-and-investing-7175ef2ad64e)
 
 ## Data Analytics Process
@@ -326,6 +327,10 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Study on Big Data in Public Health, Telemedine and Healthcare](http://www.ehealthnews.eu/download/publications/5093-study-on-big-data-in-public-health-telemedine-and-healthcare). Dec 2016.
 - [Michael Stonebraker | Big Data is (at least) Four Different Problems](https://www.youtube.com/watch?v=KRcecxdGxvQ&feature=youtu.be)
 - [Don't use Hadoop - your data isn't that big](https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html). 2013. ([HN discussion](https://news.ycombinator.com/item?id=14401399).)
+
+#### Blockchain
+
+- [Introduction to Blockchains & What It Means to Big Data](http://www.kdnuggets.com/2017/09/introduction-blockchain-big-data.html)
 
 
 #### NoSQL
