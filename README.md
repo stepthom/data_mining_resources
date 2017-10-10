@@ -39,6 +39,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [How to Regulate Artificial Intelligence](https://www.nytimes.com/2017/09/01/opinion/artificial-intelligence-regulations-rules.html?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_147). Sep 2017.
 - [Will AI kill us all after taking our jobs?](http://www.kdnuggets.com/2017/09/will-ai-kill-after-taking-jobs.html) Sep 2017.
 - [Is AI Riding a One-Trick Pony?](https://www.technologyreview.com/s/608911/is-ai-riding-a-one-trick-pony/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_151)
+- [http://www.euromoneythoughtleadership.com/ghostsinthemachine/](http://www.euromoneythoughtleadership.com/ghostsinthemachine/)
 
 #### Deep Learning
 
@@ -92,6 +93,15 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 - [Top 10 Videos on Machine Learning in Finance](http://www.kdnuggets.com/2017/09/top-10-videos-machine-learning-finance.html)
 - [Impact Of Artificial Intelligence And Machine Learning on Trading And Investing](https://medium.com/towards-data-science/impact-of-artificial-intelligence-and-machine-learning-on-trading-and-investing-7175ef2ad64e)
+
+#### Credit Risk
+
+- (CASE STUDY: FERRATUM BANK)[https://www.yhat.com/case-studies/ferratum]
+- (Machine Learning: Challenges, Lessons, and Opportunities in Credit Risk Modeling)[https://www.moodysanalytics.com/risk-perspectives-magazine/managing-disruption/spotlight/machine-learning-challenges-lessons-and-opportunities-in-credit-risk-modeling] July 2017
+- (Consumer Credit Risk Models via
+Machine-Learning Algorithms)[http://mitsloan.mit.edu/media/Lo_ConsumerCreditRiskModels.pdf]. Amir E. Khandani, Adlar J. Kim, and Andrew W. Lo. 2010.
+- (How to Build Credit Risk Models Using AI and Machine Learning)[http://www.fico.com/en/blogs/analytics-optimization/how-to-build-credit-risk-models-using-ai-and-machine-learning/]
+
 
 ## Data Analytics Process
 
