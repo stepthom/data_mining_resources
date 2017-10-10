@@ -96,8 +96,8 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 #### Credit Risk
 
-- [CASE STUDY: FERRATUM BANK](https://www.yhat.com/case-studies/ferratum]
-- [Machine Learning: Challenges, Lessons, and Opportunities in Credit Risk Modeling](https://www.moodysanalytics.com/risk-perspectives-magazine/managing-disruption/spotlight/machine-learning-challenges-lessons-and-opportunities-in-credit-risk-modeling] July 2017
+- [CASE STUDY: FERRATUM BANK](https://www.yhat.com/case-studies/ferratum)
+- [Machine Learning: Challenges, Lessons, and Opportunities in Credit Risk Modeling](https://www.moodysanalytics.com/risk-perspectives-magazine/managing-disruption/spotlight/machine-learning-challenges-lessons-and-opportunities-in-credit-risk-modeling). July 2017
 - [Consumer Credit Risk Models via
 Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRiskModels.pdf). Amir E. Khandani, Adlar J. Kim, and Andrew W. Lo. 2010.
 - [How to Build Credit Risk Models Using AI and Machine Learning](http://www.fico.com/en/blogs/analytics-optimization/how-to-build-credit-risk-models-using-ai-and-machine-learning/)
