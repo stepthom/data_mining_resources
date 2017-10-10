@@ -109,6 +109,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
 - [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes). July 2017.
 - [Reducing Dimensionality from Dimensionality Reduction Techniques](https://medium.com/towards-data-science/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe). July 2017.
+- [Your Data is Being Manipulated](https://points.datasociety.net/your-data-is-being-manipulated-a7e31a83577b)
 
 
 #### Classification Metrics
@@ -166,6 +167,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [7 Steps to Understanding Deep Learning](http://www.kdnuggets.com/2016/01/seven-steps-deep-learning.html)
 - [Neural Network Foundations, Explained: Activation Function](http://www.kdnuggets.com/2017/09/neural-network-foundations-explained-activation-function.html)
 - [Neural Network from Scratch](https://jtsulliv.github.io/perceptron/)
+- [But what *is* a Neural Network? | Deep learning, Part 1](https://www.youtube.com/watch?feature=youtu.be&utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_152&v=aircAruvnKk)
 
 #### Naive Bayes
 
