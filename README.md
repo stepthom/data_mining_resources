@@ -39,7 +39,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [How to Regulate Artificial Intelligence](https://www.nytimes.com/2017/09/01/opinion/artificial-intelligence-regulations-rules.html?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_147). Sep 2017.
 - [Will AI kill us all after taking our jobs?](http://www.kdnuggets.com/2017/09/will-ai-kill-after-taking-jobs.html) Sep 2017.
 - [Is AI Riding a One-Trick Pony?](https://www.technologyreview.com/s/608911/is-ai-riding-a-one-trick-pony/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_151)
-- [http://www.euromoneythoughtleadership.com/ghostsinthemachine/](http://www.euromoneythoughtleadership.com/ghostsinthemachine/)
+
 
 #### Deep Learning
 
@@ -65,6 +65,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 #### Human Resources Analytics
 - [Kaggle: Human Resources Analytics](https://www.kaggle.com/ludobenistant/hr-analytics)
 - [IBM Employee attrition dataset](https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/)
+- [Using Machine Learning to Predict and Explain Employee Attrition](https://www.kdnuggets.com/2017/10/machine-learning-predict-employee-attrition.html)
 
 #### Government
 - [NYC Analytics](http://www.nyc.gov/html/analytics/downloads/pdf/annual_report_2013.pdf). NYC Mayor’s Office of Data Analysis describes their data management system and improvements in operations.
@@ -75,15 +76,12 @@ A curated list of resources for learning about data mining, data analytics, mach
 #### Sports
 - [The NFL’s Brewing Information War](https://theringer.com/nfl-information-war-data-advanced-stats-73b6eee2d39f#.413ia8rdt)
 - [TED: The math behind basketball's wildest moves](https://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves#t-582970)
-- [Baseball data: Fangraphs](http://www.fangraphs.com/)
-- [Baseball data: Baseball reference](http://www.baseball-reference.com/)
-- [Baseball data: Pro sports transactions](http://www.prosportstransactions.com/baseball/Search/Search.php)
-- [Baseball data: Roster Resource](http://www.rosterresource.com/mlb-depth-charts/)
-- [Baseball data: Society of American Baseball Research](http://sabr.org/research)
+
 
 #### Predictive Maintenance
 
 - [Optimize Your Operations With Predictive Maintenance: Leverage Real-Time IoT Data to Anticipate Equipment Failure](https://pages.dataiku.com/predictive-maintenance-optimize-operations-ai?utm_campaign=Predictive%20Maintenance&utm_source=paid-eblast-KdNuggets&utm_medium=ebook-predictive-maintenance)
+- [Applied Data Science: Solving a Predictive Maintenance Business Problem](https://www.kdnuggets.com/2017/10/applied-data-science-solving-predictive-maintenance-business-problem.html)
 
 #### Disaster Relief
 
@@ -93,6 +91,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 - [Top 10 Videos on Machine Learning in Finance](http://www.kdnuggets.com/2017/09/top-10-videos-machine-learning-finance.html)
 - [Impact Of Artificial Intelligence And Machine Learning on Trading And Investing](https://medium.com/towards-data-science/impact-of-artificial-intelligence-and-machine-learning-on-trading-and-investing-7175ef2ad64e)
+- [Ghosts in the Machine: AI, risks and regulations in financial markets](http://www.euromoneythoughtleadership.com/ghostsinthemachine/)
 
 #### Credit Risk
 
@@ -112,6 +111,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html). April 2017.
 - [What's so hard about histograms?](https://tinlizzie.org/histograms/)
 - [GeoSpatial Data Visualization in R](https://bhaskarvk.github.io/user2017.geodataviz/) July 2017.
+- [The 5 Common Mistakes That Lead to Bad Data Visualization](https://www.kdnuggets.com/2017/10/5-common-mistakes-bad-data-visualization.html)
 
 #### Data Cleaning
 
@@ -234,6 +234,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [DataCamp: Cleaning Data in R](https://www.datacamp.com/courses/cleaning-data-in-r)
 - [DataCamp: Joining Data in R with Dplyr](https://www.datacamp.com/courses/joining-data-in-r-with-dplyr)
 - [DataCamp: Data Manipulation in R with dplyr](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
+- [Tidyverse, an opinionated Data Science Toolbox in R from Hadley Wickham](https://www.kdnuggets.com/2017/10/tidyverse-powerful-r-toolbox.html)
 
 
 #### Python Learning Resources
@@ -381,6 +382,13 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
   - [Part 4 - The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/) July 2017.
 - [Stanford: Data Mining Certificates Online](http://scpd.stanford.edu/ppc/data-mining-certificates-online)
 
+## Datasets
+
+- [Baseball data: Fangraphs](http://www.fangraphs.com/)
+- [Baseball data: Baseball reference](http://www.baseball-reference.com/)
+- [Baseball data: Pro sports transactions](http://www.prosportstransactions.com/baseball/Search/Search.php)
+- [Baseball data: Roster Resource](http://www.rosterresource.com/mlb-depth-charts/)
+- [Baseball data: Society of American Baseball Research](http://sabr.org/research)
 
 ## Misc
 
