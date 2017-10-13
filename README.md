@@ -10,7 +10,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [APIs, Libraries, Tools](#apis-libraries-tools)
 - [Big Data](#big-data)
 - [Courses](#courses)
-= [Datasets](#datasets)
+- [Datasets](#datasets)
 - [Misc](#misc)
 
 
@@ -273,6 +273,12 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
 - [Franchise: An open-source notebook for SQL](https://franchise.cloud)
 
+
+#### Weka Resources
+
+- [The Weka Workbench](https://www.cs.waikato.ac.nz/ml/weka/Witten_et_al_2016_appendix.pdf)
+- [Video: Weka Data Mining Tutorial for First Time & Beginner Users](https://www.youtube.com/watch?v=m7kpIBGEdkI)
+- [Videos: WekaMOOC: Data Mining with Weka](https://www.youtube.com/user/WekaMOOC)
 
 #### Apache Spark
 
