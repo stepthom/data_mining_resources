@@ -10,6 +10,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [APIs, Libraries, Tools](#apis-libraries-tools)
 - [Big Data](#big-data)
 - [Courses](#courses)
+= [Datasets](#datasets)
 - [Misc](#misc)
 
 
@@ -393,11 +394,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [r/datasets](https://www.reddit.com/r/datasets/)
 - [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [R's `datasets` package](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html)
-- [Baseball data: Fangraphs](http://www.fangraphs.com/)
-- [Baseball data: Baseball reference](http://www.baseball-reference.com/)
-- [Baseball data: Pro sports transactions](http://www.prosportstransactions.com/baseball/Search/Search.php)
-- [Baseball data: Roster Resource](http://www.rosterresource.com/mlb-depth-charts/)
-- [Baseball data: Society of American Baseball Research](http://sabr.org/research)
+
 
 ## Misc
 
