@@ -388,6 +388,11 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 
 ## Datasets
 
+- [UCI](https://archive.ics.uci.edu/ml/datasets.html)
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
+- [r/datasets](https://www.reddit.com/r/datasets/)
+- [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets)
+- [R's `datasets` package](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html)
 - [Baseball data: Fangraphs](http://www.fangraphs.com/)
 - [Baseball data: Baseball reference](http://www.baseball-reference.com/)
 - [Baseball data: Pro sports transactions](http://www.prosportstransactions.com/baseball/Search/Search.php)
