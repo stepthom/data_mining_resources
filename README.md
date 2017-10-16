@@ -279,6 +279,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [The Weka Workbench](https://www.cs.waikato.ac.nz/ml/weka/Witten_et_al_2016_appendix.pdf)
 - [Video: Weka Data Mining Tutorial for First Time & Beginner Users](https://www.youtube.com/watch?v=m7kpIBGEdkI)
 - [Videos: WekaMOOC: Data Mining with Weka](https://www.youtube.com/user/WekaMOOC)
+- [FutureLearn: Data Mining with Weka](https://www.futurelearn.com/courses/data-mining-with-weka)
 
 #### Apache Spark
 
