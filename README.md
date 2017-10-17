@@ -179,6 +179,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Neural Network Foundations, Explained: Activation Function](http://www.kdnuggets.com/2017/09/neural-network-foundations-explained-activation-function.html)
 - [Neural Network from Scratch](https://jtsulliv.github.io/perceptron/)
 - [But what *is* a Neural Network? | Deep learning, Part 1](https://www.youtube.com/watch?feature=youtu.be&utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_152&v=aircAruvnKk)
+- [Gradient descent, how neural networks learn | Deep learning, part 2](https://www.youtube.com/watch?feature=youtu.be&utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_153&v=IHZwWFHWa-w)
 
 #### Naive Bayes
 
@@ -201,6 +202,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Building a Movie Recommendation System](https://rpubs.com/jeknov/movieRec)
 - [Building a Music Recommender with Deep Learning](http://mattmurray.net/building-a-music-recommender-with-deep-learning/). Content-based.
 - [Recommendation System Algorithms: An Overview](http://www.kdnuggets.com/2017/08/recommendation-system-algorithms-overview.html). July 2017.
+- [Spotify’s Discover Weekly: How machine learning finds your new music](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe) Oct 2017
 
 #### Ensemble
 - [Video: Ensemble](https://www.youtube.com/watch?v=Un9zObFjBH0)
