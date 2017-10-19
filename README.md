@@ -180,6 +180,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Neural Network from Scratch](https://jtsulliv.github.io/perceptron/)
 - [But what *is* a Neural Network? | Deep learning, Part 1](https://www.youtube.com/watch?feature=youtu.be&utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_152&v=aircAruvnKk)
 - [Gradient descent, how neural networks learn | Deep learning, part 2](https://www.youtube.com/watch?feature=youtu.be&utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_153&v=IHZwWFHWa-w)
+- [Ranking Popular Deep Learning Libraries for Data Science](https://blog.thedataincubator.com/2017/10/ranking-popular-deep-learning-libraries-for-data-science/) Oct 2017
 
 #### Naive Bayes
 
