@@ -197,6 +197,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 
 - [A Gentle Introduction on Market Basket Analysis — Association Rules](https://medium.com/towards-data-science/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce) Sep 2017
 - [Association Rules and the Apriori Algorithm: A Tutorial](https://www.kdnuggets.com/2016/04/association-rules-apriori-algorithm-tutorial.html)
+- [Kaggle: Frequent Itemsets and Association Rules](https://www.kaggle.com/msp48731/frequent-itemsets-and-association-rules)
 
 #### Recommender Systems
 
