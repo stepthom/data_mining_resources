@@ -408,6 +408,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [r/datasets](https://www.reddit.com/r/datasets/)
 - [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [R's `datasets` package](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html)
+- [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/)
 
 
 ## Misc
