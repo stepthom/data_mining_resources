@@ -138,6 +138,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 
 - [How to squeeze the most from your training data](http://www.kdnuggets.com/2017/07/squeeze-most-from-training-data.html)
 - [Visualizing Cross-validation Code](http://www.kdnuggets.com/2017/09/visualizing-cross-validation-code.html) Sep 2017.
+- [Selecting the best model in scikit-learn using cross-validation](https://www.youtube.com/watch?v=6dbrR-WymjI) June 2015.
 
 
 
