@@ -11,6 +11,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Big Data](#big-data)
 - [Courses](#courses)
 - [Datasets](#datasets)
+- [Career/Meta](#career)
 - [Misc](#misc)
 
 
@@ -411,6 +412,9 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [R's `datasets` package](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html)
 - [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/)
 
+## Career
+
+- [The State of Data Science and Machine Learning, 2017 Survery](https://www.kaggle.com/surveys/2017)
 
 ## Misc
 
