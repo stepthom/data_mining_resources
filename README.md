@@ -224,6 +224,8 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Network Analysis and Visualization with R and igraph](http://www.kateto.net/wp-content/uploads/2016/01/NetSciX_2016_Workshop.pdf)
 - [Graph-powered Machine Learning at Google](https://research.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html). October 2016.
 - [Systems Applications of Social Networks](https://dl.acm.org/citation.cfm?id=3092742). ACM Computing Surveys, Sep 2017.
+- [Data Mining for Predictive Social Network Analysis – Brazil Elections Case Study](https://www.kdnuggets.com/2015/11/data-mining-predictive-social-network-analysis.html) Nov 2015.
+- [The Star Wars social networks – who is the central character?](https://www.kdnuggets.com/2015/12/star-wars-social-network-who-is-central-character.html) Dec 2015.
 
 #### Reinforcement Learning
 
