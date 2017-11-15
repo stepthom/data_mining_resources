@@ -115,6 +115,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [GeoSpatial Data Visualization in R](https://bhaskarvk.github.io/user2017.geodataviz/) July 2017.
 - [The 5 Common Mistakes That Lead to Bad Data Visualization](https://www.kdnuggets.com/2017/10/5-common-mistakes-bad-data-visualization.html)
 
+
 #### Data Cleaning
 
 - [The Ultimate Guide to Basic Data Cleaning](http://www.kdnuggets.com/2017/08/socialcops-ultimate-guide-basic-data-cleaning.html)
@@ -188,6 +189,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 #### Naive Bayes
 
 - [A practical explanation of a Naive Bayes classifier](https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/)
+- [Nomograms for Visualization of Naive Bayesian Classifier](http://www.saedsayad.com/docs/Nomograms.pdf)
 
 #### Support Vector Machines
 - [Support Vector Machines: A Simple Explanation](http://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html)
