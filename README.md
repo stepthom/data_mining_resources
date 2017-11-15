@@ -232,7 +232,9 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [5 Ways to Get Started with Reinforcement Learning](http://www.kdnuggets.com/2017/09/5-ways-get-started-reinforcement-learning.html)
 - [Reinforcement Learning and Its Practical Applications](https://chatbotsmagazine.com/reinforcement-learning-and-its-practical-applications-8499e60cf751)
 
+#### Logistic Regression
 
+- [Implementing Logistic Regression using Titanic dataset in R](https://analyticsdefined.com/implementing-logistic-regression-using-titanic-dataset-r/)
 
 
 ## APIs, Libraries, Tools
