@@ -46,6 +46,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 #### Deep Learning
 
 - [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_141)
+- [Structured Deep Learning](https://towardsdatascience.com/structured-deep-learning-b8ca4138b848)
 
 
 ## Case Studies, Use Cases, Blogs, Papers
