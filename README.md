@@ -41,6 +41,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [How to Regulate Artificial Intelligence](https://www.nytimes.com/2017/09/01/opinion/artificial-intelligence-regulations-rules.html?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_147). Sep 2017.
 - [Will AI kill us all after taking our jobs?](http://www.kdnuggets.com/2017/09/will-ai-kill-after-taking-jobs.html) Sep 2017.
 - [Is AI Riding a One-Trick Pony?](https://www.technologyreview.com/s/608911/is-ai-riding-a-one-trick-pony/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_151)
+- [51 Artificial Intelligence (AI) Predictions For 2018](https://www.forbes.com/sites/gilpress/2017/11/28/51-artificial-intelligence-ai-predictions-for-2018/#3c960755582a). Forbes, Nov 2017.
 
 
 #### Deep Learning
@@ -263,6 +264,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [DataCamp: Joining Data in R with Dplyr](https://www.datacamp.com/courses/joining-data-in-r-with-dplyr)
 - [DataCamp: Data Manipulation in R with dplyr](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
 - [Tidyverse, an opinionated Data Science Toolbox in R from Hadley Wickham](https://www.kdnuggets.com/2017/10/tidyverse-powerful-r-toolbox.html)
+- [aRrgh: a newcomer’s (angry) guide to R](http://arrgh.tim-smith.us/)
 
 
 #### Python Learning Resources
