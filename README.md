@@ -265,6 +265,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [DataCamp: Data Manipulation in R with dplyr](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
 - [Tidyverse, an opinionated Data Science Toolbox in R from Hadley Wickham](https://www.kdnuggets.com/2017/10/tidyverse-powerful-r-toolbox.html)
 - [aRrgh: a newcomer’s (angry) guide to R](http://arrgh.tim-smith.us/)
+- [Making R Code Faster : A Case Study](https://robinsones.github.io/Making-R-Code-Faster-A-Case-Study/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_160)
 
 
 #### Python Learning Resources
