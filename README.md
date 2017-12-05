@@ -237,6 +237,12 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 
 - [5 Ways to Get Started with Reinforcement Learning](http://www.kdnuggets.com/2017/09/5-ways-get-started-reinforcement-learning.html)
 - [Reinforcement Learning and Its Practical Applications](https://chatbotsmagazine.com/reinforcement-learning-and-its-practical-applications-8499e60cf751)
+- [Reinforcement Learning - Ep. 30 (Deep Learning SIMPLIFIED)](https://www.youtube.com/watch?v=e3Jy2vShroE)
+- [Reinforcement Learning Basics](https://www.youtube.com/watch?v=2xATEwcRpy8)
+- [Reinforcement Learning Explained](https://www.youtube.com/watch?v=KDseKvsV4_M)
+- [Q Learning Explained](https://www.youtube.com/watch?v=aCEvtRtNO-M)
+- [A Tutorial on Reinforcement Learning I](https://www.youtube.com/watch?v=fIKkhoI1kF4)
+- [MIT 6.S191 Lecture 6: Deep Reinforcement Learning](https://www.youtube.com/watch?v=xWe58WGWmlk)
 
 #### Logistic Regression
 
