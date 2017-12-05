@@ -110,12 +110,13 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 
 - [What is the most important step in a machine learning project?](http://www.kdnuggets.com/2017/08/most-important-step-machine-learning-project.html)
 
-#### Data Exploration and Visualization
+#### Data Exploration, Visualization, and Dashboards
 - [skimr](https://ropensci.org/blog/blog/2017/07/11/skimr). Excellent R package for data exploration.
 - [Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html). April 2017.
 - [What's so hard about histograms?](https://tinlizzie.org/histograms/)
 - [GeoSpatial Data Visualization in R](https://bhaskarvk.github.io/user2017.geodataviz/) July 2017.
 - [The 5 Common Mistakes That Lead to Bad Data Visualization](https://www.kdnuggets.com/2017/10/5-common-mistakes-bad-data-visualization.html)
+- [Three Common Mistakes With Company-level Dashboards](https://towardsdatascience.com/three-common-mistakes-with-company-level-dashboards-88d636f1bf5d). Nov 2017.
 
 
 #### Data Cleaning
@@ -186,7 +187,8 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Neural Network from Scratch](https://jtsulliv.github.io/perceptron/)
 - [But what *is* a Neural Network? | Deep learning, Part 1](https://www.youtube.com/watch?feature=youtu.be&utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_152&v=aircAruvnKk)
 - [Gradient descent, how neural networks learn | Deep learning, part 2](https://www.youtube.com/watch?feature=youtu.be&utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_153&v=IHZwWFHWa-w)
-- [Ranking Popular Deep Learning Libraries for Data Science](https://blog.thedataincubator.com/2017/10/ranking-popular-deep-learning-libraries-for-data-science/) Oct 2017
+- [Ranking Popular Deep Learning Libraries for Data Science](https://blog.thedataincubator.com/2017/10/ranking-popular-deep-learning-libraries-for-data-science/). Oct 2017
+- [Exploring Recurrent Neural Networks](https://www.kdnuggets.com/2017/12/exploring-recurrent-neural-networks.html). Dec 2017.
 
 #### Naive Bayes
 
@@ -363,6 +365,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [YouTube: Building Realtime Data Pipelines with Kafka Connect and Spark Streaming](https://www.youtube.com/watch?v=wMLAlJimPzk)
 - [YouTube: Intro to Spark Streaming](https://www.youtube.com/watch?v=dYBWZTZT6o0)
 - [RStudio Webinar: Using Spark with Shiny and R Markdown](https://www.rstudio.com/resources/webinars/using-spark-with-shiny-and-r-markdown/)
+- []()
 
 
 #### H20
