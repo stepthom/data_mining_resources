@@ -4,6 +4,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 ## Table of Contents
 
 - [Overviews of Data Analytics](#overviews-of-data-analytics)
+- [Books](#books)
 - [Case Studies, Use Cases, Blogs, Papers](#case-studies-use-cases-blogs-papers)
 - [Data Analytics Process](#data-analytics-process)
 - [Models and Algorithms](#models-and-algorithms)
@@ -14,6 +15,11 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Career/Meta](#career)
 - [Misc](#misc)
 
+## Books
+
+#### Reinforcement Learning
+
+- [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html)
 
 ## Overviews of Data Analytics
 
@@ -243,6 +249,8 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Q Learning Explained](https://www.youtube.com/watch?v=aCEvtRtNO-M)
 - [A Tutorial on Reinforcement Learning I](https://www.youtube.com/watch?v=fIKkhoI1kF4)
 - [MIT 6.S191 Lecture 6: Deep Reinforcement Learning](https://www.youtube.com/watch?v=xWe58WGWmlk)
+- [Reinforcement Learning FAQ: Frequently Asked Questions about Reinforcement Learning](http://www.incompleteideas.net/RL-FAQ.html)
+- [Exclusive: Interview with Rich Sutton, the Father of Reinforcement Learning](https://www.kdnuggets.com/2017/12/interview-rich-sutton-reinforcement-learning.html)
 
 #### Logistic Regression
 
