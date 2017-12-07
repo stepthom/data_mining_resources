@@ -438,6 +438,11 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
   - [Part 3 - Neural Networks](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/) Feb 2017.
   - [Part 4 - The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/) July 2017.
 - [Stanford: Data Mining Certificates Online](http://scpd.stanford.edu/ppc/data-mining-certificates-online)
+- [MIT OpenCourseware](https://ocw.mit.edu/index.htm)
+  - [Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+  - [Prediction: Machine Learning and Statistics](https://ocw.mit.edu/courses/sloan-school-of-management/15-097-prediction-machine-learning-and-statistics-spring-2012/index.htm)
+  - [Machine Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)
+  - [Marketing Management: Analytics, Frameworks, and Applications](https://ocw.mit.edu/courses/sloan-school-of-management/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/)
 
 ## Datasets
 
