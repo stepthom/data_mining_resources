@@ -34,6 +34,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_146)
 - [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12) Aug 2017.
 - [4-Steps to Get Started in Machine Learning](https://machinelearningmastery.com/4-steps-to-get-started-in-machine-learning/) March 2014.
+- [Jason's Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g183f28bdc3_0_90)
 
 
 #### AI
