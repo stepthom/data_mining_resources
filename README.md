@@ -55,6 +55,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 - [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_141)
 - [Structured Deep Learning](https://towardsdatascience.com/structured-deep-learning-b8ca4138b848)
+- [Using Deep Learning to Solve Real World Problems](https://www.kdnuggets.com/2017/12/using-deep-learning-solve-real-world-problems.html)
 
 
 ## Case Studies, Use Cases, Blogs, Papers
@@ -196,6 +197,8 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Gradient descent, how neural networks learn | Deep learning, part 2](https://www.youtube.com/watch?feature=youtu.be&utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_153&v=IHZwWFHWa-w)
 - [Ranking Popular Deep Learning Libraries for Data Science](https://blog.thedataincubator.com/2017/10/ranking-popular-deep-learning-libraries-for-data-science/). Oct 2017
 - [Exploring Recurrent Neural Networks](https://www.kdnuggets.com/2017/12/exploring-recurrent-neural-networks.html). Dec 2017.
+- [Convolutional Neural Networks in Python with Keras](https://www.datacamp.com/community/tutorials/convolutional-neural-networks-python). DataCamp tutorial. Dec 2017.
+- [When reinforcement learning should not be used?](https://www.kdnuggets.com/2017/12/when-reinforcement-learning-not-used.html)
 
 #### Naive Bayes
 
