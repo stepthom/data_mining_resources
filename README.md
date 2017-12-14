@@ -199,7 +199,10 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Exploring Recurrent Neural Networks](https://www.kdnuggets.com/2017/12/exploring-recurrent-neural-networks.html). Dec 2017.
 - [Convolutional Neural Networks in Python with Keras](https://www.datacamp.com/community/tutorials/convolutional-neural-networks-python). DataCamp tutorial. Dec 2017.
 - [When reinforcement learning should not be used?](https://www.kdnuggets.com/2017/12/when-reinforcement-learning-not-used.html)
-- [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+- [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/). Andrej Karpathy's blog.
+- [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/). Andrej Karpathy's blog. May 2016.
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/). Andrej Karpathy's blog. 2015.
+
 
 #### Naive Bayes
 
