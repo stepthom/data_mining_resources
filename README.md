@@ -49,6 +49,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Will AI kill us all after taking our jobs?](http://www.kdnuggets.com/2017/09/will-ai-kill-after-taking-jobs.html) Sep 2017.
 - [Is AI Riding a One-Trick Pony?](https://www.technologyreview.com/s/608911/is-ai-riding-a-one-trick-pony/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_151)
 - [51 Artificial Intelligence (AI) Predictions For 2018](https://www.forbes.com/sites/gilpress/2017/11/28/51-artificial-intelligence-ai-predictions-for-2018/#3c960755582a). Forbes, Nov 2017.
+- [How Do Machines Learn?](http://www.cgpgrey.com/blog/how-do-machines-learn). Fun little video.
 
 
 #### Deep Learning
