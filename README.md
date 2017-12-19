@@ -4,6 +4,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 ## Table of Contents
 
 - [Overviews of Data Analytics](#overviews-of-data-analytics)
+- [Podcasts](#Podcasts)
 - [Books](#books)
 - [Case Studies, Use Cases, Blogs, Papers](#case-studies-use-cases-blogs-papers)
 - [Data Analytics Process](#data-analytics-process)
@@ -20,6 +21,13 @@ A curated list of resources for learning about data mining, data analytics, mach
 #### Reinforcement Learning
 
 - [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html)
+
+# Podcasts
+
+- [O'Reilly Data Show ](https://www.oreilly.com/topics/oreilly-data-show-podcast)
+- [Storytelling with Data](http://www.storytellingwithdata.com/blog/2017/11/29/introducing-the-swd-podcast?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Data%20Science%20Roundup)
+- [DataSkeptic](http://dataskeptic.com/)
+- [Linear Digressions](http://lineardigressions.com/)
 
 ## Overviews of Data Analytics
 
@@ -231,6 +239,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Recommendation System Algorithms: An Overview](http://www.kdnuggets.com/2017/08/recommendation-system-algorithms-overview.html). July 2017.
 - [Spotify’s Discover Weekly: How machine learning finds your new music](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe) Oct 2017
 - [Instacart Market Basket Analysis, Winner's Interview: 2nd place, Kazuki Onodera](http://blog.kaggle.com/2017/09/21/instacart-market-basket-analysis-winners-interview-2nd-place-kazuki-onodera/?utm_source=Mailing+list&utm_campaign=3257583703-Kaggle_Newsletter_09-10-2017&utm_medium=email&utm_term=0_f42f9df1e1-3257583703-401104557)
+- [Machine learning at Spotify: You are what you stream](https://www.oreilly.com/ideas/machine-learning-at-spotify-you-are-what-you-stream?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Data%20Science%20Roundup)
 
 
 #### RFM Analysis
