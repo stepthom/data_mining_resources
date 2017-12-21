@@ -122,6 +122,10 @@ A curated list of resources for learning about data mining, data analytics, mach
 Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRiskModels.pdf). Amir E. Khandani, Adlar J. Kim, and Andrew W. Lo. 2010.
 - [How to Build Credit Risk Models Using AI and Machine Learning](http://www.fico.com/en/blogs/analytics-optimization/how-to-build-credit-risk-models-using-ai-and-machine-learning/)
 
+#### Agriculture
+
+- [How a Japanese cucumber farmer is using deep learning and TensorFlow](https://cloud.google.com/blog/big-data/2016/08/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow). Google ML Blog. August 2016.
+
 
 ## Data Analytics Process
 
