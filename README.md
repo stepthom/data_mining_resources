@@ -477,6 +477,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 ## Career
 
 - [The State of Data Science and Machine Learning, 2017 Survery](https://www.kaggle.com/surveys/2017)
+- [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/). Dec 31, 2017. WildML.
 
 ## Misc
 
