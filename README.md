@@ -148,6 +148,10 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Reducing Dimensionality from Dimensionality Reduction Techniques](https://medium.com/towards-data-science/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe). July 2017.
 - [Your Data is Being Manipulated](https://points.datasociety.net/your-data-is-being-manipulated-a7e31a83577b)
 
+#### Feature Engineering
+
+- [Understanding Feature Engineering (Part 1) — Continuous Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b). Jan 2018.
+
 
 #### Classification Metrics
 
