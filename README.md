@@ -13,7 +13,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Big Data](#big-data)
 - [Courses](#courses)
 - [Datasets](#datasets)
-- [Career/Meta](#career-and-industry)
+- [Career and Industry](#career-and-industry)
 - [Misc](#misc)
 
 ## Books
