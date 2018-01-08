@@ -13,7 +13,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Big Data](#big-data)
 - [Courses](#courses)
 - [Datasets](#datasets)
-- [Career/Meta](#career)
+- [Career/Meta](#career-and-industry)
 - [Misc](#misc)
 
 ## Books
@@ -478,10 +478,11 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [R's `datasets` package](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html)
 - [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/)
 
-## Career
+## Career and Industry
 
 - [The State of Data Science and Machine Learning, 2017 Survery](https://www.kaggle.com/surveys/2017)
 - [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/). Dec 31, 2017. WildML.
+- [Scaling Analytics at Wish](https://medium.com/wish-engineering/scaling-analytics-at-wish-619eacb97d16). Jan 8, 2018.
 
 ## Misc
 
