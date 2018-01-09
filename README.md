@@ -65,6 +65,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_141)
 - [Structured Deep Learning](https://towardsdatascience.com/structured-deep-learning-b8ca4138b848)
 - [Using Deep Learning to Solve Real World Problems](https://www.kdnuggets.com/2017/12/using-deep-learning-solve-real-world-problems.html)
+- [Deep Learning: A Critical Appraisal](https://arxiv.org/abs/1801.00631?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_164) Jan 2018.
 
 
 ## Case Studies, Use Cases, Blogs, Papers
@@ -79,6 +80,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 
 #### Learning Analytics, Educational Data Mining
+
 - [ Educational Data Mining and Learning Analytics](http://www.upenn.edu/learninganalytics/ryanbaker/Educational%20Data%20Mining%20and%20Learning%20Analytics%20-%20DRAFT.pdf)
 - [Learning analytics in higher education.](https://www.jisc.ac.uk/reports/learning-analytics-in-higher-education). A review of UK and international practice.
 - [The beginner's guide to prediction workforce analytics.](http://www.talentanalytics.com/blog/the-beginners-guide-to-predictive-workforce-analytics/)
@@ -125,6 +127,10 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 #### Agriculture
 
 - [How a Japanese cucumber farmer is using deep learning and TensorFlow](https://cloud.google.com/blog/big-data/2016/08/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow). Google ML Blog. August 2016.
+
+#### Customer Churn
+
+- [Identifying churn drivers with Random Forests](https://blog.slavv.com/identifying-churn-drivers-with-random-forests-65bad0193e6b). Jan 2018.
 
 
 ## Data Analytics Process
@@ -483,6 +489,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [The State of Data Science and Machine Learning, 2017 Survery](https://www.kaggle.com/surveys/2017)
 - [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/). Dec 31, 2017. WildML.
 - [Scaling Analytics at Wish](https://medium.com/wish-engineering/scaling-analytics-at-wish-619eacb97d16). Jan 8, 2018.
+- [30 Amazing Machine Learning Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7). Jan 2018.
 
 ## Misc
 
