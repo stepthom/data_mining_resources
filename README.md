@@ -115,6 +115,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Top 10 Videos on Machine Learning in Finance](http://www.kdnuggets.com/2017/09/top-10-videos-machine-learning-finance.html)
 - [Impact Of Artificial Intelligence And Machine Learning on Trading And Investing](https://medium.com/towards-data-science/impact-of-artificial-intelligence-and-machine-learning-on-trading-and-investing-7175ef2ad64e)
 - [Ghosts in the Machine: AI, risks and regulations in financial markets](http://www.euromoneythoughtleadership.com/ghostsinthemachine/)
+- [ntroduction to Deep Learning Trading in Hedge Funds](https://www.toptal.com/deep-learning/deep-learning-trading-hedge-funds)
 
 #### Credit Risk
 
