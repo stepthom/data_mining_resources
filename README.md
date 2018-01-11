@@ -226,6 +226,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/). Andrej Karpathy's blog.
 - [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/). Andrej Karpathy's blog. May 2016.
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/). Andrej Karpathy's blog. 2015.
+- [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/). Sep 2016.
 
 
 #### Naive Bayes
