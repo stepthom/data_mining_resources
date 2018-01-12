@@ -178,6 +178,9 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Visualizing Cross-validation Code](http://www.kdnuggets.com/2017/09/visualizing-cross-validation-code.html) Sep 2017.
 - [Selecting the best model in scikit-learn using cross-validation](https://www.youtube.com/watch?v=6dbrR-WymjI) June 2015.
 
+#### Parameter Tuning
+
+- [Tune Machine Learning Algorithms in R (random forest case study)](https://machinelearningmastery.com/tune-machine-learning-algorithms-in-r/). Feb 2016
 
 
 ## Models and Algorithms
