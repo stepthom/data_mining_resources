@@ -137,6 +137,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 ## Data Analytics Process
 
 - [What is the most important step in a machine learning project?](http://www.kdnuggets.com/2017/08/most-important-step-machine-learning-project.html)
+- [https://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/](https://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/)
 
 #### Data Exploration, Visualization, and Dashboards
 - [skimr](https://ropensci.org/blog/blog/2017/07/11/skimr). Excellent R package for data exploration.
