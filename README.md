@@ -58,6 +58,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Is AI Riding a One-Trick Pony?](https://www.technologyreview.com/s/608911/is-ai-riding-a-one-trick-pony/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_151)
 - [51 Artificial Intelligence (AI) Predictions For 2018](https://www.forbes.com/sites/gilpress/2017/11/28/51-artificial-intelligence-ai-predictions-for-2018/#3c960755582a). Forbes, Nov 2017.
 - [How Do Machines Learn?](http://www.cgpgrey.com/blog/how-do-machines-learn). Fun little video.
+- [What AI can and can’t do (yet) for your business](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/what-ai-can-and-cant-do-yet-for-your-business?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_165)
 
 
 #### Deep Learning
