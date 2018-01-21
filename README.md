@@ -302,6 +302,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 ## APIs, Libraries, Tools
 
 - [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial) July 2017.
+- [Square off: Machine learning libraries](https://www.oreilly.com/ideas/square-off-machine-learning-libraries?cmp=em-data-na-na-newsltr_20180117&imm_mid=0fa832&utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Data%20Science%20Roundup). Jan 2018.
 
 #### R Learning Resources
 
