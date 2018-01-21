@@ -133,6 +133,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 #### Customer Churn
 
 - [Identifying churn drivers with Random Forests](https://blog.slavv.com/identifying-churn-drivers-with-random-forests-65bad0193e6b). Jan 2018.
+- [Deep Learning With Keras To Predict Customer Churn](https://tensorflow.rstudio.com/blog/keras-customer-churn.html?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Data%20Science%20Roundup). Jan 2018.
 
 
 ## Data Analytics Process
