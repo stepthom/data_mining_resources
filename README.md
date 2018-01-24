@@ -513,3 +513,4 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Silicon Valley siphons our data like oil. But the deepest drilling has just begun](https://www.theguardian.com/world/2017/aug/23/silicon-valley-big-data-extraction-amazon-whole-foods-facebook?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_146). Aug 2017
 - [Huge Trello List of Great Data Science Resources](https://trello.com/b/rbpEfMld/data-science)
 - [Fairness in Machine Learning](http://mrtz.org/nips17/#/) NIPS 2017 tutorial.
+- [The Product Possibilities of Interpretability](http://blog.fastforwardlabs.com/2017/09/28/the-product-possibilities-of-interpretability.html)
