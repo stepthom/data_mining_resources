@@ -28,6 +28,8 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Storytelling with Data](http://www.storytellingwithdata.com/blog/2017/11/29/introducing-the-swd-podcast?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Data%20Science%20Roundup)
 - [DataSkeptic](http://dataskeptic.com/)
 - [Linear Digressions](http://lineardigressions.com/)
+- [DataFramed](https://www.datacamp.com/community/podcast)
+- [This Week in ML and AI](https://twimlai.com/)
 
 ## Overviews of Data Analytics
 
@@ -263,6 +265,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Instacart Market Basket Analysis, Winner's Interview: 2nd place, Kazuki Onodera](http://blog.kaggle.com/2017/09/21/instacart-market-basket-analysis-winners-interview-2nd-place-kazuki-onodera/?utm_source=Mailing+list&utm_campaign=3257583703-Kaggle_Newsletter_09-10-2017&utm_medium=email&utm_term=0_f42f9df1e1-3257583703-401104557)
 - [Machine learning at Spotify: You are what you stream](https://www.oreilly.com/ideas/machine-learning-at-spotify-you-are-what-you-stream?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Data%20Science%20Roundup)
 - [What makes a good recommender system?](https://rubikloud.com/lab/what-makes-a-good-recommender-system/). Rubikloud blog, March 2017.
+- [Exploring Recommendation Systems](http://blog.fastforwardlabs.com/2018/01/22/exploring-recommendation-systems.html?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_166). Jan 2018.
 
 
 #### RFM Analysis
