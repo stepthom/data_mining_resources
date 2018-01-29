@@ -306,6 +306,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 
 - [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial) July 2017.
 - [Square off: Machine learning libraries](https://www.oreilly.com/ideas/square-off-machine-learning-libraries?cmp=em-data-na-na-newsltr_20180117&imm_mid=0fa832&utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Data%20Science%20Roundup). Jan 2018.
+- [Comparing Machine Learning as a Service: Amazon, Microsoft Azure, Google Cloud AI](https://www.kdnuggets.com/2018/01/mlaas-amazon-microsoft-azure-google-cloud-ai.html) Jan 2018.
 
 #### R Learning Resources
 
