@@ -144,13 +144,14 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [https://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/](https://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/)
 
 #### Data Exploration, Visualization, and Dashboards
+- [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/). Great online book by Claus O. Wilke.
 - [skimr](https://ropensci.org/blog/blog/2017/07/11/skimr). Excellent R package for data exploration.
 - [Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html). April 2017.
 - [What's so hard about histograms?](https://tinlizzie.org/histograms/)
 - [GeoSpatial Data Visualization in R](https://bhaskarvk.github.io/user2017.geodataviz/) July 2017.
 - [The 5 Common Mistakes That Lead to Bad Data Visualization](https://www.kdnuggets.com/2017/10/5-common-mistakes-bad-data-visualization.html)
 - [Three Common Mistakes With Company-level Dashboards](https://towardsdatascience.com/three-common-mistakes-with-company-level-dashboards-88d636f1bf5d). Nov 2017.
-
+- [Visualizing Incomplete and Missing Data](https://flowingdata.com/2018/01/30/visualizing-incomplete-and-missing-data/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_167) Jan 2018.
 
 #### Data Cleaning
 
