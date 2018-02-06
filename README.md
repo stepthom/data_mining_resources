@@ -255,6 +255,8 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Association Rules and the Apriori Algorithm: A Tutorial](https://www.kdnuggets.com/2016/04/association-rules-apriori-algorithm-tutorial.html)
 - [Kaggle: Frequent Itemsets and Association Rules](https://www.kaggle.com/msp48731/frequent-itemsets-and-association-rules)
 - [Association Analysis Simplified](http://analyticstrainings.com/?p=151)
+- [A Novel Method of Interestingness Measures for Association Rules Mining Based on Profit](https://www.hindawi.com/journals/ddns/2015/868634/). 
+- [The Research on Measure Method of Association Rules Mining](https://pdfs.semanticscholar.org/8751/f2bc2314d447a5ae1f1310287e780610b39d.pdf)
 
 #### Recommender Systems
 
