@@ -257,6 +257,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Association Analysis Simplified](http://analyticstrainings.com/?p=151)
 - [A Novel Method of Interestingness Measures for Association Rules Mining Based on Profit](https://www.hindawi.com/journals/ddns/2015/868634/). 
 - [The Research on Measure Method of Association Rules Mining](https://pdfs.semanticscholar.org/8751/f2bc2314d447a5ae1f1310287e780610b39d.pdf)
+- [Interestingness Measures for Data Mining: A Survey](https://www.researchgate.net/profile/Howard_Hamilton/publication/220566216_Interestingness_Measures_for_Data_Mining_A_Survey/links/00463517ef3e1d2ce8000000/Interestingness-Measures-for-Data-Mining-A-Survey.pdf)
 
 #### Recommender Systems
 
