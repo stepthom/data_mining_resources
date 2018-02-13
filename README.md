@@ -119,7 +119,8 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Top 10 Videos on Machine Learning in Finance](http://www.kdnuggets.com/2017/09/top-10-videos-machine-learning-finance.html)
 - [Impact Of Artificial Intelligence And Machine Learning on Trading And Investing](https://medium.com/towards-data-science/impact-of-artificial-intelligence-and-machine-learning-on-trading-and-investing-7175ef2ad64e)
 - [Ghosts in the Machine: AI, risks and regulations in financial markets](http://www.euromoneythoughtleadership.com/ghostsinthemachine/)
-- [ntroduction to Deep Learning Trading in Hedge Funds](https://www.toptal.com/deep-learning/deep-learning-trading-hedge-funds)
+- [Introduction to Deep Learning Trading in Hedge Funds](https://www.toptal.com/deep-learning/deep-learning-trading-hedge-funds)
+- [Introduction to Learning to Trade with Reinforcement Learning](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_169) Feb 2018.
 
 #### Credit Risk
 
@@ -335,6 +336,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Tidyverse, an opinionated Data Science Toolbox in R from Hadley Wickham](https://www.kdnuggets.com/2017/10/tidyverse-powerful-r-toolbox.html)
 - [aRrgh: a newcomer’s (angry) guide to R](http://arrgh.tim-smith.us/)
 - [Making R Code Faster : A Case Study](https://robinsones.github.io/Making-R-Code-Faster-A-Case-Study/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_160)
+- [TensorFlow for R](https://blog.rstudio.com/2018/02/06/tensorflow-for-r/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_169)
 
 
 #### Python Learning Resources
