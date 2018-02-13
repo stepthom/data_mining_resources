@@ -503,6 +503,8 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [R's `datasets` package](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html)
 - [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/)
+- [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
+- [FiveThirtyEight's datasets](https://data.fivethirtyeight.com/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_169)
 
 ## Career and Industry
 
