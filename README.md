@@ -47,6 +47,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Jason's Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g183f28bdc3_0_90)
 
 
+
 #### AI
 
 - [AI, For Real](https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence). HBR. July 2017.
@@ -144,6 +145,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 
 - [What is the most important step in a machine learning project?](http://www.kdnuggets.com/2017/08/most-important-step-machine-learning-project.html)
 - [https://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/](https://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/)
+- [A Basic Recipe for Machine Learning](https://www.kdnuggets.com/2018/02/basic-recipe-machine-learning.html)
 
 #### Data Exploration, Visualization, and Dashboards
 - [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/). Great online book by Claus O. Wilke.
@@ -238,6 +240,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/). Andrej Karpathy's blog. May 2016.
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/). Andrej Karpathy's blog. 2015.
 - [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/). Sep 2016.
+- [A Simple Starter Guide to Build a Neural Network](https://www.kdnuggets.com/2018/02/simple-starter-guide-build-neural-network.html)
 
 
 #### Naive Bayes
