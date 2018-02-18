@@ -245,6 +245,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 
 #### Naive Bayes
 
+- [Bayes’ Rule Applied - Using Bayesian Inference on a real-world problem](https://towardsdatascience.com/bayes-rule-applied-75965e4482ff)
 - [A practical explanation of a Naive Bayes classifier](https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/)
 - [Nomograms for Visualization of Naive Bayesian Classifier](http://www.saedsayad.com/docs/Nomograms.pdf)
 
