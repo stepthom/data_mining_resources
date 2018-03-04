@@ -63,6 +63,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [How Do Machines Learn?](http://www.cgpgrey.com/blog/how-do-machines-learn). Fun little video.
 - [What AI can and can’t do (yet) for your business](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/what-ai-can-and-cant-do-yet-for-your-business?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_165)
 - [The Simple Economics of Machine Intelligence](https://hbr.org/2016/11/the-simple-economics-of-machine-intelligence) HBR, 2017.
+- [Tencent says there are only 300,000 AI engineers worldwide, but millions are needed](https://www.theverge.com/2017/12/5/16737224/global-ai-talent-shortfall-tencent-report)
 
 
 #### Deep Learning
