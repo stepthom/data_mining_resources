@@ -64,6 +64,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [What AI can and can’t do (yet) for your business](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/what-ai-can-and-cant-do-yet-for-your-business?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_165)
 - [The Simple Economics of Machine Intelligence](https://hbr.org/2016/11/the-simple-economics-of-machine-intelligence) HBR, 2017.
 - [Tencent says there are only 300,000 AI engineers worldwide, but millions are needed](https://www.theverge.com/2017/12/5/16737224/global-ai-talent-shortfall-tencent-report)
+- [The GANfather: The man who’s given machines the gift of imagination](https://www.technologyreview.com/s/610253/the-ganfather-the-man-whos-given-machines-the-gift-of-imagination/)
 
 
 #### Deep Learning
@@ -345,8 +346,9 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [DataCamp: Data Manipulation in R with dplyr](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
 - [Tidyverse, an opinionated Data Science Toolbox in R from Hadley Wickham](https://www.kdnuggets.com/2017/10/tidyverse-powerful-r-toolbox.html)
 - [aRrgh: a newcomer’s (angry) guide to R](http://arrgh.tim-smith.us/)
-- [Making R Code Faster : A Case Study](https://robinsones.github.io/Making-R-Code-Faster-A-Case-Study/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_160)
-- [TensorFlow for R](https://blog.rstudio.com/2018/02/06/tensorflow-for-r/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_169)
+- [Making R Code Faster : A Case Study](https://robinsones.github.io/Making-R-Code-Faster-A-Case-Study/)
+- [TensorFlow for R](https://blog.rstudio.com/2018/02/06/tensorflow-for-r/)
+- [Introducing ViewPipeSteps: Towards Observable Programming in R](https://daranzolin.github.io/articles/2018-02/ViewPipeSteps)
 
 
 #### Python Learning Resources
