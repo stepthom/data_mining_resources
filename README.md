@@ -280,10 +280,11 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Building a Music Recommender with Deep Learning](http://mattmurray.net/building-a-music-recommender-with-deep-learning/). Content-based.
 - [Recommendation System Algorithms: An Overview](http://www.kdnuggets.com/2017/08/recommendation-system-algorithms-overview.html). July 2017.
 - [Spotify’s Discover Weekly: How machine learning finds your new music](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe) Oct 2017
-- [Instacart Market Basket Analysis, Winner's Interview: 2nd place, Kazuki Onodera](http://blog.kaggle.com/2017/09/21/instacart-market-basket-analysis-winners-interview-2nd-place-kazuki-onodera/?utm_source=Mailing+list&utm_campaign=3257583703-Kaggle_Newsletter_09-10-2017&utm_medium=email&utm_term=0_f42f9df1e1-3257583703-401104557)
-- [Machine learning at Spotify: You are what you stream](https://www.oreilly.com/ideas/machine-learning-at-spotify-you-are-what-you-stream?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Data%20Science%20Roundup)
+- [Instacart Market Basket Analysis, Winner's Interview: 2nd place, Kazuki Onodera](http://blog.kaggle.com/2017/09/21/instacart-market-basket-analysis-winners-interview-2nd-place-kazuki-onodera/)
+- [Machine learning at Spotify: You are what you stream](https://www.oreilly.com/ideas/machine-learning-at-spotify-you-are-what-you-stream)
 - [What makes a good recommender system?](https://rubikloud.com/lab/what-makes-a-good-recommender-system/). Rubikloud blog, March 2017.
-- [Exploring Recommendation Systems](http://blog.fastforwardlabs.com/2018/01/22/exploring-recommendation-systems.html?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_166). Jan 2018.
+- [Exploring Recommendation Systems](http://blog.fastforwardlabs.com/2018/01/22/exploring-recommendation-systems.html). Jan 2018.
+- [Production Recommendation Systems with Cloudera](http://blog.cloudera.com/blog/2018/02/production-recommendation-systems-with-cloudera/)
 
 
 #### RFM Analysis
@@ -518,7 +519,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [R's `datasets` package](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html)
 - [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/)
 - [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
-- [FiveThirtyEight's datasets](https://data.fivethirtyeight.com/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_169)
+- [FiveThirtyEight's datasets](https://data.fivethirtyeight.com/)
 
 ## Career and Industry
 
