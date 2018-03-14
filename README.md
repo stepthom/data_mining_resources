@@ -45,6 +45,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12) Aug 2017.
 - [4-Steps to Get Started in Machine Learning](https://machinelearningmastery.com/4-steps-to-get-started-in-machine-learning/) March 2014.
 - [Jason's Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g183f28bdc3_0_90)
+- [Getting Value from Machine Learning Isn’t About Fancier Algorithms — It’s About Making It Easier to Use](https://hbr.org/2018/03/getting-value-from-machine-learning-isnt-about-fancier-algorithms-its-about-making-it-easier-to-use)
 
 
 
@@ -69,10 +70,12 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 #### Deep Learning
 
-- [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_141)
+- [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html)
 - [Structured Deep Learning](https://towardsdatascience.com/structured-deep-learning-b8ca4138b848)
 - [Using Deep Learning to Solve Real World Problems](https://www.kdnuggets.com/2017/12/using-deep-learning-solve-real-world-problems.html)
-- [Deep Learning: A Critical Appraisal](https://arxiv.org/abs/1801.00631?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_164) Jan 2018.
+- [Deep Learning: A Critical Appraisal](https://arxiv.org/abs/1801.00631) Jan 2018.
+- [Feature Visualization: How neural networks build up their understanding of images](https://distill.pub/2017/feature-visualization/)
+- [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
 
 
 ## Case Studies, Use Cases, Blogs, Papers
@@ -285,6 +288,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [What makes a good recommender system?](https://rubikloud.com/lab/what-makes-a-good-recommender-system/). Rubikloud blog, March 2017.
 - [Exploring Recommendation Systems](http://blog.fastforwardlabs.com/2018/01/22/exploring-recommendation-systems.html). Jan 2018.
 - [Production Recommendation Systems with Cloudera](http://blog.cloudera.com/blog/2018/02/production-recommendation-systems-with-cloudera/)
+- [Listing Embeddings for Similar Listing Recommendations and Real-time Personalization in Search](https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e)
 
 
 #### RFM Analysis
@@ -350,6 +354,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Making R Code Faster : A Case Study](https://robinsones.github.io/Making-R-Code-Faster-A-Case-Study/)
 - [TensorFlow for R](https://blog.rstudio.com/2018/02/06/tensorflow-for-r/)
 - [Introducing ViewPipeSteps: Towards Observable Programming in R](https://daranzolin.github.io/articles/2018-02/ViewPipeSteps)
+- [FastR](https://m-clark.github.io/docs/fastr.html)
 
 
 #### Python Learning Resources
@@ -540,3 +545,4 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Huge Trello List of Great Data Science Resources](https://trello.com/b/rbpEfMld/data-science)
 - [Fairness in Machine Learning](http://mrtz.org/nips17/#/) NIPS 2017 tutorial.
 - [The Product Possibilities of Interpretability](http://blog.fastforwardlabs.com/2017/09/28/the-product-possibilities-of-interpretability.html)
+- [When an AI finally kills someone, who will be responsible?](https://www.technologyreview.com/s/610459/when-an-ai-finally-kills-someone-who-will-be-responsible/)
