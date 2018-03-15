@@ -66,6 +66,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [The Simple Economics of Machine Intelligence](https://hbr.org/2016/11/the-simple-economics-of-machine-intelligence) HBR, 2017.
 - [Tencent says there are only 300,000 AI engineers worldwide, but millions are needed](https://www.theverge.com/2017/12/5/16737224/global-ai-talent-shortfall-tencent-report)
 - [The GANfather: The man who’s given machines the gift of imagination](https://www.technologyreview.com/s/610253/the-ganfather-the-man-whos-given-machines-the-gift-of-imagination/)
+- [What is AI, Really?](https://medium.com/ai-first-design/what-is-ai-really-5a4a7ceb5008)
 
 
 #### Deep Learning
