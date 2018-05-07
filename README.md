@@ -536,6 +536,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [30 Amazing Machine Learning Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7). Jan 2018.
 - [Ethical Data Practices](https://datapractices.org/)
 - [Big Companies Are Embracing Analytics, But Most Still Don’t Have a Data-Driven Culture](https://hbr.org/2018/02/big-companies-are-embracing-analytics-but-most-still-dont-have-a-data-driven-culture)
+- [Data Science and Machine Learning Interview Questions](https://towardsdatascience.com/data-science-and-machine-learning-interview-questions-3f6207cf040b)
 
 ## Misc
 
