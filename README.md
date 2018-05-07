@@ -77,6 +77,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Deep Learning: A Critical Appraisal](https://arxiv.org/abs/1801.00631) Jan 2018.
 - [Feature Visualization: How neural networks build up their understanding of images](https://distill.pub/2017/feature-visualization/)
 - [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
+- [An Introduction to Deep Learning for Tabular Data](http://www.fast.ai/2018/04/29/categorical-embeddings/). April 2018.
 
 
 ## Case Studies, Use Cases, Blogs, Papers
