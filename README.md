@@ -527,6 +527,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/)
 - [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 - [FiveThirtyEight's datasets](https://data.fivethirtyeight.com/)
+- [9 Must-Have Datasets for Investigating Recommender Systems](https://www.kdnuggets.com/2016/02/nine-datasets-investigating-recommender-systems.html)
 
 ## Career and Industry
 
