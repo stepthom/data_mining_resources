@@ -291,6 +291,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Exploring Recommendation Systems](http://blog.fastforwardlabs.com/2018/01/22/exploring-recommendation-systems.html). Jan 2018.
 - [Production Recommendation Systems with Cloudera](http://blog.cloudera.com/blog/2018/02/production-recommendation-systems-with-cloudera/)
 - [Listing Embeddings for Similar Listing Recommendations and Real-time Personalization in Search](https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e)
+- [Predicting movie ratings and recommender systems](http://arek-paterek.com/predict.pdf)
 
 
 #### RFM Analysis
