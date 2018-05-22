@@ -111,7 +111,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 #### Sports
 - [The NFL’s Brewing Information War](https://theringer.com/nfl-information-war-data-advanced-stats-73b6eee2d39f#.413ia8rdt)
 - [TED: The math behind basketball's wildest moves](https://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves#t-582970)
-- [](https://www.techemergence.com/artificial-intelligence-in-sports/)
+- [AI in sports](https://www.techemergence.com/artificial-intelligence-in-sports/)
 
 
 #### Predictive Maintenance
@@ -503,6 +503,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 	
 
 ## Courses
+- [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 - [CMU: Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
 - [CMU: Introduction to Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/)
 - [Elite Data Science](https://elitedatascience.com/)
