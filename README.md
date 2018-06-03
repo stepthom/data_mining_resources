@@ -67,6 +67,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Tencent says there are only 300,000 AI engineers worldwide, but millions are needed](https://www.theverge.com/2017/12/5/16737224/global-ai-talent-shortfall-tencent-report)
 - [The GANfather: The man who’s given machines the gift of imagination](https://www.technologyreview.com/s/610253/the-ganfather-the-man-whos-given-machines-the-gift-of-imagination/)
 - [What is AI, Really?](https://medium.com/ai-first-design/what-is-ai-really-5a4a7ceb5008)
+- [Apple and Its Rivals Bet Their Futures on These Men’s Dreams. An oral history of artificial intelligence, as told by its godfathers, gadflies, and Justin Trudeau.](https://www.bloomberg.com/news/features/2018-05-17/apple-and-its-rivals-bet-their-futures-on-these-men-s-dreams)
 
 
 #### Deep Learning
