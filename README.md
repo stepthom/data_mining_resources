@@ -205,6 +205,11 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Visualizing Cross-validation Code](http://www.kdnuggets.com/2017/09/visualizing-cross-validation-code.html) Sep 2017.
 - [Selecting the best model in scikit-learn using cross-validation](https://www.youtube.com/watch?v=6dbrR-WymjI) June 2015.
 
+#### Bias/Variance
+
+- [Bias-Variance Tradeoff in Machine Learning](https://www.learnopencv.com/bias-variance-tradeoff-in-machine-learning/)
+- [Part 4 - The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/) July 2017.
+
 #### Parameter Tuning
 
 - [Tune Machine Learning Algorithms in R (random forest case study)](https://machinelearningmastery.com/tune-machine-learning-algorithms-in-r/). Feb 2016
