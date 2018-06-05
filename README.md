@@ -178,6 +178,10 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Reducing Dimensionality from Dimensionality Reduction Techniques](https://medium.com/towards-data-science/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe). July 2017.
 - [Your Data is Being Manipulated](https://points.datasociety.net/your-data-is-being-manipulated-a7e31a83577b)
 
+#### Imbalanced Data
+
+- [8 Tactics to Combat Imbalanced Classes in Your Machine Learning Dataset](https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/)
+
 #### Feature Engineering
 
 - [Understanding Feature Engineering (Part 1) — Continuous Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b). Jan 2018.
