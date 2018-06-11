@@ -198,6 +198,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [YouTube: ROC Curves explained](https://www.youtube.com/watch?v=21Igj5Pr6u4)
 - [The Best Metric to Measure Accuracy of Classification Models](http://www.kdnuggets.com/2016/12/best-metric-measure-accuracy-classification-models.html)
 - [YouTube: How to evaluate a classifier in scikit-learn](https://www.youtube.com/watch?v=85dtiMz9tSo)
+- [Performance Metrics for Classification problems in Machine Learning](https://medium.com/greyatom/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b)
 
 #### Cross Validation
 
