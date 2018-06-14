@@ -68,6 +68,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [The GANfather: The man who’s given machines the gift of imagination](https://www.technologyreview.com/s/610253/the-ganfather-the-man-whos-given-machines-the-gift-of-imagination/)
 - [What is AI, Really?](https://medium.com/ai-first-design/what-is-ai-really-5a4a7ceb5008)
 - [Apple and Its Rivals Bet Their Futures on These Men’s Dreams. An oral history of artificial intelligence, as told by its godfathers, gadflies, and Justin Trudeau.](https://www.bloomberg.com/news/features/2018-05-17/apple-and-its-rivals-bet-their-futures-on-these-men-s-dreams)
+- [Physicist Max Tegmark on the promise and pitfalls of artificial intelligence](https://venturebeat.com/2018/06/10/physicist-max-tegmark-on-the-promise-and-pitfalls-of-artificial-intelligence/)
 
 
 #### Deep Learning
