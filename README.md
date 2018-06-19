@@ -543,6 +543,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [FiveThirtyEight's datasets](https://data.fivethirtyeight.com/)
 - [9 Must-Have Datasets for Investigating Recommender Systems](https://www.kdnuggets.com/2016/02/nine-datasets-investigating-recommender-systems.html)
 - [Datasets For recommender system](http://shuaizhang.tech/2017/03/15/Datasets-For-Recommender-System/)
+- [Wikipedia: List of datasets for ML research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
 
 ## Career and Industry
 
