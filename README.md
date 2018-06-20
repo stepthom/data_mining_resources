@@ -211,6 +211,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 
 - [Bias-Variance Tradeoff in Machine Learning](https://www.learnopencv.com/bias-variance-tradeoff-in-machine-learning/)
 - [Part 4 - The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/) July 2017.
+- [Visual Intro to Machine Learning - Part 2](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 
 #### Parameter Tuning
 
