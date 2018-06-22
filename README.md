@@ -69,6 +69,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [What is AI, Really?](https://medium.com/ai-first-design/what-is-ai-really-5a4a7ceb5008)
 - [Apple and Its Rivals Bet Their Futures on These Men’s Dreams. An oral history of artificial intelligence, as told by its godfathers, gadflies, and Justin Trudeau.](https://www.bloomberg.com/news/features/2018-05-17/apple-and-its-rivals-bet-their-futures-on-these-men-s-dreams)
 - [Physicist Max Tegmark on the promise and pitfalls of artificial intelligence](https://venturebeat.com/2018/06/10/physicist-max-tegmark-on-the-promise-and-pitfalls-of-artificial-intelligence/)
+- [A 6 minute Intro to AI](https://snips.ai/content/intro-to-ai/#ai-metrics)
 
 
 #### Deep Learning
@@ -346,6 +347,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial) July 2017.
 - [Square off: Machine learning libraries](https://www.oreilly.com/ideas/square-off-machine-learning-libraries?cmp=em-data-na-na-newsltr_20180117&imm_mid=0fa832&utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Data%20Science%20Roundup). Jan 2018.
 - [Comparing Machine Learning as a Service: Amazon, Microsoft Azure, Google Cloud AI](https://www.kdnuggets.com/2018/01/mlaas-amazon-microsoft-azure-google-cloud-ai.html) Jan 2018.
+- [Comparing Top Deep Learning Frameworks: Deeplearning4j, PyTorch, TensorFlow, Caffe, Keras, MxNet, Gluon & CNTK](https://deeplearning4j.org/compare-dl4j-tensorflow-pytorch)
 
 #### R Learning Resources
 
