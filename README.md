@@ -201,6 +201,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [The Best Metric to Measure Accuracy of Classification Models](http://www.kdnuggets.com/2016/12/best-metric-measure-accuracy-classification-models.html)
 - [YouTube: How to evaluate a classifier in scikit-learn](https://www.youtube.com/watch?v=85dtiMz9tSo)
 - [Performance Metrics for Classification problems in Machine Learning](https://medium.com/greyatom/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b)
+- [Choosing the Right Metric for Evaluating Machine Learning Models — Part 2](https://www.kdnuggets.com/2018/06/right-metric-evaluating-machine-learning-models-2.html)
 
 #### Cross Validation
 
