@@ -410,6 +410,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [SQL Tutorial: How To Write Better Queries](https://www.datacamp.com/community/tutorials/sql-tutorial-query#gs.bQPwFFw)
 - [Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
 - [Franchise: An open-source notebook for SQL](https://franchise.cloud)
+- [SQL Window Functions to Pass a Data Analytics Interview (Opinionated SQL Series Part 2/N)](https://calogica.github.io/sql/2018/07/01/sql-functions-for-data-analyst-interviews.html?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Data%20Science%20Roundup)
 
 
 #### Weka Resources
