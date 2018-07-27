@@ -249,6 +249,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Video: Visualizing a Decision Tree - Machine Learning Recipes #2](https://www.youtube.com/watch?v=tNa99PG8hR8). Mar 2016. Google Developers.
 - [Book Chapter: Classification: Basic Concepts, Decision Trees, and Model Evaluation](https://www-users.cs.umn.edu/~kumar/dmbook/ch4.pdf)
 - [The `caret` package](https://topepo.github.io/caret/)
+- [How Decision Trees Work](https://brohrer.github.io/how_decision_trees_work.html)
 
  
 #### Neural Networks and Deep Learning
