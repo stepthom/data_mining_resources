@@ -272,7 +272,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/). Andrej Karpathy's blog. 2015.
 - [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/). Sep 2016.
 - [A Simple Starter Guide to Build a Neural Network](https://www.kdnuggets.com/2018/02/simple-starter-guide-build-neural-network.html)
-
+- [Deep Learning: Which Loss and Activation Functions should I use?](https://medium.com/@srnghn/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8)
 
 #### Naive Bayes
 
