@@ -146,8 +146,9 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 
 - [How a Japanese cucumber farmer is using deep learning and TensorFlow](https://cloud.google.com/blog/big-data/2016/08/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow). Google ML Blog. August 2016.
 
-#### Customer Churn
+#### Marketing
 
+- [How Artificial Intelligence Is Raising The Bar On The Science Of Marketing](https://www.forbes.com/sites/steveolenski/2018/05/16/how-artificial-intelligence-is-raising-the-bar-on-the-science-of-marketing/#6048026415f2) May 2018.
 - [Identifying churn drivers with Random Forests](https://blog.slavv.com/identifying-churn-drivers-with-random-forests-65bad0193e6b). Jan 2018.
 - [Deep Learning With Keras To Predict Customer Churn](https://tensorflow.rstudio.com/blog/keras-customer-churn.html?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Data%20Science%20Roundup). Jan 2018.
 
