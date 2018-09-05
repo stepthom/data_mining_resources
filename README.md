@@ -150,6 +150,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [How Artificial Intelligence Is Raising The Bar On The Science Of Marketing](https://www.forbes.com/sites/steveolenski/2018/05/16/how-artificial-intelligence-is-raising-the-bar-on-the-science-of-marketing/#6048026415f2) May 2018.
 - [Identifying churn drivers with Random Forests](https://blog.slavv.com/identifying-churn-drivers-with-random-forests-65bad0193e6b). Jan 2018.
 - [Deep Learning With Keras To Predict Customer Churn](https://tensorflow.rstudio.com/blog/keras-customer-churn.html?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Data%20Science%20Roundup). Jan 2018.
+- [A Day in the Life of a Marketing Analytics Professional](https://towardsdatascience.com/a-day-in-the-life-of-a-marketing-analytics-professional-83dd45f2e702). Aug 2018.
 
 
 ## Data Analytics Process
@@ -348,6 +349,8 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Reinforcement Learning FAQ: Frequently Asked Questions about Reinforcement Learning](http://www.incompleteideas.net/RL-FAQ.html)
 - [Exclusive: Interview with Rich Sutton, the Father of Reinforcement Learning](https://www.kdnuggets.com/2017/12/interview-rich-sutton-reinforcement-learning.html)
 - [Simple Reinforcement Learning with Tensorflow Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0) Medium. August 2016. 9-part series. 
+- [Schooling Flappy Bird: A Reinforcement Learning Tutorial](https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial)
+
 
 #### Logistic Regression
 
@@ -419,6 +422,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Franchise: An open-source notebook for SQL](https://franchise.cloud)
 - [SQL Window Functions to Pass a Data Analytics Interview (Opinionated SQL Series Part 2/N)](https://calogica.github.io/sql/2018/07/01/sql-functions-for-data-analyst-interviews.html?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Data%20Science%20Roundup)
 - [Select Star SQL](https://selectstarsql.com). This is an interactive book which aims to be the best place on the internet for learning SQL.
+- [SQL Interview Questions: 3 Tech Screening Exercises (For Data Analysts)](https://data36.com/sql-interview-questions-tech-screening-data-analysts)
 
 
 #### Weka Resources
