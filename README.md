@@ -69,6 +69,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Apple and Its Rivals Bet Their Futures on These Men’s Dreams. An oral history of artificial intelligence, as told by its godfathers, gadflies, and Justin Trudeau.](https://www.bloomberg.com/news/features/2018-05-17/apple-and-its-rivals-bet-their-futures-on-these-men-s-dreams)
 - [Physicist Max Tegmark on the promise and pitfalls of artificial intelligence](https://venturebeat.com/2018/06/10/physicist-max-tegmark-on-the-promise-and-pitfalls-of-artificial-intelligence/)
 - [A 6 minute Intro to AI](https://snips.ai/content/intro-to-ai/#ai-metrics)
+- [AI Knowledge Map: How To Classify AI Technologies](https://www.kdnuggets.com/2018/08/ai-knowledge-map-classify-ai-technologies.html)
 
 
 #### Deep Learning
@@ -425,6 +426,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [SQL Window Functions to Pass a Data Analytics Interview (Opinionated SQL Series Part 2/N)](https://calogica.github.io/sql/2018/07/01/sql-functions-for-data-analyst-interviews.html?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Data%20Science%20Roundup)
 - [Select Star SQL](https://selectstarsql.com). This is an interactive book which aims to be the best place on the internet for learning SQL.
 - [SQL Interview Questions: 3 Tech Screening Exercises (For Data Analysts)](https://data36.com/sql-interview-questions-tech-screening-data-analysts)
+- [OLAP queries in SQL: A Refresher](https://www.kdnuggets.com/2018/09/olap-queries-sql-refresher.html)
 
 
 #### Weka Resources
