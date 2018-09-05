@@ -168,6 +168,8 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [The 5 Common Mistakes That Lead to Bad Data Visualization](https://www.kdnuggets.com/2017/10/5-common-mistakes-bad-data-visualization.html)
 - [Three Common Mistakes With Company-level Dashboards](https://towardsdatascience.com/three-common-mistakes-with-company-level-dashboards-88d636f1bf5d). Nov 2017.
 - [Visualizing Incomplete and Missing Data](https://flowingdata.com/2018/01/30/visualizing-incomplete-and-missing-data/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_167) Jan 2018.
+- [Data Visualization Cheat Sheet](https://www.kdnuggets.com/2018/08/data-visualization-cheatsheet.html)
+- [Data-Driving Storytelling](https://www.readcube.com/articles/10.1201/9781315281575?shared_access_token=jNTaYvqfeqV2qwa5sUfovMvVM4Hs7mp6nzCJVzl2VoWGQrCbyQjauwd2RYb7hH61JBIbDhBHWgYFxZKHDulB9SaAw1a5aQ_jHb5Eg8Ll74Ae8RvAx6swxvf5s39QHLuU)
 
 #### Data Engineering
 
@@ -588,4 +590,4 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Fairness in Machine Learning](http://mrtz.org/nips17/#/) NIPS 2017 tutorial.
 - [The Product Possibilities of Interpretability](http://blog.fastforwardlabs.com/2017/09/28/the-product-possibilities-of-interpretability.html)
 - [When an AI finally kills someone, who will be responsible?](https://www.technologyreview.com/s/610459/when-an-ai-finally-kills-someone-who-will-be-responsible/)
-- [Data-Driving Storytelling](https://www.readcube.com/articles/10.1201/9781315281575?shared_access_token=jNTaYvqfeqV2qwa5sUfovMvVM4Hs7mp6nzCJVzl2VoWGQrCbyQjauwd2RYb7hH61JBIbDhBHWgYFxZKHDulB9SaAw1a5aQ_jHb5Eg8Ll74Ae8RvAx6swxvf5s39QHLuU)
+
