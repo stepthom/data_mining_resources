@@ -13,7 +13,6 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Big Data](#big-data)
 - [Courses](#courses)
 - [Datasets](#datasets)
-- [Career and Industry](#career-and-industry)
 - [Misc](#misc)
 
 ## Books
@@ -415,6 +414,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
 - [Franchise: An open-source notebook for SQL](https://franchise.cloud)
 - [SQL Window Functions to Pass a Data Analytics Interview (Opinionated SQL Series Part 2/N)](https://calogica.github.io/sql/2018/07/01/sql-functions-for-data-analyst-interviews.html?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Data%20Science%20Roundup)
+- [Select Star SQL](https://selectstarsql.com). This is an interactive book which aims to be the best place on the internet for learning SQL.
 
 
 #### Weka Resources
@@ -580,3 +580,4 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Fairness in Machine Learning](http://mrtz.org/nips17/#/) NIPS 2017 tutorial.
 - [The Product Possibilities of Interpretability](http://blog.fastforwardlabs.com/2017/09/28/the-product-possibilities-of-interpretability.html)
 - [When an AI finally kills someone, who will be responsible?](https://www.technologyreview.com/s/610459/when-an-ai-finally-kills-someone-who-will-be-responsible/)
+- [Data-Driving Storytelling](https://www.readcube.com/articles/10.1201/9781315281575?shared_access_token=jNTaYvqfeqV2qwa5sUfovMvVM4Hs7mp6nzCJVzl2VoWGQrCbyQjauwd2RYb7hH61JBIbDhBHWgYFxZKHDulB9SaAw1a5aQ_jHb5Eg8Ll74Ae8RvAx6swxvf5s39QHLuU)
