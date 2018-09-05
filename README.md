@@ -215,6 +215,10 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Part 4 - The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/) July 2017.
 - [Visual Intro to Machine Learning - Part 2](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 
+#### Outlier Detection
+
+- [How to Make Your Machine Learning Models Robust to Outliers](https://www.kdnuggets.com/2018/08/make-machine-learning-models-robust-outliers.html)
+
 #### Parameter Tuning
 
 - [Tune Machine Learning Algorithms in R (random forest case study)](https://machinelearningmastery.com/tune-machine-learning-algorithms-in-r/). Feb 2016
