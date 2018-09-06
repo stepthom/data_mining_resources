@@ -244,6 +244,8 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 
 #### Clustering
 - [The 5 Clustering Algorithms Data Scientists Need to Know](https://www.kdnuggets.com/2018/06/5-clustering-algorithms-data-scientists-need-know.html)
+- [Hierarchical Clustering in R](https://datascienceplus.com/hierarchical-clustering-in-r/). April 2017.
+- [dendextend: a package for visualizing, adjusting, and comparing dendrograms ](https://www.r-statistics.com/2015/08/dendextend-a-package-for-visualizing-adjusting-and-comparing-dendrograms-from-the-journal-bioinformatics/)
 
 
 #### Regression
