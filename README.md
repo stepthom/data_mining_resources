@@ -323,6 +323,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Production Recommendation Systems with Cloudera](http://blog.cloudera.com/blog/2018/02/production-recommendation-systems-with-cloudera/)
 - [Listing Embeddings for Similar Listing Recommendations and Real-time Personalization in Search](https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e)
 - [Predicting movie ratings and recommender systems](http://arek-paterek.com/predict.pdf)
+- [How does Netflix recommend movies? Matrix Factorization](https://www.youtube.com/watch?v=ZspR5PZemcs&feature=youtu.be)
 
 
 #### RFM Analysis
