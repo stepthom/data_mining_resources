@@ -324,6 +324,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Listing Embeddings for Similar Listing Recommendations and Real-time Personalization in Search](https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e)
 - [Predicting movie ratings and recommender systems](http://arek-paterek.com/predict.pdf)
 - [How does Netflix recommend movies? Matrix Factorization](https://www.youtube.com/watch?v=ZspR5PZemcs&feature=youtu.be)
+- [A survey of food recommenders](https://arxiv.org/abs/1809.02862)
 
 
 #### RFM Analysis
@@ -430,6 +431,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Select Star SQL](https://selectstarsql.com). This is an interactive book which aims to be the best place on the internet for learning SQL.
 - [SQL Interview Questions: 3 Tech Screening Exercises (For Data Analysts)](https://data36.com/sql-interview-questions-tech-screening-data-analysts)
 - [OLAP queries in SQL: A Refresher](https://www.kdnuggets.com/2018/09/olap-queries-sql-refresher.html)
+- [21 of the best free resources to learn SQL](http://code-love.com/2018/09/01/21-learn-sql/)
 
 
 #### Weka Resources
