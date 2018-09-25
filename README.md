@@ -29,6 +29,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Linear Digressions](http://lineardigressions.com/)
 - [DataFramed](https://www.datacamp.com/community/podcast)
 - [This Week in ML and AI](https://twimlai.com/)
+- [Machine Learning Guide)(http://ocdevel.com/mlg)
 
 ## Overviews of Data Analytics
 
@@ -70,7 +71,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Physicist Max Tegmark on the promise and pitfalls of artificial intelligence](https://venturebeat.com/2018/06/10/physicist-max-tegmark-on-the-promise-and-pitfalls-of-artificial-intelligence/)
 - [A 6 minute Intro to AI](https://snips.ai/content/intro-to-ai/#ai-metrics)
 - [AI Knowledge Map: How To Classify AI Technologies](https://www.kdnuggets.com/2018/08/ai-knowledge-map-classify-ai-technologies.html)
-
+- [ARTIFICIAL INTELLIGENCE IN BUSINESS GETS REAL](https://sloanreview.mit.edu/projects/artificial-intelligence-in-business-gets-real)
 
 #### Deep Learning
 
