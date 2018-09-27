@@ -29,7 +29,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Linear Digressions](http://lineardigressions.com/)
 - [DataFramed](https://www.datacamp.com/community/podcast)
 - [This Week in ML and AI](https://twimlai.com/)
-- [Machine Learning Guide)(http://ocdevel.com/mlg)
+- [Machine Learning Guide](http://ocdevel.com/mlg)
 
 ## Overviews of Data Analytics
 
@@ -335,6 +335,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 #### Ensemble
 - [Video: Ensemble](https://www.youtube.com/watch?v=Un9zObFjBH0)
 - [Ensemble Learning to Improve Machine Learning Results](http://www.kdnuggets.com/2017/09/ensemble-learning-improve-machine-learning-results.html) Sep 2017.
+- [Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
 
 #### Social Network Analysis/Graphs
 - [Network Analysis and Visualization with R and igraph](http://www.kateto.net/wp-content/uploads/2016/01/NetSciX_2016_Workshop.pdf)
