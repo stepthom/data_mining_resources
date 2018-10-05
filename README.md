@@ -181,12 +181,13 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 
 - [The Ultimate Guide to Basic Data Cleaning](http://www.kdnuggets.com/2017/08/socialcops-ultimate-guide-basic-data-cleaning.html)
 - [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
-- [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes). July 2017.
+
 - [Reducing Dimensionality from Dimensionality Reduction Techniques](https://medium.com/towards-data-science/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe). July 2017.
 - [Your Data is Being Manipulated](https://points.datasociety.net/your-data-is-being-manipulated-a7e31a83577b)
 
 #### Imbalanced Data
 
+- [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes). July 2017.
 - [8 Tactics to Combat Imbalanced Classes in Your Machine Learning Dataset](https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/)
 
 #### Feature Engineering
@@ -207,6 +208,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [YouTube: How to evaluate a classifier in scikit-learn](https://www.youtube.com/watch?v=85dtiMz9tSo)
 - [Performance Metrics for Classification problems in Machine Learning](https://medium.com/greyatom/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b)
 - [Choosing the Right Metric for Evaluating Machine Learning Models — Part 2](https://www.kdnuggets.com/2018/06/right-metric-evaluating-machine-learning-models-2.html)
+- [YouTube: Kappa Coefficient](https://www.youtube.com/watch?v=fOR_8gkU3UE)
 
 #### Cross Validation
 
