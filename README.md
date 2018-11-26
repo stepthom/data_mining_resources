@@ -46,6 +46,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [4-Steps to Get Started in Machine Learning](https://machinelearningmastery.com/4-steps-to-get-started-in-machine-learning/) March 2014.
 - [Jason's Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g183f28bdc3_0_90)
 - [Getting Value from Machine Learning Isn’t About Fancier Algorithms — It’s About Making It Easier to Use](https://hbr.org/2018/03/getting-value-from-machine-learning-isnt-about-fancier-algorithms-its-about-making-it-easier-to-use)
+- [ML Resources](https://sgfin.github.io/learning-resources/)
 
 
 
