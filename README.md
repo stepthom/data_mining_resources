@@ -20,6 +20,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Deep Learning - The Straight Dope](http://gluon.mxnet.io/#)
 - [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html)
 - [Data Science for Business](http://shop.oreilly.com/product/0636920028918.do)
+- [Math for Machine Learning: Open Doors to Data Science and Artificial Intelligence](https://www.amazon.com/Math-Machine-Learning-Artificial-Intelligence/dp/172282381X/)
 
 # Podcasts
 
