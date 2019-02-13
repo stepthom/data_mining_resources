@@ -293,8 +293,8 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/). Sep 2016.
 - [A Simple Starter Guide to Build a Neural Network](https://www.kdnuggets.com/2018/02/simple-starter-guide-build-neural-network.html)
 - [Deep Learning: Which Loss and Activation Functions should I use?](https://medium.com/@srnghn/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8)
-- [Creating an Artificial Neural Network from Scratch in R
-](https://github.com/leonjessen/neural-network-from-scratch-in-R). GitHub tutorial.
+- [Creating an Artificial Neural Network from Scratch in R](https://github.com/leonjessen/neural-network-from-scratch-in-R). GitHub tutorial.
+- [MIT Deep Learning Basics: Introduction and Overview with TensorFlow](https://medium.com/tensorflow/mit-deep-learning-basics-introduction-and-overview-with-tensorflow-355bcd26baf0) Feb 2019.
 
 #### Naive Bayes
 
@@ -353,6 +353,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Data Mining for Predictive Social Network Analysis – Brazil Elections Case Study](https://www.kdnuggets.com/2015/11/data-mining-predictive-social-network-analysis.html) Nov 2015.
 - [The Star Wars social networks – who is the central character?](https://www.kdnuggets.com/2015/12/star-wars-social-network-who-is-central-character.html) Dec 2015.
 - [GRAKN.AI: Example Projects](http://dev.grakn.ai/docs/examples/projects.html)
+- [Visual network analysis with Gephi](https://medium.com/@AKMunk/visual-network-analysis-with-gephi-d6241127a336)
 
 #### Reinforcement Learning
 
