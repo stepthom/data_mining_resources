@@ -335,6 +335,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Predicting movie ratings and recommender systems](http://arek-paterek.com/predict.pdf)
 - [How does Netflix recommend movies? Matrix Factorization](https://www.youtube.com/watch?v=ZspR5PZemcs&feature=youtu.be)
 - [A survey of food recommenders](https://arxiv.org/abs/1809.02862)
+- [Recommenders galore](https://github.com/Microsoft/Recommenders)
 
 
 #### RFM Analysis
