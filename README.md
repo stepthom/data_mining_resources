@@ -176,6 +176,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Visualizing Incomplete and Missing Data](https://flowingdata.com/2018/01/30/visualizing-incomplete-and-missing-data/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_167) Jan 2018.
 - [Data Visualization Cheat Sheet](https://www.kdnuggets.com/2018/08/data-visualization-cheatsheet.html)
 - [Data-Driving Storytelling](https://www.readcube.com/articles/10.1201/9781315281575?shared_access_token=jNTaYvqfeqV2qwa5sUfovMvVM4Hs7mp6nzCJVzl2VoWGQrCbyQjauwd2RYb7hH61JBIbDhBHWgYFxZKHDulB9SaAw1a5aQ_jHb5Eg8Ll74Ae8RvAx6swxvf5s39QHLuU)
+- [Visual Vocabulary - Vega Edition](https://gramener.github.io/visual-vocabulary-vega/)
 
 #### Data Engineering
 
