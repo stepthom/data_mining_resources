@@ -23,6 +23,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Math for Machine Learning: Open Doors to Data Science and Artificial Intelligence](https://www.amazon.com/Math-Machine-Learning-Artificial-Intelligence/dp/172282381X/)
 - [Advances in Financial Machine Learning](https://www.wiley.com/en-ca/Advances+in+Financial+Machine+Learning-p-9781119482086) ([YouTube overview](https://www.youtube.com/watch?v=MP-jMMOgdjQ))
 - [Seeing Theory - A visual introduction to probability and statistics](https://seeing-theory.brown.edu/index.html)
+- [Interpretable Machine Learning. A Guide for Making Black Box Models Explainable.](https://christophm.github.io/interpretable-ml-book/)
 
 # Podcasts
 
