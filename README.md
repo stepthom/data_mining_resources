@@ -56,6 +56,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 #### AI
 
+- [Artificial Intelligence—A Game Changer for Climate Change and the Environment](https://blogs.ei.columbia.edu/2018/06/05/artificial-intelligence-climate-environment/)
 - [AI, For Real](https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence). HBR. July 2017.
 - [A list of artificial intelligence tools you can use today — for personal use](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 - [A list of artificial intelligence tools you can use today — for businesses](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-businesses-2-3-eea3ac374835)
