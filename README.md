@@ -615,4 +615,5 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Fairness in Machine Learning](http://mrtz.org/nips17/#/) NIPS 2017 tutorial.
 - [The Product Possibilities of Interpretability](http://blog.fastforwardlabs.com/2017/09/28/the-product-possibilities-of-interpretability.html)
 - [When an AI finally kills someone, who will be responsible?](https://www.technologyreview.com/s/610459/when-an-ai-finally-kills-someone-who-will-be-responsible/)
+- [Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://www.nature.com/articles/s42256-019-0048-x)
 
