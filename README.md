@@ -432,6 +432,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Top 15 Python Libraries for Data Science in 2017](http://www.kdnuggets.com/2017/06/top-15-python-libraries-data-science.html)
 - [6 Reasons Why Python Is Suddenly Super Popular](http://www.kdnuggets.com/2017/07/6-reasons-python-suddenly-super-popular.html)
 - [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy)
+- [A landscape diagram for Python data](https://community.ibm.com/community/user/datascience/blogs/paco-nathan/2019/03/12/a-landscape-diagram-for-python-data). March 2019.
 
 
 #### SQL Resources
