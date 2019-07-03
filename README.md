@@ -431,6 +431,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Python Seaborn Cheat Sheet For Statistical Data Visualization](https://www.datacamp.com/community/blog/seaborn-cheat-sheet-python#gs.4q=om68) Aug 2017.
 - [Top 15 Python Libraries for Data Science in 2017](http://www.kdnuggets.com/2017/06/top-15-python-libraries-data-science.html)
 - [6 Reasons Why Python Is Suddenly Super Popular](http://www.kdnuggets.com/2017/07/6-reasons-python-suddenly-super-popular.html)
+- [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy)
 
 
 #### SQL Resources
