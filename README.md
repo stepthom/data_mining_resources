@@ -37,6 +37,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 
 ## Overviews of Data Analytics
 
+- [44 Noteworthy Big Data Statistics in 2019](https://learn.g2.com/big-data-statistics)
 - [The 4 Types of Data Analytics](http://www.kdnuggets.com/2017/07/4-types-data-analytics.html)
 - [What Are Artificial Intelligence, Machine Learning, and Deep Learning?](http://www.kdnuggets.com/2017/07/rapidminer-ai-machine-learning-deep-learning.html)
 - [Machine Learning "What I really do" panel](http://i.imgur.com/Rbn2any.png)
