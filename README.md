@@ -341,6 +341,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [How does Netflix recommend movies? Matrix Factorization](https://www.youtube.com/watch?v=ZspR5PZemcs&feature=youtu.be)
 - [A survey of food recommenders](https://arxiv.org/abs/1809.02862)
 - [Recommenders galore](https://github.com/Microsoft/Recommenders)
+- [Simulacra And Selection](https://multithreaded.stitchfix.com/blog/2019/07/09/simulacra-and-selection)
 
 
 #### RFM Analysis
