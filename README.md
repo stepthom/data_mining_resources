@@ -189,9 +189,9 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 
 - [The Ultimate Guide to Basic Data Cleaning](http://www.kdnuggets.com/2017/08/socialcops-ultimate-guide-basic-data-cleaning.html)
 - [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
-
 - [Reducing Dimensionality from Dimensionality Reduction Techniques](https://medium.com/towards-data-science/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe). July 2017.
 - [Your Data is Being Manipulated](https://points.datasociety.net/your-data-is-being-manipulated-a7e31a83577b)
+- [Dealing with categorical features in machine learning](https://www.kdnuggets.com/2019/07/categorical-features-machine-learning.html)
 
 #### Imbalanced Data
 
@@ -608,6 +608,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Ethical Data Practices](https://datapractices.org/)
 - [Big Companies Are Embracing Analytics, But Most Still Don’t Have a Data-Driven Culture](https://hbr.org/2018/02/big-companies-are-embracing-analytics-but-most-still-dont-have-a-data-driven-culture)
 - [Data Science and Machine Learning Interview Questions](https://towardsdatascience.com/data-science-and-machine-learning-interview-questions-3f6207cf040b)
+- [How to Build Disruptive Data Science Teams: 10 Best Practices](https://www.kdnuggets.com/2019/07/disruptive-data-science-teams-best-practices.html)
 
 ## Misc
 
