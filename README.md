@@ -203,6 +203,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Understanding Feature Engineering (Part 1) — Continuous Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b). Jan 2018.
 - [Intro to Feature Engineering with TensorFlow - Machine Learning Recipes #9](https://www.youtube.com/watch?v=d12ra3b_M-0) Google Developers.
 - [Feature Hashing (a.k.a. The Hashing Trick) With R](http://amunategui.github.io/feature-hashing/)
+- [About Feature Scaling and Normalization – and the effect of standardization for machine learning algorithms](https://sebastianraschka.com/Articles/2014_about_feature_scaling.html#about-standardization)
 
 
 
