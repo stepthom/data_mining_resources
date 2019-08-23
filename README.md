@@ -600,6 +600,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Wikipedia: List of datasets for ML research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
 - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 - [Data Commons](https://datacommons.org/)
+- [Recommender Systems Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
 
 ## Career and Industry
 
