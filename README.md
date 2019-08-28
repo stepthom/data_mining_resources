@@ -277,6 +277,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [The `caret` package](https://topepo.github.io/caret/)
 - [How Decision Trees Work](https://brohrer.github.io/how_decision_trees_work.html)
 - [Awesome Decision Tree Research Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
+- [Understanding Decision Trees for Classification in Python](https://www.kdnuggets.com/2019/08/understanding-decision-trees-classification-python.html)
 
  
 #### Neural Networks and Deep Learning
