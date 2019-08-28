@@ -123,6 +123,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [The NFL’s Brewing Information War](https://theringer.com/nfl-information-war-data-advanced-stats-73b6eee2d39f#.413ia8rdt)
 - [TED: The math behind basketball's wildest moves](https://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves#t-582970)
 - [AI in sports](https://www.techemergence.com/artificial-intelligence-in-sports/)
+- [NBA Data Analytics: Changing the Game](https://towardsdatascience.com/nba-data-analytics-changing-the-game-a9ad59d1f116)
 
 
 #### Predictive Maintenance
