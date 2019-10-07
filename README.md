@@ -13,6 +13,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Big Data](#big-data)
 - [Courses](#courses)
 - [Datasets](#datasets)
+- [Software Engineering for Data Science](#software-engineering-for-data-science)
 - [Misc](#misc)
 
 ## Books
@@ -614,6 +615,14 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Big Companies Are Embracing Analytics, But Most Still Don’t Have a Data-Driven Culture](https://hbr.org/2018/02/big-companies-are-embracing-analytics-but-most-still-dont-have-a-data-driven-culture)
 - [Data Science and Machine Learning Interview Questions](https://towardsdatascience.com/data-science-and-machine-learning-interview-questions-3f6207cf040b)
 - [How to Build Disruptive Data Science Teams: 10 Best Practices](https://www.kdnuggets.com/2019/07/disruptive-data-science-teams-best-practices.html)
+
+## Software Engineering for Data Science
+
+- [Software development best practices in a deep learning environment](https://towardsdatascience.com/software-development-best-practices-in-a-deep-learning-environment-a1769e9859b1). April 2019.
+- [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf). [Blog commentary on this paper](https://blog.acolyer.org/2019/07/08/software-engineering-for-machine-learning/).
+- [Machine Learning Software Engineering: Top Five Best Practices](https://www.lorienpratt.com/machine-learning-software-engineering-top-five-best-practices/)
+- [Best Practices in Machine Learning Infrastructure](https://blog.algorithmia.com/best-practices-in-machine-learning-infrastructure). July 2019.
+- [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
 ## Misc
 
