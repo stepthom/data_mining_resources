@@ -4,8 +4,8 @@ A curated list of resources for learning about data mining, data analytics, mach
 ## Table of Contents
 
 - [Overviews of Data Analytics](#overviews-of-data-analytics)
-- [Podcasts](#Podcasts)
 - [Books](#books)
+- [Podcasts](#Podcasts)
 - [Case Studies, Use Cases, Blogs, Papers](#case-studies-use-cases-blogs-papers)
 - [Data Analytics Process](#data-analytics-process)
 - [Models and Algorithms](#models-and-algorithms)
@@ -16,7 +16,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Software Engineering for Data Science](#software-engineering-for-data-science)
 - [Misc](#misc)
 
-## Books
+# Books
 
 - [Deep Learning - The Straight Dope](http://gluon.mxnet.io/#)
 - [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html)
@@ -25,6 +25,12 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Advances in Financial Machine Learning](https://www.wiley.com/en-ca/Advances+in+Financial+Machine+Learning-p-9781119482086) ([YouTube overview](https://www.youtube.com/watch?v=MP-jMMOgdjQ))
 - [Seeing Theory - A visual introduction to probability and statistics](https://seeing-theory.brown.edu/index.html)
 - [Interpretable Machine Learning. A Guide for Making Black Box Models Explainable.](https://christophm.github.io/interpretable-ml-book/)
+
+## Popular Press Books
+
+- [Rebooting AI: Building Artificial Intelligence We Can Trust](https://www.amazon.com/Rebooting-AI-Building-Artificial-Intelligence-ebook/dp/B07MYLGQLB). Gary Marcus. 2019. [Commentary by Matt Turck.](https://mattturck.com/marcus) 
+- [The AI Advantage: How to Put the Artificial Intelligence Revolution to Work (Management on the Cutting Edge)](https://www.amazon.com/Advantage-Artificial-Intelligence-Revolution-Management/dp/0262039176). Thomas H. Davenport. 2018.
+- [Applied Artificial Intelligence: A Handbook For Business Leaders](https://www.amazon.com/Applied-Artificial-Intelligence-Handbook-Business/dp/0998289027). Mariya Yao. 2018.
 
 # Podcasts
 
