@@ -372,6 +372,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [The Star Wars social networks – who is the central character?](https://www.kdnuggets.com/2015/12/star-wars-social-network-who-is-central-character.html) Dec 2015.
 - [GRAKN.AI: Example Projects](http://dev.grakn.ai/docs/examples/projects.html)
 - [Visual network analysis with Gephi](https://medium.com/@AKMunk/visual-network-analysis-with-gephi-d6241127a336)
+- [Network science reveals the secrets of the world’s best soccer team](https://www.technologyreview.com/s/614440/network-science-reveals-the-secrets-of-the-worlds-best-soccer-team)
 
 #### Reinforcement Learning
 
