@@ -452,6 +452,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 
 #### SQL Resources
 
+- [SQL Murder Mystery](https://github.com/NUKnightLab/sql-mysteries/blob/master/prompt_beginner.pdf)
 - [DataCamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
 - [DataCamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
 - [SW Carpentry: Databases and SQL](https://github.com/swcarpentry/sql-novice-survey)
