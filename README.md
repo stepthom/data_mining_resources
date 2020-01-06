@@ -59,6 +59,7 @@ A curated list of resources for learning about data mining, data analytics, mach
 - [Jason's Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g183f28bdc3_0_90)
 - [Getting Value from Machine Learning Isn’t About Fancier Algorithms — It’s About Making It Easier to Use](https://hbr.org/2018/03/getting-value-from-machine-learning-isnt-about-fancier-algorithms-its-about-making-it-easier-to-use)
 - [ML Resources](https://sgfin.github.io/learning-resources/)
+- [Over 150 of the Best Machine Learning, NLP, and Python Tutorials I’ve Found](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78#hn)
 
 
 
