@@ -1,7 +1,7 @@
 # Uncle Steve's Big List of Analytics and AI Resources
 A curated list of :sparkles: awesome :sparkles: resources for learning about data analytics, machine learning, artificial intelligence, and big data.
 
-## Table of Contents
+# Table of Contents
 
 - [Books](#books)
 - [Podcasts](#podcasts)
@@ -14,7 +14,6 @@ A curated list of :sparkles: awesome :sparkles: resources for learning about dat
 - [Big Data](#big-data)
 - [Courses](#courses)
 - [Datasets](#datasets)
-- [Software Engineering for Data Science](#software-engineering-for-data-science)
 - [Misc](#misc)
 
 # Books
@@ -267,6 +266,11 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 
 - [Putting ML in Production](https://madewithml.com/courses/putting-ml-in-production)
 - [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php?fbclid=IwAR1VwwV25Mgj93UiWbclzvsBEVHJ1D0uB8BflN7YEL9ktNZG-Y2-upRH9RA)
+- [Software development best practices in a deep learning environment](https://towardsdatascience.com/software-development-best-practices-in-a-deep-learning-environment-a1769e9859b1). April 2019.
+- [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf). [Blog commentary on this paper](https://blog.acolyer.org/2019/07/08/software-engineering-for-machine-learning/).
+- [Machine Learning Software Engineering: Top Five Best Practices](https://www.lorienpratt.com/machine-learning-software-engineering-top-five-best-practices/)
+- [Best Practices in Machine Learning Infrastructure](https://blog.algorithmia.com/best-practices-in-machine-learning-infrastructure). July 2019.
+- [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
 
 #### Misc
@@ -606,9 +610,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Blog: MapReduce Questions and Answers](http://meri-stuff.blogspot.ca/2011/10/mapreduce-questions-and-answers.html)
 
 
-	
-
-## Courses
+# Courses
 - [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 - [CMU: Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
 - [CMU: Introduction to Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/)
@@ -625,7 +627,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
   - [Machine Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)
   - [Marketing Management: Analytics, Frameworks, and Applications](https://ocw.mit.edu/courses/sloan-school-of-management/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/)
 
-## Datasets
+# Datasets
 
 - [UCI](https://archive.ics.uci.edu/ml/datasets.html)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
@@ -642,7 +644,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Data Commons](https://datacommons.org/)
 - [Recommender Systems Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
 
-## Career and Industry
+# Career and Industry
 
 - [The State of Data Science and Machine Learning, 2017 Survery](https://www.kaggle.com/surveys/2017)
 - [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/). Dec 31, 2017. WildML.
@@ -653,15 +655,8 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Data Science and Machine Learning Interview Questions](https://towardsdatascience.com/data-science-and-machine-learning-interview-questions-3f6207cf040b)
 - [How to Build Disruptive Data Science Teams: 10 Best Practices](https://www.kdnuggets.com/2019/07/disruptive-data-science-teams-best-practices.html)
 
-## Software Engineering for Data Science
 
-- [Software development best practices in a deep learning environment](https://towardsdatascience.com/software-development-best-practices-in-a-deep-learning-environment-a1769e9859b1). April 2019.
-- [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf). [Blog commentary on this paper](https://blog.acolyer.org/2019/07/08/software-engineering-for-machine-learning/).
-- [Machine Learning Software Engineering: Top Five Best Practices](https://www.lorienpratt.com/machine-learning-software-engineering-top-five-best-practices/)
-- [Best Practices in Machine Learning Infrastructure](https://blog.algorithmia.com/best-practices-in-machine-learning-infrastructure). July 2019.
-- [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
-
-## Misc
+# Misc
 
 - [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)
 - [DataCamp: Intro to data.world in Python](https://www.datacamp.com/community/open-courses/intro-to-dataworld-in-python#gs.U5ShDVo)
