@@ -401,6 +401,10 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Implementing Logistic Regression using Titanic dataset in R](https://analyticsdefined.com/implementing-logistic-regression-using-titanic-dataset-r/)
 
 
+#### Production
+
+- [https://madewithml.com/courses/putting-ml-in-production/](https://madewithml.com/courses/putting-ml-in-production)
+
 ## APIs, Libraries, Tools
 
 - [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial) July 2017.
