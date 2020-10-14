@@ -1,11 +1,11 @@
-# Data Mining, Data Analytics, Machine Learning, Artificial Intelligence, and Big Data Resources
-A curated list of resources for learning about data mining, data analytics, machine learning, artificial intelligence, and big data.
+# Uncle Steve's Big List of Analytics and AI Resources
+A curated list of :sparkles: awesome :sparkles: resources for learning about data analytics, machine learning, artificial intelligence, and big data.
 
 ## Table of Contents
 
 - [Overviews of Data Analytics](#overviews-of-data-analytics)
 - [Books](#books)
-- [Podcasts](#Podcasts)
+- [Podcasts](#podcasts)
 - [Case Studies, Use Cases, Blogs, Papers](#case-studies-use-cases-blogs-papers)
 - [Data Analytics Process](#data-analytics-process)
 - [Models and Algorithms](#models-and-algorithms)
