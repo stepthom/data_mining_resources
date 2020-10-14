@@ -49,6 +49,7 @@ A curated list of :sparkles: awesome :sparkles: resources for learning about dat
 - [Data Science Weekly](https://www.datascienceweekly.org/)
 - [AAAI Alert](https://aitopics.org/class/AI-Alerts)
 - [Medium Weekly Digest](https://medium.com/)
+- [TOPBOTS](https://www.topbots.com/enterprise-ai-news-pro-newsletter)
 
 # Overviews 
 
