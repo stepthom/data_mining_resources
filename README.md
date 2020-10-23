@@ -207,6 +207,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 
 #### Data Cleaning
 
+- [How to Perform Data Cleaning for Machine Learning with Python](https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/). March 2020.
 - [The Ultimate Guide to Basic Data Cleaning](http://www.kdnuggets.com/2017/08/socialcops-ultimate-guide-basic-data-cleaning.html)
 - [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
 - [Reducing Dimensionality from Dimensionality Reduction Techniques](https://medium.com/towards-data-science/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe). July 2017.
