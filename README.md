@@ -656,7 +656,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Big Companies Are Embracing Analytics, But Most Still Don’t Have a Data-Driven Culture](https://hbr.org/2018/02/big-companies-are-embracing-analytics-but-most-still-dont-have-a-data-driven-culture)
 - [Data Science and Machine Learning Interview Questions](https://towardsdatascience.com/data-science-and-machine-learning-interview-questions-3f6207cf040b)
 - [How to Build Disruptive Data Science Teams: 10 Best Practices](https://www.kdnuggets.com/2019/07/disruptive-data-science-teams-best-practices.html)
-
+- [NLP Interview Questions](https://www.topbots.com/nlp-interview-questions/)
 
 # Misc
 
