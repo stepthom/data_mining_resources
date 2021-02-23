@@ -25,6 +25,12 @@ A curated list of :sparkles: awesome :sparkles: resources for learning about dat
 - [Advances in Financial Machine Learning](https://www.wiley.com/en-ca/Advances+in+Financial+Machine+Learning-p-9781119482086) ([YouTube overview](https://www.youtube.com/watch?v=MP-jMMOgdjQ))
 - [Seeing Theory - A visual introduction to probability and statistics](https://seeing-theory.brown.edu/index.html)
 - [Interpretable Machine Learning. A Guide for Making Black Box Models Explainable.](https://christophm.github.io/interpretable-ml-book/)
+- [Introduction to Data Mining](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)
+- [Data Science from Scratch](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
+- [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
+- [Learning to Love Data Science](https://www.oreilly.com/library/view/learning-to-love/9781491936573/)
+- [Doing Data Science](https://www.oreilly.com/library/view/doing-data-science/9781449363871/)
+- [Data Mining](https://www.cs.waikato.ac.nz/ml/weka/book.html)
 
 ## Popular Press Books
 
